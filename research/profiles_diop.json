@@ -1,0 +1,85 @@
+[
+ {
+  "batchIndex": 0,
+  "data": {
+   "players": [
+    {
+     "name": "Issa Diop",
+     "nationalTeam": "Morocco",
+     "position": "DEF",
+     "age": 29,
+     "birthCity": "Toulouse",
+     "birthCountry": "France",
+     "birthLatLng": [
+      43.6045,
+      1.4442
+     ],
+     "club": "Fulham",
+     "league": "Premier League",
+     "clubCity": "London",
+     "clubCountry": "England",
+     "clubLatLng": [
+      51.4749,
+      -0.2217
+     ],
+     "knownFor": "Towering 6ft 5in Fulham centre-back whose 91st-minute header against the Netherlands saved Morocco's World Cup.",
+     "watchBecause": "On July 9 in Foxborough he faces France, the country he represented at every youth level and won the 2016 U19 Euros with, four months after switching to Morocco.",
+     "storylines": [
+      "His first ever international goal was a stoppage-time header in the 91st minute against the Netherlands in the round of 32, forcing extra time before Morocco won the shootout 3-2. He was named Man of the Match with 3 interceptions, 7 clearances and a perfect aerial-duel record.",
+      "Morocco legend Mustapha Hadji flew to London and asked him about his Moroccan mother to win him over. FIFA approved his switch from France on March 26, 2026, and barely three months later he is a knockout-round hero. Born in Toulouse to a Senegalese father, he could have picked three countries.",
+      "He made only 13 Premier League appearances for Fulham this season, yet he has started 4 of Morocco's 5 World Cup games (rested only against Haiti) and kept clean sheets in the wins over Scotland and Canada."
+     ],
+     "stats": {
+      "matchesPlayed": 4,
+      "goals": 1,
+      "assists": null,
+      "cleanSheets": 2
+     },
+     "squadStatus": "starter",
+     "confidenceNotes": "Allegiance switch fully verified: France youth international (U16-U21, 2016 U19 Euro winner), never senior-capped by France; first Morocco call-up March 19, 2026, FIFA approved switch March 26, 2026. Tournament stats derived from verified match lineups (Wikipedia Group C page cross-checked with ESPN, Al Jazeera, FIFA match reports): started vs Brazil 1-1, Scotland 1-0, Netherlands 1-1 (won 3-2 pens, scored 90+1), Canada 3-0; did not appear vs Haiti. Clean sheets counted only for matches he played (Scotland, Canada). Assists set to null because no source explicitly reports an assist tally for him this tournament. Wikipedia lists 8 total Morocco caps, 1 goal as of July 4, 2026. Age 29 (born January 9, 1997)."
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Issa_Diop_(footballer)",
+    "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_Group_C",
+    "https://www.aljazeera.com/sports/2026/6/30/morocco-netherlands-world-cup-knockout-penalty-shootout-saibari-diop-gakpo",
+    "https://www.aljazeera.com/sports/2026/3/28/diop-debut-for-morocco-adds-latest-twist-in-senegal-post-afcon-battle",
+    "https://www.espn.com/soccer/match/_/gameId/760502/morocco-canada",
+    "https://www.bostonglobe.com/2026/07/04/sports/world-cup-foxborough-quarterfinals-matchup-france-morocco/",
+    "https://africasoccer.com/world-cup-2026-mustapha-hadji-reveals-he-convinced-issa-diop-to-switch-allegiance-to-morocco/",
+    "https://uk.sports.yahoo.com/news/issa-diop-meet-premier-league-221607143.html",
+    "https://www.foxsports.com/watch/fmc-bfdihjjvz5jrfw9z",
+    "https://en.yabiladi.com/articles/details/197723/2026-world-issa-diop-named.html",
+    "https://www.cnn.com/2026/07/04/sport/round-of-16-canada-morocco-paraguay-france",
+    "https://www.fifa.com/en/match-centre/match/17/285023/289288/400021530"
+   ]
+  },
+  "verification": {
+   "verdict": "minor-issues",
+   "discrepancies": [
+    {
+     "what": "Storyline 2 implies Mustapha Hadji's London meeting was part of the 2026 recruitment; Hadji actually met Diop while Diop played for West Ham United (2018-2022), years before the FIFA switch",
+     "severity": "note",
+     "foundValue": "Storyline juxtaposes the Hadji meeting with the March 26, 2026 FIFA approval, implying recency",
+     "correctedValue": "Hadji met Diop in London during Diop's West Ham years (pre-2022), asking about his Moroccan mother; the formal switch only completed in early 2026",
+     "evidence": "africasoccer.com and elbotola.com interviews: Hadji 'personally approached Diop while the defender was playing for West Ham United' and 'met him in London'"
+    },
+    {
+     "what": "'Flew to London' detail in storyline 2 is not supported by any source",
+     "severity": "unconfirmed",
+     "foundValue": "Morocco legend Mustapha Hadji flew to London",
+     "correctedValue": "Sources only say Hadji 'met him in London' (and met his family and friends); no source states he flew there",
+     "evidence": "africasoccer.com: article states Hadji 'met him in London' but does not confirm travel"
+    },
+    {
+     "what": "watchBecause says the France quarterfinal comes 'four months after switching to Morocco'; March 26 to July 9 is about 3.5 months",
+     "severity": "note",
+     "foundValue": "four months after switching",
+     "correctedValue": "roughly three and a half months (FIFA approval March 26, 2026; quarterfinal July 9, 2026); storyline 3's own 'barely three months' phrasing is closer",
+     "evidence": "Wikipedia: FIFA approved switch March 26, 2026; Boston Globe/Sky: Morocco vs France QF July 9, 2026, Foxborough"
+    }
+   ],
+   "notes": "Every checkable value verified fresh (July 5, 2026). Diop IS a genuine Morocco international at this World Cup: France youth (U16-U21, 2016 U19 Euro winner, scored in the final), never senior-capped by France; first Morocco call-up March 19, 2026, FIFA switch approved March 26, 2026 (Wikipedia + Al Jazeera + africasoccer). Age 29 (born Jan 9, 1997, Toulouse), height 1.96m/6ft5, Fulham CB with 13 PL apps in 2025-26, Senegalese-origin father + Moroccan mother (three-country eligibility) all confirmed. Netherlands R32 (June 29, Monterrey): Gakpo 72', Diop headed equalizer at 90+1 from Talbi cross (first international goal), 1-1 AET, Morocco won shootout 3-2 with Saibari converting the decisive kick; Diop official Man of the Match with exactly 3 interceptions, 7 clearances, 100% aerial duels (Morocco World News/Dailysports/Yabiladi). Tournament ledger confirmed from lineups: started Brazil 1-1 (Jun 13), Scotland 1-0 (Jun 19), Netherlands, Canada 0-3 (Jul 4, Houston, Ounahi x2 + Rahimi); did NOT appear vs Haiti 4-2 (Jun 24, Halhal replaced him) \u2014 so matchesPlayed 4, goals 1, cleanSheets 2 (Scotland, Canada), squadStatus starter all correct; Wikipedia lists 8 caps 1 goal. QF vs France July 9 at Gillette Stadium, Foxborough confirmed (France beat Paraguay 1-0, Mbappe penalty); 2022 semifinal rematch. Coordinates for Toulouse and Craven Cottage are accurate. Only issues found: the Hadji meeting happened in Diop's West Ham era (not 2026) and 'flew to London' is unsourced, plus the minor 'four months' rounding. No numeric field in the JSON requires correction."
+  }
+ }
+]

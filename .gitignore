@@ -1,0 +1,5 @@
+photos/*.raw
+photos/*.jpg
+photos/test.*
+__pycache__/
+.DS_Store

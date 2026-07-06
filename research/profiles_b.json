@@ -1,0 +1,420 @@
+[
+ {
+  "batchIndex": 0,
+  "data": {
+   "players": [
+    {
+     "name": "Eloy Room",
+     "nationalTeam": "Cura\u00e7ao",
+     "position": "GK",
+     "age": 37,
+     "birthCity": "Nijmegen",
+     "birthCountry": "Netherlands",
+     "birthLatLng": [
+      51.84,
+      5.85
+     ],
+     "club": "Miami FC",
+     "clubCity": "Miami",
+     "clubCountry": "United States",
+     "clubLatLng": [
+      25.77,
+      -80.19
+     ],
+     "league": "USL Championship",
+     "knownFor": "The 37-year-old journeyman keeper whose record-tying 16-save shutout of Ecuador won the smallest World Cup nation ever its first point.",
+     "watchBecause": "He left as the tournament's saves leader with 20, and his Ecuador masterclass is the group stage's defining highlight reel even though Cura\u00e7ao are already out.",
+     "storylines": [
+      "His 0-0 against Ecuador on June 20 was absurd: 16 saves, tying Tim Howard's single-match record from 2014, with his 15 in regulation a new mark for 90 World Cup minutes. It earned Cura\u00e7ao, population about 158,000 and the smallest country ever at a World Cup, its first ever point, and made him the first Cura\u00e7aoan named Player of the Match at a World Cup.",
+      "The tournament bookends tell the story: a 7-1 hammering by Germany in the opener, the Ecuador heroics five days later, then a 2-0 loss to Ivory Coast. He still tops the saves chart with 20 despite playing only three games.",
+      "At 37 he is a true journeyman: a Vitesse academy product from Nijmegen who won MLS Cup with Columbus Crew in 2020, then signed with second-tier Miami FC in December 2025, which makes out-dueling World Cup attackers from the USL Championship even more improbable."
+     ],
+     "stats": {
+      "saves": 20,
+      "cleanSheets": 1,
+      "goalsConceded": 9,
+      "matchesPlayed": 3,
+      "goals": null,
+      "assists": null,
+      "shots": null
+     },
+     "squadStatus": "eliminated in group stage",
+     "confidenceNotes": "Birthplace: Wikipedia and profile sites say Nijmegen (consistent with his SCE Nijmegen and NEC Nijmegen youth career); some databases have historically listed Nieuwegein. Saves total of 20 uses the Goalkeeper Magazine/Squawka convention supplied as verified context; the Ecuador match was initially logged as 15 saves before a stat correction credited a 16th (CBS Sports). His 2025-26 club is Miami FC of the calendar-year 2026 USL Championship season, signed 12 December 2025; he was at Cercle Brugge earlier in 2025."
+    },
+    {
+     "name": "Orlando Gill",
+     "nationalTeam": "Paraguay",
+     "position": "GK",
+     "age": 26,
+     "birthCity": "San Lorenzo",
+     "birthCountry": "Paraguay",
+     "birthLatLng": [
+      -25.34,
+      -57.51
+     ],
+     "club": "San Lorenzo de Almagro",
+     "clubCity": "Buenos Aires",
+     "clubCountry": "Argentina",
+     "clubLatLng": [
+      -34.6,
+      -58.38
+     ],
+     "league": "Argentine Primera Divisi\u00f3n",
+     "knownFor": "The 6ft 6in late bloomer who saved two penalties to hand Germany their first ever loss to Paraguay and became a national hero overnight.",
+     "watchBecause": "Even in elimination he was the breakout keeper of the knockouts: 19 tournament saves and Man of the Match honors in the 1-0 round of 16 loss to France on July 4.",
+     "storylines": [
+      "On June 29 in Foxborough he made six saves through 120 minutes of a 1-1 game, then saved Kai Havertz's opening penalty and stopped Nick Woltemade in the 4-3 shootout win. It was the first time Paraguay had ever beaten Germany, and it sent the four-time champions home in the round of 32.",
+      "He only debuted for Paraguay in September 2025 in a friendly against Peru, yet started all five matches at this World Cup, kept clean sheets against Turkey and Australia to sneak through as a best third-place team, and went out with Man of the Match in the France defeat.",
+      "Early in his career, when his son Lautaro was born with serious health complications, he sold jerseys, boots and nearly everything from his football life to cover the medical bills. He moved from hometown club San Lorenzo in Paraguay to Argentina's San Lorenzo de Almagro in January 2024, where he is contracted through December 2027."
+     ],
+     "stats": {
+      "saves": 19,
+      "cleanSheets": 2,
+      "goalsConceded": 6,
+      "matchesPlayed": 5,
+      "goals": null,
+      "assists": null,
+      "shots": null
+     },
+     "squadStatus": "eliminated in round of 16 by France",
+     "confidenceNotes": "DOB (11 June 2000) and birthplace (San Lorenzo, Paraguay) agree across Wikipedia and Bolavip. Goals conceded (6) and clean sheets (2) are computed from verified match scores (USA 4-1, Turkey 0-1, Paraguay 0-0 Australia, Germany 1-1 aet, France 1-0), not from an official stat page. One Wikipedia summary dated the France loss July 5 and claimed 7 matches; the verified context (July 4) and the match ledger (5 matches) contradict both, so those were rejected. Saves total of 19 uses the supplied Goalkeeper Magazine/Squawka convention."
+    },
+    {
+     "name": "Diogo Costa",
+     "nationalTeam": "Portugal",
+     "position": "GK",
+     "age": 26,
+     "birthCity": "Rothrist",
+     "birthCountry": "Switzerland",
+     "birthLatLng": [
+      47.3,
+      7.89
+     ],
+     "club": "FC Porto",
+     "clubCity": "Porto",
+     "clubCountry": "Portugal",
+     "clubLatLng": [
+      41.15,
+      -8.61
+     ],
+     "league": "Primeira Liga",
+     "knownFor": "Porto's Swiss-born No. 1 and Portugal's penalty-killing wall, the keeper who stopped three straight shootout kicks at Euro 2024.",
+     "watchBecause": "Portugal face Spain in Arlington on July 6 and Spain have not conceded all tournament, so an Iberian derby that goes the distance likely comes down to Costa, whose specialty is exactly that.",
+     "storylines": [
+      "Portugal have been scraping through and Costa is the reason: a six-save Man of the Match shutout in the 0-0 with Colombia to close the group, then five more saves in the 2-1 stoppage-time escape against Croatia in Toronto in the round of 32.",
+      "Monday against Spain is a rematch of last summer's Nations League final, which Portugal won on penalties after a 2-2 draw. Shootouts are Costa's signature: he saved three in a row against Slovenia at Euro 2024, and Spain arrive unbeaten without conceding a goal.",
+      "An Aston Villa move collapsed in August 2025 and he answered by signing a new Porto contract to 2030 that December, so every big save here doubles as a reminder of why he was Porto's most coveted asset."
+     ],
+     "stats": {
+      "saves": null,
+      "cleanSheets": 2,
+      "goalsConceded": 2,
+      "matchesPlayed": 4,
+      "goals": null,
+      "assists": null,
+      "shots": null
+     },
+     "squadStatus": "alive",
+     "confidenceNotes": "Tournament saves total set to null because sources conflict: matchbingo.co.uk lists 10 saves alongside an impossible 6 matches/540 minutes, while per-match reports alone give 6 vs Colombia (Sofascore) plus 5 vs Croatia (OneFootball); no total under the Squawka convention could be verified. Clean sheets (Uzbekistan 5-0, Colombia 0-0) and goals conceded (1 vs DR Congo, 1 vs Croatia) computed from verified scores; assumes he played all four Portugal matches, directly confirmed for Colombia and Croatia and supported by reports calling him the primary keeper throughout. A Wikipedia fetch returned DOB 19 September 1999 while most databases list 13 September 1999; age is 26 either way. Group finale vs Colombia dated June 27 (Group K page) or June 28 (player page) depending on source."
+    }
+   ],
+   "sources": [
+    "https://www.cbssports.com/soccer/news/curacao-goalkeeper-eloy-room-epic-performance-world-cup-ecuador/",
+    "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/room-unbeatable-curacao-ecuador-reaction",
+    "https://sports.yahoo.com/soccer/article/2026-world-cup-eloy-rooms-15-save-masterclass-helps-curacao-stun-ecuador-in-0-0-draw-020003395.html",
+    "https://en.wikipedia.org/wiki/Eloy_Room",
+    "https://www.miamifc.com/news/2025/12/12/miami-fc-signs-curacao-national-team-goalkeeper-eloy-room/",
+    "https://www.espn.com/soccer/match/_/gameId/760422/curacao-germany",
+    "https://en.wikipedia.org/wiki/Orlando_Gill",
+    "https://bolavip.com/en/world-cup/orlando-gill-profile",
+    "https://www.beinsports.com/en-us/soccer/fifa-world-cup-2026/articles/the-emotional-story-behind-orlando-gill-paraguay-s-hero-in-the-penalty-shootout-against-germany-2026-07-02",
+    "https://sports.yahoo.com/soccer/article/2026-world-cup-paraguay-upsets-germany-in-penalties-thanks-to-orlando-gill-and-a-controversial-foul-call-233154875.html",
+    "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_Group_D",
+    "https://en.wikipedia.org/wiki/Diogo_Costa",
+    "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_Group_K",
+    "https://onefootball.com/en/news/diogo-costa-saves-portugal-again-against-croatia-shines-at-2026-world-cup-43090575",
+    "https://www.sofascore.com/news/diogo-costa-shines-against-colombia-6-saves-and-a-cleen-sheet-in-the-last-game-of-group-k",
+    "https://www.matchbingo.co.uk/world-cup-2026/portugal/diogo-costa",
+    "https://www.squawka.com/us/news/world-cup/match-preview-portugal-vs-spain-07-06-26-world-cup-2026-round-of-16/",
+    "https://www.racingpost.com/sport/football-tips/world-cup-2026/portugal-vs-spain-world-cup-prediction-team-news-odds-betting-tips-and-bet-builder-aQaQA8A381e9/",
+    "https://www.espn.com/soccer/story/_/id/49266158/fifa-world-cup-2026-portugal-vs-spain-tv-channel-how-watch-kickoff-live-stream-referee-predicted-lineups"
+   ]
+  },
+  "verification": {
+   "verdict": "minor-issues",
+   "discrepancies": [
+    {
+     "what": "Eloy Room storyline: Ecuador heroics described as 'five days later' after the Germany opener",
+     "severity": "fix",
+     "foundValue": "five days later",
+     "correctedValue": "six days later (Germany 7-1 on June 14 at Houston Stadium; Ecuador 0-0 on June 20 at Kansas City Stadium)",
+     "evidence": "ESPN match pages: Germany 7-1 Curacao dated Jun 14, 2026 (espn.com gameId 760422) and Ecuador 0-0 Curacao dated Jun 20, 2026 (espn.com gameId 760446); FIFA match centre confirms both dates"
+    },
+    {
+     "what": "Orlando Gill storyline: September 2025 Paraguay debut vs Peru called 'a friendly'",
+     "severity": "fix",
+     "foundValue": "friendly against Peru",
+     "correctedValue": "2026 FIFA World Cup qualification match (1-0 win over Peru, 6 September 2025)",
+     "evidence": "Wikipedia (Orlando Gill): 'debuted with the senior Paraguay national team for a 1-0 2026 FIFA World Cup qualification win over Peru national team on 6 September 2025'; Asuncion Times also frames the debut as during World Cup qualifying"
+    },
+    {
+     "what": "Diogo Costa confidenceNotes claim that 'most databases list 13 September 1999' as his DOB",
+     "severity": "fix",
+     "foundValue": "most databases list 13 September 1999",
+     "correctedValue": "19 September 1999 is the DOB listed by both Wikipedia and Transfermarkt; no source found listing 13 September (age 26 is correct either way)",
+     "evidence": "Transfermarkt player profile 357153 and en.wikipedia.org/wiki/Diogo_Costa both give 19 September 1999, Rothrist, Switzerland"
+    },
+    {
+     "what": "Diogo Costa: date of Portugal's group finale vs Colombia left ambiguous (June 27 vs June 28)",
+     "severity": "note",
+     "foundValue": "June 27 (Group K page) or June 28 (player page)",
+     "correctedValue": "June 27, 2026",
+     "evidence": "Wikipedia 2026 FIFA World Cup Group K results list 'Colombia 0, Portugal 0 (June 27)' and the group window ran June 17-27; the June 28 date on the player page is an error"
+    },
+    {
+     "what": "Orlando Gill tournament stats conflict on aggregator matchbingo.co.uk (23 saves, 0 clean sheets, height 1.90m) vs profile values",
+     "severity": "note",
+     "foundValue": "matchbingo: 23 saves, 0 clean sheets, 1.90m",
+     "correctedValue": "Profile values stand: clean sheets 2 is verified by match scores (Turkey 0-1, Paraguay 0-0 Australia); saves 19 follows the supplied Goalkeeper Magazine/Squawka convention; height 6ft 6in (1.98m) per Bolavip. Matchbingo is internally unreliable (its 0 clean sheets is impossible given verified scores), though its 5 appearances and 6 goals conceded match",
+     "evidence": "Bolavip profile: '6 ft 6 in tall (1.98 m)', started all three group matches plus both knockout games, back-to-back clean sheets vs Turkiye and Australia; FIFA/ESPN scores confirm goals conceded 4+0+0+1+1=6"
+    },
+    {
+     "what": "Orlando Gill Wikipedia page errors (7 appearances; France loss dated July 5) that the profile correctly rejected",
+     "severity": "note",
+     "foundValue": "Wikipedia: 7 total appearances, France match July 5",
+     "correctedValue": "5 matches; France 0-1 loss on July 4, 2026 in Philadelphia \u2014 profile is correct",
+     "evidence": "ESPN (Paraguay 0-1 France, Jul 4, 2026, gameId 760503), FIFA match centre, and Al Jazeera liveblog dated 2026/7/4 all confirm July 4; Paraguay played exactly 5 tournament matches (3 group + R32 + R16), making 7 appearances impossible"
+    },
+    {
+     "what": "Diogo Costa matchesPlayed=4 rests on an assumption he played the Uzbekistan match (5-0, June 23); direct lineup confirmation found only for DR Congo, Colombia and Croatia",
+     "severity": "note",
+     "foundValue": "4 matches (assumed)",
+     "correctedValue": null,
+     "evidence": "Searches confirm Costa started vs DR Congo (Man of the Match mention), Colombia (6 saves, MOTM per Sofascore) and Croatia (5 saves per OneFootball); all coverage treats him as Portugal's undisputed No. 1 throughout, and no source names another Portugal keeper appearing, but the Uzbekistan start was not independently confirmed"
+    },
+    {
+     "what": "Eloy Room's club league (Miami FC, USL Championship) \u2014 flagged for extra scrutiny because Miami FC had moved to USL League One in 2025, but 2026 sources confirm USL Championship",
+     "severity": "note",
+     "foundValue": "USL Championship (as in profile)",
+     "correctedValue": null,
+     "evidence": "uslchampionship.com news articles 'Miami FC signs Curacao international Eloy Room' (ahead of the 2026 USL Championship season) and 'Curacao Calls up Miami FC's Eloy Room, Jurgen Locadia for 2026 FIFA World Cup' confirm Miami FC competes in the 2026 USL Championship; profile value is correct"
+    }
+   ],
+   "notes": "All core structured fields verified correct across all three players: names, national teams, positions, ages (Room 37 b.6 Feb 1989; Gill 26 b.11 Jun 2000; Costa 26 b.19 Sep 1999), birthplaces (Nijmegen NL; San Lorenzo PY; Rothrist CH), clubs/leagues (Miami FC/USL Championship; San Lorenzo de Almagro/Argentine Primera; Porto/Primeira Liga), squad statuses (Room out in groups; Gill out in R16 to France Jul 4; Costa alive, plays Spain Jul 6 at AT&T Stadium Arlington), and all stat counts. Room: 3 matches, 9 conceded (7-1 Germany Jun 14, 0-0 Ecuador Jun 20, 0-2 Ivory Coast Jun 25), 1 clean sheet; 16-save correction (CBS/FIFA), Howard record tie, first-Curacaoan POTM, 158k smallest nation, Miami signing 12 Dec 2025, Columbus MLS Cup 2020 all confirmed. Gill: 5 matches, 6 conceded, 2 clean sheets; Gillette Stadium Foxborough Jun 29, 1-1 aet, 4-3 pens with Havertz and Woltemade saves, first-ever Paraguay win over Germany, France MOTM, son Lautaro Daniel jersey-selling story, Jan 2024 move, Dec 2027 contract all confirmed. Costa: 4 matches, 2 conceded (DR Congo 1-1, Croatia 2-1 Toronto), 2 clean sheets (Uzbekistan 5-0, Colombia 0-0 Jun 27); Porto contract to 2030 (Dec 2025), collapsed Aug 2025 Villa move, Euro 2024 Slovenia shootout, 2025 Nations League final rematch (2-2, Portugal on pens), Spain unbeaten without conceding all confirmed. Saves totals (Room 20, Gill 19) taken from the supplied verified leaderboard context; Costa's null saves total remains appropriate as no reliable convention total was found. Only three prose-level fixes were needed; no field values in the structured stats require changes.",
+   "sources": [
+    "https://www.espn.com/soccer/story/_/id/49131334/curacao-goalkeeper-eloy-room-tim-howard-world-cup-save-record",
+    "https://www.cbssports.com/soccer/news/curacao-goalkeeper-eloy-room-epic-performance-world-cup-ecuador/",
+    "https://www.foxnews.com/sports/curacao-goalie-makes-15-saves-squad-picks-first-world-cup-point",
+    "https://en.wikipedia.org/wiki/Eloy_Room",
+    "https://www.uslchampionship.com/news_article/show/1351607",
+    "https://www.uslchampionship.com/news_article/show/1361408",
+    "https://frontofficesports.com/curacaos-world-cup-goalie-eloy-room-puts-spotlight-on-the-usl/",
+    "https://www.espn.com/soccer/match/_/gameId/760422/curacao-germany",
+    "https://www.espn.com/soccer/match/_/gameId/760446/curacao-ecuador",
+    "https://www.espn.com/soccer/match/_/gameId/760473/ivory-coast-curacao",
+    "https://www.fifa.com/en/match-centre/match/17/285023/289273/400021468",
+    "https://en.wikipedia.org/wiki/Orlando_Gill",
+    "https://bolavip.com/en/world-cup/orlando-gill-profile",
+    "https://www.matchbingo.co.uk/world-cup-2026/paraguay/orlando-gill",
+    "https://asunciontimes.com/people/sporting-legends/world-cup-hero-orlando-gill-the-keeper-who-gave-up-everything-for-his-family/",
+    "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_Group_D",
+    "https://www.espn.com/soccer/story/_/id/49123488/us-clinches-group-d-10-man-paraguay-edges-turkey",
+    "https://www.skysports.com/football/news/17251/13558815/world-cup-2026-germany-1-1-paraguay-3-4-on-penalties-four-time-winners-dumped-out-in-stunning-last-32-exit",
+    "https://www.espn.com/soccer/story/_/id/49220268/germany-dumped-world-cup-paraguay-penalties",
+    "https://www.espn.com/soccer/match/_/gameId/760489/paraguay-germany",
+    "https://www.nbcnews.com/sports/soccer/paraguay-upsets-germany-2026-world-cup-jose-canale-penalty-kick-seals-rcna352336",
+    "https://www.espn.com/soccer/match/_/gameId/760503/france-paraguay",
+    "https://www.aljazeera.com/sports/2026/7/4/mbappe-draws-level-with-messi-as-france-beat-paraguay-to-set-up-morocco-tie",
+    "https://theanalyst.com/articles/paraguay-vs-france-stats-world-cup-2026-last-16",
+    "https://en.wikipedia.org/wiki/Diogo_Costa",
+    "https://www.transfermarkt.us/diogo-costa/profil/spieler/357153",
+    "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_Group_K",
+    "https://onefootball.com/en/news/diogo-costa-saves-portugal-again-against-croatia-shines-at-2026-world-cup-43090575",
+    "https://www.npr.org/2026/07/03/nx-s1-5880386/croatia-portugal-chaotic-minutes",
+    "https://www.sportsmole.co.uk/football/portugal/world-cup-2026/preview/portugal-vs-spain-prediction-team-news-lineups_600650.html",
+    "https://www.squawka.com/us/news/world-cup/match-preview-portugal-vs-spain-07-06-26-world-cup-2026-round-of-16/",
+    "https://seatgeek.com/fifa-world-cup-tickets/international-soccer/2026-07-06-2-pm/17385149"
+   ]
+  }
+ },
+ {
+  "batchIndex": 1,
+  "data": {
+   "players": [
+    {
+     "name": "Achraf Hakimi",
+     "nationalTeam": "Morocco",
+     "position": "DEF",
+     "age": 27,
+     "birthCity": "Madrid",
+     "birthCountry": "Spain",
+     "birthLatLng": [
+      40.4168,
+      -3.7038
+     ],
+     "club": "Paris Saint-Germain",
+     "clubCity": "Paris",
+     "clubCountry": "France",
+     "clubLatLng": [
+      48.8566,
+      2.3522
+     ],
+     "league": "Ligue 1",
+     "knownFor": "The most decorated African footballer in history, a Morocco captain and PSG right back who attacks like a winger.",
+     "watchBecause": "He leads Morocco into a July 9 quarterfinal against France at Gillette Stadium, a rematch of the 2022 semifinal where he shadowed Kylian Mbappe.",
+     "storylines": [
+      "He is the engine of Morocco's second straight quarterfinal run: his free kick set up Azzedine Ounahi's opener in the 3-0 round of 16 win over Canada in Houston on July 4, and in the group stage he scored his first ever World Cup goal in the 4-2 win over Haiti and took Man of the Match. As of July 5 he sits second in the entire tournament in chances created (15), absurd numbers for a right back.",
+      "The Netherlands round of 32 game was pure theatre: he broke clean through and hit the bar in his 100th cap for Morocco, then rattled the post with his own penalty in the shootout, and his teammates bailed him out 3-2 anyway. Earlier, against Scotland, he passed Omam-Biyik and Asamoah Gyan to become the African player with the most World Cup appearances ever.",
+      "He arrives off the season of his life: Ligue 1 and a third Champions League with PSG (won on penalties over Arsenal), sixth in the 2025 Ballon d'Or, the highest finish ever for a Moroccan, and 2025 African Player of the Year. Born in Madrid, he chose Morocco, and Thursday he gets another shot at the France side that ended Morocco's historic 2022 run, with Mbappe fresh off winning France's round of 16 tie with a penalty."
+     ],
+     "stats": {
+      "matchesPlayed": 5,
+      "goals": 1,
+      "assists": 2,
+      "shots": null,
+      "saves": null,
+      "cleanSheets": null,
+      "goalsConceded": null
+     },
+     "squadStatus": "alive",
+     "confidenceNotes": "Total tournament shots unverifiable (one June source had him at 5 shots on target through the group stage only), so shots is null. Assist total of 2 is built from the two individually verified assists (Haiti, Canada); Wikipedia notes the Canada assist was his third career World Cup assist. The Netherlands match is dated June 29 by ESPN and FIFA but June 30 by one outlet; I used June 29. Chances-created figure (15, 2nd overall) is Planet Football as of July 5 and may differ by data provider."
+    },
+    {
+     "name": "Mohamed Salah",
+     "nationalTeam": "Egypt",
+     "position": "FWD",
+     "age": 34,
+     "birthCity": "Nagrig",
+     "birthCountry": "Egypt",
+     "birthLatLng": [
+      30.96,
+      30.87
+     ],
+     "club": "Liverpool",
+     "clubCity": "Liverpool",
+     "clubCountry": "England",
+     "clubLatLng": [
+      53.4084,
+      -2.9916
+     ],
+     "league": "Premier League",
+     "knownFor": "Egypt's captain and all-time great, the Premier League's defining winger of his era, now playing his final games as a Liverpool player.",
+     "watchBecause": "He meets Lionel Messi's Argentina on July 7 in Atlanta with a quarterfinal place on the line, days after playing 120 minutes on a barely healed hamstring.",
+     "storylines": [
+      "On July 3 he played all 120 minutes against Australia on a hamstring he strained only a week earlier, then buried a Panenka in the 4-2 shootout win. That was Egypt's first ever World Cup knockout win and their first trip to the last 16 in 92 years, and he broke down in tears afterward.",
+      "July 7 in Atlanta is the duel everyone circled: Salah versus Messi. Asked which legend he most wanted to face, he answered 'Messi' without hesitation. His group stage already delivered: an assist against Belgium in Seattle on his 34th birthday, then a goal and assist against New Zealand that made him Egypt's all-time World Cup scorer and sealed the country's first ever World Cup win.",
+      "This is his farewell summer: Liverpool announced on March 24 that he leaves after nine years, less than a year after signing a new deal, following a season that soured (Reuters reported in December that he accused the club of throwing him under the bus). His next club is still unannounced, with Saudi Pro League and European offers reported, so every World Cup match doubles as a global shop window."
+     ],
+     "stats": {
+      "matchesPlayed": 4,
+      "goals": 1,
+      "assists": 2,
+      "shots": null,
+      "saves": null,
+      "cleanSheets": null,
+      "goalsConceded": null
+     },
+     "squadStatus": "alive; recovered from a hamstring strain suffered 57 minutes into the June 26 Iran match, started and completed 120 minutes vs Australia on July 3, expected fit to face Argentina",
+     "confidenceNotes": "Shots total unverifiable, so null. Chances-created conflict: ESPN (around July 3) said he led the tournament with 16, tied with Trossard, while Planet Football as of July 5 lists him at 11, tied 6th; likely different data providers, so I kept it out of stats. His shootout Panenka vs Australia is not counted as a goal. His exact 2025-26 Liverpool goal totals were not verifiable in searches. Next club unannounced as of July 5, 2026. New Zealand match dated June 21 by one source and June 22 by Al Jazeera."
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Achraf_Hakimi",
+    "https://en.wikipedia.org/wiki/Mohamed_Salah",
+    "https://www.espn.com/espn/story/_/id/49034272/morocco-fifa-world-cup-run-define-achraf-hakimi-legacy",
+    "https://www.espn.com/soccer/story/_/id/49261423/world-cup-history-mohamed-salah-egypt-penalty-shootout-australia",
+    "https://www.espn.com/soccer/story/_/id/49252258/mohamed-salah-recovers-hamstring-egypt-australia",
+    "https://www.espn.com/soccer/match/_/gameId/760488/morocco-netherlands",
+    "https://www.fifa.com/en/match-centre/match/17/285023/289287/400021522",
+    "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/australia-egypt-match-report-highlights",
+    "https://www.skysports.com/football/news/12098/13558810/world-cup-2026-australia-1-1-egypt-2-4-on-penalties-shoot-out-drama-sends-mohamed-salah-and-co-into-last-16",
+    "https://www.aljazeera.com/sports/2026/7/3/egypt-beat-australia-on-penalties-to-win-first-world-cup-knockout-match",
+    "https://www.aljazeera.com/sports/2026/6/22/salah-scores-as-egypt-beat-new-zealand-3-1-for-first-world-cup-win",
+    "https://www.aljazeera.com/sports/2026/3/25/why-is-mohamed-salah-leaving-liverpool-and-which-club-will-he-join-next",
+    "https://www.bostonglobe.com/2026/07/04/sports/world-cup-foxborough-quarterfinals-matchup-france-morocco/",
+    "https://www.thenationalnews.com/sport/world-cup-2026/2026/07/04/egypt-on-high-after-historic-world-cup-win-as-extraordinary-mohamed-salah-leads-way/",
+    "https://www.moroccoworldnews.com/2026/06/326337/achraf-hakimi-reaches-100-appearances-for-morocco-against-netherlands/",
+    "https://www.moroccoworldnews.com/2026/06/323874/2026-world-cup-achraf-hakimi-ismail-saibari-lead-moroccos-statistics/",
+    "https://www.planetfootball.com/stats-tables/2026-world-cup-stats-leaders-goals-assists-chances-created-dribbles",
+    "https://www.skysports.com/football/news/11669/13523995/mohamed-salah-liverpool-forward-to-leave-premier-league-club-at-the-end-of-the-season",
+    "https://www.liverpoolfc.com/news/mohamed-salah-leave-liverpool-end-season",
+    "https://www.101greatgoals.com/football/world-cup-news/netherlands-1-1-morocco-aet-morocco-win-3-2-on-pens-report-goals-stats/",
+    "https://www.tribuneindia.com/news/achraf-hakimi/fifa-world-cup-2026-morocco-government-praises-atlas-lions-for-quarterfinal-berth",
+    "https://www.washingtonpost.com/sports/soccer/2026/07/03/egypt-mohamed-salah-world-cup/f1e625fc-76ff-11f1-b665-5f8be87f3787_story.html"
+   ]
+  },
+  "verification": {
+   "verdict": "minor-issues",
+   "discrepancies": [
+    {
+     "what": "Hakimi storyline says he won 'a third Champions League with PSG' this season. The 2026 title (won on penalties over Arsenal) was PSG's SECOND Champions League, back-to-back after 2024-25. It was Hakimi's third career title only because his first came with Real Madrid in 2017-18.",
+     "severity": "fix",
+     "foundValue": "a third Champions League with PSG",
+     "correctedValue": "his third Champions League overall (2017-18 Real Madrid, 2024-25 PSG, 2025-26 PSG) \u2014 the 2026 win over Arsenal was PSG's second title, making them back-to-back champions",
+     "evidence": "UEFA.com and Olympics.com: 'Paris Saint-Germain retain 2026 UEFA Champions League... back-to-back champions' (final 1-1, PSG 4-3 on pens vs Arsenal, May 30, Budapest); CBS Sports: 'PSG win back-to-back Champions League finals'; Morocco World News: 'Achraf Hakimi's Third Champions League Title Places Him Among Africa's Greats' (first Moroccan with three); Wikipedia Hakimi honours: 2017-18 (Real Madrid), 2024-25, 2025-26 (PSG)."
+    },
+    {
+     "what": "How Hakimi created Ounahi's opener vs Canada: profile says 'his free kick set up' the goal; sources conflict on whether it was a free-kick delivery or an open-play cut-back.",
+     "severity": "note",
+     "foundValue": "free kick set up Azzedine Ounahi's opener",
+     "correctedValue": "Outlook India match report supports the free-kick delivery ('Ounahi took a free kick from Achraf Hakimi... right-footed shot from outside the box, 50th minute'); VAVEL's report instead describes 'a crisp cut-back from Achraf Hakimi'. Hakimi's assist itself is confirmed by both.",
+     "evidence": "Outlook India Canada-vs-Morocco R16 match report (July 4) vs VAVEL USA live report (July 4). Both credit Hakimi with the assist on the 50th-minute opener in the 3-0 win in Houston."
+    },
+    {
+     "what": "Date of the Egypt vs Iran group match in which Salah strained his hamstring: profile's squadStatus says June 26; one outlet says June 27.",
+     "severity": "note",
+     "foundValue": "June 26 Iran match",
+     "correctedValue": "June 26 per ESPN (profile's basis); TNT Sports summary states the Iran match was June 27. Injury at 57 minutes and subsequent recovery for the July 3 Australia match are confirmed either way.",
+     "evidence": "ESPN 'Mohamed Salah recovers from hamstring for Egypt-Australia' (hamstring strain vs Iran, 57 minutes, scans confirmed strain); TNT Sports Salah record page dates the Iran group game June 27."
+    },
+    {
+     "what": "Hakimi's tournament assist total of 2: Wikipedia's Hakimi page currently credits only 1 assist (Haiti, for Saibari) at the 2026 World Cup, while July 4 match reports also credit him the assist on Ounahi's opener vs Canada.",
+     "severity": "note",
+     "foundValue": "assists: 2",
+     "correctedValue": "2 is supported (Saibari vs Haiti per Sports Mole/FIFA report; Ounahi vs Canada per Outlook India and VAVEL), but official/provider counts may lag or differ \u2014 Wikipedia listed 1 as of this check.",
+     "evidence": "Sports Mole Morocco 4-2 Haiti report: 'Hakimi provided a cutback for Saibari who sidefooted home'; Outlook India and VAVEL both credit Hakimi with the Canada opener assist; Wikipedia (fetched July 5) lists 1 assist."
+    },
+    {
+     "what": "Salah 'broke down in tears' after the Australia shootout win \u2014 narrative detail not found in the independent sources I checked (ESPN, France 24, Sky Sports, Sports Mole match reports).",
+     "severity": "unconfirmed",
+     "foundValue": "he broke down in tears afterward",
+     "correctedValue": null,
+     "evidence": "ESPN and France 24 post-match reports confirm the Panenka, the 4-2 shootout win, the 'history' quotes and Egypt's first knockout win, but none of the fresh sources checked mention him crying; the researcher's cited Washington Post/The National pieces were not independently reachable."
+    }
+   ],
+   "notes": "Everything else verified clean against fresh sources. Hakimi: age 27 (b. Nov 4, 1998, Madrid, Spain), PSG/Ligue 1 (PSG also won Ligue 1 2025-26), 5 matches (Brazil, Scotland, Haiti, Netherlands, Canada), 1 goal (39' vs Haiti, his first WC goal, named star/man of the match), African WC appearance record passed vs Scotland (12th app, surpassing Omam-Biyik and Gyan's 11), 100th cap + crossbar in open play + shootout post vs Netherlands (1-1, Morocco 3-2 on pens, Monterrey; ESPN dates it Jun 29, Al Jazeera Jun 30 \u2014 the profile already flags this), chances created 15 = 2nd behind Trossard's 16 (Planet Football, updated July 5), 6th in 2025 Ballon d'Or (highest ever for a Moroccan) and 2025 CAF African Player of the Year, quarterfinal vs France July 9 at Gillette Stadium (rematch of 2022 semifinal; France beat Paraguay 1-0 on a 70' Mbapp\u00e9 penalty July 4). Salah: age 34 (b. Jun 15, 1992, Nagrig, Egypt), still a Liverpool player with departure at season's end announced March 24, 2026 (free transfer, next club unannounced as of July 5; 'thrown under the bus' remarks after the December Leeds 3-3 confirmed), 4 matches, 1 goal, 2 assists (assist for Ashour in 1-1 vs Belgium in Seattle on his 34th birthday \u2014 first African to assist on his birthday at a WC; goal + assist in 3-1 vs New Zealand = Egypt's first-ever WC win and made him Egypt's outright all-time WC scorer with 3, past Fawzi's 2), hamstring strain 57' vs Iran, played all 120' vs Australia July 3 (1-1, 4-2 pens, Panenka \u2014 Egypt's first WC knockout win, first last-16 since debuting in 1934, i.e. 92 years), faces Argentina July 7 at Mercedes-Benz Stadium, Atlanta (12:00 ET). Both squadStatus 'alive' correct. Null stats (shots, saves, etc.) remain appropriately null \u2014 no reliable totals found. The researcher's noted ESPN-vs-Planet Football chances-created conflict for Salah (16 vs 11) is real; PF July 5 has him at 11, tied 6th.",
+   "sources": [
+    "https://www.outlookindia.com/sports/football/canada-vs-morocco-fifa-world-cup-2026-round-of-16-match-report-who-won",
+    "https://www.vavel.com/en-us/soccer/2026/07/04/1265140-canada-vs-morocco-live-score-2026-world-cup.html",
+    "https://www.fifa.com/en/match-centre/match/17/285023/289273/400021452",
+    "https://www.espn.com/soccer/match/_/gameId/760464/haiti-morocco",
+    "https://www.sportsmole.co.uk/football/morocco/world-cup-2026/feature/hakimi-leads-six-goal-group-c-thriller-as-atlas-lions-seal-last-32-spot_600023.html",
+    "https://www.aljazeera.com/sports/2026/6/30/morocco-netherlands-world-cup-knockout-penalty-shootout-saibari-diop-gakpo",
+    "https://www.skysports.com/football/netherlands-vs-morocco/report/549841",
+    "https://www.espn.com/soccer/report/_/gameId/760488",
+    "https://www.moroccoworldnews.com/2026/06/324948/achraf-hakimi-sets-new-world-cup-record-for-african-players/",
+    "https://www.moroccoworldnews.com/2026/05/311897/hakimis-third-champions-league-title-places-him-among-africas-greats/",
+    "https://www.uefa.com/uefachampionsleague/news/02a5-20901454177c-738c0ac757df-1000--paris-win-champions-league-meet-the-2025-26-victors/",
+    "https://www.olympics.com/en/news/football-uefa-mens-champions-league-final-2026-arsenal-psg-results",
+    "https://www.cbssports.com/soccer/news/psg-arsenal-live-updates-champions-league-final-2026-score/live/",
+    "https://en.wikipedia.org/wiki/Achraf_Hakimi",
+    "https://www.planetfootball.com/stats-tables/2026-world-cup-stats-leaders-goals-assists-chances-created-dribbles",
+    "https://www.aljazeera.com/sports/2026/7/4/mbappe-draws-level-with-messi-as-france-beat-paraguay-to-set-up-morocco-tie",
+    "https://www.espn.com/soccer/story/_/id/49271796/kylian-mbappe-penalty-leads-france-paraguay-world-cup-quarterfinals",
+    "https://www.goal.com/en/news/france-morocco-quarterfinal-world-cup-tickets/bltdcfdf639122ee95f",
+    "https://www.france24.com/en/sport/20260703-world-cup-egypt-beat-australia-penalty-shootout-reach-last-16-salah",
+    "https://www.espn.com/soccer/story/_/id/49261423/world-cup-history-mohamed-salah-egypt-penalty-shootout-australia",
+    "https://www.nbcnews.com/sports/soccer/egypt-first-world-cup-win-new-zealand-rcna351107",
+    "https://www.beinsports.com/en-us/soccer/fifa-world-cup-2026/articles/new-zealand-1-3-egypt-salah-scores-in-historic-win-to-gain-control-of-group-g-2026-06-22",
+    "https://www.tntsports.co.uk/football/world-cup/2026/mohamed-salah-egypt-record-goals-appearances-wins-assists_sto23307349/story.shtml",
+    "https://www.liverpoolfc.com/news/mohamed-salah-leave-liverpool-end-season",
+    "https://www.aljazeera.com/sports/2026/3/25/why-is-mohamed-salah-leaving-liverpool-and-which-club-will-he-join-next",
+    "https://www.espn.com/soccer/story/_/id/49252258/mohamed-salah-recovers-hamstring-egypt-australia",
+    "https://www.squawka.com/us/news/world-cup/match-preview-argentina-vs-egypt-07-07-26-world-cup-2026-round-of-16/",
+    "https://worldsoccertalk.com/world-cup/argentina-vs-egypt-date-kickoff-time-and-venue-for-2026-world-cup-round-of-16-clash/",
+    "https://en.wikipedia.org/wiki/Mohamed_Salah",
+    "https://sundayguardianlive.com/sports/fifa-world-cup-2026-what-record-did-mohamed-salah-break-today-watch-egypt-captain-script-football-history-against-belgium-at-seattle-stadium-belgium-207815/"
+   ]
+  }
+ }
+]

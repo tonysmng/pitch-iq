@@ -1,0 +1,1298 @@
+[
+ {
+  "batchIndex": 0,
+  "data": {
+   "players": [
+    {
+     "name": "Kylian Mbapp\u00e9",
+     "nationalTeam": "France",
+     "position": "FWD",
+     "age": 27,
+     "birthCity": "Paris",
+     "birthCountry": "France",
+     "birthLatLng": [
+      48.8566,
+      2.3522
+     ],
+     "club": "Real Madrid",
+     "clubCity": "Madrid",
+     "clubCountry": "Spain",
+     "clubLatLng": [
+      40.4168,
+      -3.7038
+     ],
+     "league": "La Liga",
+     "knownFor": "The fastest and most lethal forward of his generation, a World Cup winner at 19 who is now France's all-time top scorer and captain.",
+     "watchBecause": "He co-leads the Golden Boot with 7 goals and sits one career World Cup goal behind Messi's all-time record of 20, with a France vs Morocco quarterfinal next.",
+     "storylines": [
+      "He has 7 goals in 5 games at this World Cup: braces against Senegal, Iraq and Sweden, then the 70th-minute penalty that beat Paraguay 1-0 in the round of 16 on July 4. That puts him level with Messi and Haaland on 7 for the Golden Boot, and he holds the tiebreaker because he also has 2 assists.",
+      "The bigger chase is history: he passed Klose's 16 career World Cup goals during the group stage and now has 19, one behind Messi's record 20. He is also the first player ever to score 2 or more goals in six different World Cup matches.",
+      "He arrived in form, having won the Pichichi with 25 La Liga goals for Real Madrid and topped the Champions League scoring chart with 15. Next up is Morocco in Boston on July 9, a rematch of the 2022 semifinal France won 2-0."
+     ],
+     "stats": {
+      "matchesPlayed": 5,
+      "goals": 7,
+      "assists": 2,
+      "shots": null
+     },
+     "squadStatus": "alive",
+     "confidenceNotes": "Goals per match verified via FOX Sports goal tracker (updated July 4) and match reports. Assists (2) come from Goal.com's Golden Boot tracker; one is confirmed (feed for Dembele vs Norway), the other not individually sourced. MatchesPlayed=5 is inferred from him featuring in all five France games including Norway (where he assisted but did not score). Wikipedia's career-goal snapshots were internally inconsistent (16 vs 19); the more recent FOX tracker (19 career, Messi 20) was preferred."
+    },
+    {
+     "name": "Michael Olise",
+     "nationalTeam": "France",
+     "position": "FWD",
+     "age": 24,
+     "birthCity": "White City, London",
+     "birthCountry": "England",
+     "birthLatLng": [
+      51.512,
+      -0.2265
+     ],
+     "club": "Bayern Munich",
+     "clubCity": "Munich",
+     "clubCountry": "Germany",
+     "clubLatLng": [
+      48.1351,
+      11.582
+     ],
+     "league": "Bundesliga",
+     "knownFor": "France's languid right-sided playmaker, the reigning Bundesliga Player of the Season who creates more than he scores.",
+     "watchBecause": "He leads the tournament with 5 assists, the best single World Cup tally since Hassler in 1994 and one behind Pele's single-tournament mark, making him a Golden Ball frontrunner.",
+     "storylines": [
+      "He has been France's architect at this World Cup: an assist and Man of the Match on debut in the 3-1 win over Senegal, two more assists against Iraq, then two in the 3-0 round-of-32 win over Sweden. Five assists in four games, with only a bicycle kick off the post keeping him goalless.",
+      "This caps a monster club year: Bundesliga Player of the Season at Bayern with at least 15 goals and 15 assists in the league, a domestic double, and a stoppage-time winner in a 4-3 Champions League quarterfinal against Real Madrid.",
+      "He was born in White City, London and came through Crystal Palace, so England fans watch him run France's attack with mixed feelings. The Morocco quarterfinal on July 9 pits him against clubmates and a 2022 semifinal rematch."
+     ],
+     "stats": {
+      "matchesPlayed": 4,
+      "goals": 0,
+      "assists": 5,
+      "shots": null
+     },
+     "squadStatus": "alive",
+     "confidenceNotes": "He did not feature in the Norway group game, so matchesPlayed=4 (Senegal, Iraq, Sweden, Paraguay, where he picked up a stoppage-time yellow). Assist total of 5 confirmed by multiple sources (Bundesliga.com, Vanguard, ESPN 'one behind Pele'); whether he added an assist vs Paraguay is verified as no (the only goal was a penalty). Shot counts unavailable."
+    },
+    {
+     "name": "Ayyoub Bouaddi",
+     "nationalTeam": "Morocco",
+     "position": "MID",
+     "age": 18,
+     "birthCity": "Senlis",
+     "birthCountry": "France",
+     "birthLatLng": [
+      49.2072,
+      2.5867
+     ],
+     "club": "Lille OSC",
+     "clubCity": "Lille",
+     "clubCountry": "France",
+     "clubLatLng": [
+      50.6292,
+      3.0573
+     ],
+     "league": "Ligue 1",
+     "knownFor": "Lille's teenage midfield metronome, born 2007, who captained France U21 before switching allegiance to Morocco weeks ahead of the World Cup.",
+     "watchBecause": "At 18 he is anchoring the midfield of a Morocco side that just reached the quarterfinals, and his next opponent on July 9 is France, the country he left in May.",
+     "storylines": [
+      "He plays for Morocco, not France, at this World Cup: FIFA approved his one-time allegiance switch on May 15, 2026 (after Deschamps had judged him not yet ready for the senior squad) and Morocco named him in their 26-man squad on May 26.",
+      "He announced himself in the opener, a 1-1 draw with Brazil, finishing with 87 touches, more than any other Moroccan, at 18 years old. He then started the 3-0 round-of-16 win over Canada on July 4 after Morocco survived a penalty shootout against the Netherlands.",
+      "The quarterfinal is France vs Morocco in Boston on July 9, a rematch of the 2022 semifinal, so he faces the federation he grew up in. Meanwhile Arsenal are reportedly working on a transfer, with Lille said to be demanding around 70 million euros."
+     ],
+     "stats": {
+      "matchesPlayed": 4,
+      "goals": 0,
+      "assists": 0,
+      "shots": null
+     },
+     "squadStatus": "alive",
+     "confidenceNotes": "matchesPlayed=4 (322 minutes, 0 goals, 0 assists) comes from a single stats site (matchbingo.co.uk); his starts vs Brazil and vs Canada are independently confirmed, but which one of Morocco's five games he missed could not be verified. Treat 4 apps and the 0/0 line as probable rather than fully cross-checked."
+    },
+    {
+     "name": "Harry Kane",
+     "nationalTeam": "England",
+     "position": "FWD",
+     "age": 32,
+     "birthCity": "Leytonstone, London",
+     "birthCountry": "England",
+     "birthLatLng": [
+      51.568,
+      0.0083
+     ],
+     "club": "Bayern Munich",
+     "clubCity": "Munich",
+     "clubCountry": "Germany",
+     "clubLatLng": [
+      48.1351,
+      11.582
+     ],
+     "league": "Bundesliga",
+     "knownFor": "England's captain and all-time leading scorer, a complete No. 9 who finally became a serial trophy winner at Bayern Munich.",
+     "watchBecause": "He has 5 goals, just passed Lineker as England's all-time World Cup scorer and Pele's career total of 12, and leads England into a round-of-16 clash with Mexico at the Azteca tonight.",
+     "storylines": [
+      "He is carrying England at this World Cup: a first-half brace in the 4-2 win over Croatia, the header against Panama that made him England's all-time World Cup scorer with his 11th, then a late brace to turn a 1-0 deficit into a 2-1 round-of-32 win over DR Congo on July 1. That is 5 goals, two behind the Mbappe-Messi-Haaland trio on 7.",
+      "His 13 career World Cup goals have taken him past Pele's 12 and level with Just Fontaine, remarkable for a player whose trophy drought was the running joke of his career until Bayern.",
+      "He comes off an absurd club season: 61 goals in 51 games for Bayern, a third straight Bundesliga top-scorer crown, and a hat-trick in the DFB-Pokal final to seal the double. Sky Sports reports he is set to sign a new Bayern deal despite Barcelona interest, with his current contract running to 2027.",
+      "Tonight's round-of-16 game vs Mexico at Estadio Azteca (July 5) was delayed an hour by a thunderstorm, and the altitude of Mexico City was flagged before the tournament as England's nightmare draw."
+     ],
+     "stats": {
+      "matchesPlayed": 4,
+      "goals": 5,
+      "assists": null,
+      "shots": null
+     },
+     "squadStatus": "alive",
+     "confidenceNotes": "England's round-of-16 match vs Mexico is being played on July 5 (storm-delayed) and was unresolved at research time, so status is alive as of today. matchesPlayed=4 verified via lineups (started Croatia, Ghana, Panama, DR Congo). Tournament assists could not be verified and are null. Birthplace sources conflict: current Wikipedia and the London Museum say he was born at Whipps Cross Hospital, Leytonstone, while older profiles say Walthamstow (where the family lived); Leytonstone preferred as the more recent, more specific account."
+    }
+   ],
+   "sources": [
+    "https://www.espn.com/soccer/match/_/gameId/760503/france-paraguay",
+    "https://www.foxsports.com/stories/soccer/2026-world-cup-can-kylian-mbappe-break-all-time-goalscoring-record",
+    "https://www.goal.com/en/lists/world-cup-2026-golden-boot-standings-fifa-award/blt29fdba0896b8fd09",
+    "https://www.foxsports.com/stories/soccer/2026-fifa-world-cup-golden-boot-tracker",
+    "https://en.wikipedia.org/wiki/Kylian_Mbapp%C3%A9",
+    "https://www.realmadrid.com/en-US/news/football/first-team/latest-news/mbappe-cierra-el-ano-como-maximo-goleador-de-la-liga-y-de-la-champions-27-12-2025",
+    "https://www.espn.com/soccer/match/_/gameId/760475/france-norway",
+    "https://www.olympics.com/en/news/fifa-world-cup-2026-france-v-norway-mbappe-haaland-battle-golden-boot-live",
+    "https://en.wikipedia.org/wiki/Michael_Olise",
+    "https://www.bundesliga.com/en/bundesliga/news/why-olise-wins-golden-ball-world-cup-26-france-bayern-37746",
+    "https://www.vanguardngr.com/2026/07/full-list-olise-tops-assists-chart-at-2026-world-cup/",
+    "https://www.espn.com/soccer/story/_/id/49230559/fifa-world-cup-2026-stats-kylian-mbappe-tops-lionel-messi-beats-ronaldo-record-michael-olise-pele-erling-haaland-25-mora",
+    "https://www.goal.com/en/lists/france-player-ratings-vs-sweden-michael-olise-kylian-mbappe-world-cup/blt42231a810a7e4c1c",
+    "https://en.wikipedia.org/wiki/Ayyoub_Bouaddi",
+    "https://www.aljazeera.com/sports/2026/6/19/world-cup-who-is-ayyoub-bouaddi-the-french-teenager-playing-for-morocco",
+    "https://www.matchbingo.co.uk/world-cup-2026/morocco/ayyoub-bouaddi",
+    "https://www.goal.com/en/lists/arsenal-morocco-world-cup-ayyoub-bouaddi-lille/bltc681b3f03635c1eb",
+    "https://www.espn.com/soccer/match/_/gameId/760419/morocco-brazil",
+    "https://www.espn.com/soccer/match/_/gameId/760488/morocco-netherlands",
+    "https://www.espn.com/soccer/match/_/gameId/760502/morocco-canada",
+    "https://khelnow.com/football/morocco-starting-lineup-vs-canada-confirmed-fifa-world-cup-2026",
+    "https://worldsoccertalk.com/world-cup/france-vs-morocco-date-kickoff-time-and-venue-for-2026-world-cup-quarterfinals-clash/",
+    "https://en.wikipedia.org/wiki/Harry_Kane",
+    "https://www.olympics.com/en/news/fifa-world-cup2026-harry-kane-england-all-time-top-scorer",
+    "https://www.espn.com/soccer/story/_/id/49237509/harry-kane-breaks-pele-world-cup-goals-record",
+    "https://www.aljazeera.com/sports/2026/7/1/kane-double-fires-england-to-comeback-win-over-dr-congo-at-world-cup-2026",
+    "https://www.skysports.com/football/news/11065/13554961/world-cup-2026-england-0-0-ghana-harry-kane-goes-closest-late-on-as-three-lions-frustrated-in-boston",
+    "https://www.skysports.com/football/news/11095/13559005/harry-kane-transfer-news-england-captain-set-to-sign-new-bayern-munich-deal-despite-barcelona-interest",
+    "https://www.londonmuseum.org.uk/collections/london-stories/harry-kane-the-making-of-englands-number-nine/",
+    "https://sports.yahoo.com/soccer/live/world-cup-2026-bracket-schedule-scores-results-live-updates-round-of-16-130000983.html",
+    "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_Group_C",
+    "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_Group_I",
+    "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_Group_L"
+   ]
+  },
+  "verification": {
+   "discrepancies": [
+    {
+     "what": "Michael Olise stats.matchesPlayed (and the confidence-note claim that he 'did not feature in the Norway group game')",
+     "severity": "fix",
+     "foundValue": "4",
+     "correctedValue": "5",
+     "evidence": "Confirmed official lineups for Norway 1-4 France (Jun 26) list Olise starting in France's front line (covers.com 'Confirmed XIs', Yahoo 'World Cup 2026 official line-ups: Norway vs. France'); match coverage shows Rayan Cherki substituted in FOR Olise at 65', and SI published 'France Player Ratings vs. Norway' including him. He therefore appeared in all five France games (Senegal, Iraq, Norway, Sweden, Paraguay). His 0 goals / 5 assists totals are unaffected (assists came vs Senegal 1, Iraq 2, Sweden 2 per Bundesliga.com/Vanguard/football360)."
+    },
+    {
+     "what": "Harry Kane 2025-26 club-season goal tally in storyline ('61 goals in 51 games for Bayern')",
+     "severity": "fix",
+     "foundValue": "61 goals in 51 games",
+     "correctedValue": "58 goals in all competitions (36 Bundesliga goals in 31 league apps)",
+     "evidence": "fcbayern.com ('Harry Kane crowned Bundesliga top scorer for third year running') and bundesliga.com report 36 Bundesliga goals in 31 appearances and 58 goals in all competitions in 2025-26, lifting his overall Bayern tally to 143 in 146. The 61-goal figure appears only in an unofficial Facebook fan post (plaantik). Wikipedia's 'over 70 goals for Bayern and England combined' is consistent with 58 club goals. Exact all-competition game count could not be confirmed but 51 is not supported by any authoritative source."
+    },
+    {
+     "what": "Ayyoub Bouaddi tournament line: matchesPlayed=4, 0 goals, 0 assists",
+     "severity": "unconfirmed",
+     "foundValue": "4 apps / 0 g / 0 a (single-source: matchbingo.co.uk)",
+     "correctedValue": null,
+     "evidence": "Independently confirmed starts vs Brazil (1-1), vs Netherlands R32 (moroccoworldnews.com 'Morocco Lineup vs Netherlands Confirmed: Bouaddi Starts' \u2014 'returned to the starting lineup', implying he sat out the prior group game) and vs Canada R16 (3-0, Jul 4). That pattern is consistent with 4 of Morocco's 5 games, but no second full stats source (FBref/FotMob/ESPN player page) could be retrieved to confirm 4 apps or the 0/0 line, and which group game he missed remains unverified. Treat as plausible, matching the profile's own caveat."
+    },
+    {
+     "what": "Harry Kane squadStatus 'alive' (England vs Mexico R16)",
+     "severity": "note",
+     "foundValue": "alive",
+     "correctedValue": null,
+     "evidence": "Correct as of research time on July 5: CBS Sports live blog (last update 7:55 p.m. ET) shows the Azteca match had NOT kicked off \u2014 lightning pushed kickoff from 8 p.m. to 9 p.m. ET. Status is accurate now but could flip within hours; downstream consumers should re-check after the match."
+    },
+    {
+     "what": "Mbapp\u00e9 storyline 'first player ever to score 2 or more goals in six different World Cup matches' is stale in count",
+     "severity": "note",
+     "foundValue": "six different World Cup matches",
+     "correctedValue": "record set vs Iraq (6th such match, Jun 22); after his brace vs Sweden he now has SEVEN multi-goal World Cup matches",
+     "evidence": "Cryptobriefing/ESPN confirm he became the first with 2+ goals in six different WC matches vs Iraq; the same profile's own goal ledger (braces vs Senegal, Iraq AND Sweden, plus 2018/2022 multi-goal games) makes the Sweden brace his seventh. The 'first ever' claim remains true; only the count reads stale."
+    }
+   ],
+   "verdict": "minor-issues",
+   "notes": "Everything else verified clean with fresh, mostly researcher-uncited sources. Mbapp\u00e9: age 27, Paris, Real Madrid/La Liga, 7 goals + 2 assists in 5 games (2-assist tiebreaker confirmed by FOX tracker), penalty in the 70' to beat Paraguay 1-0 (Jul 4), career 19 WC goals vs Messi's 20 (NBC News, Olympics.com), Pichichi with 25 (realmadrid.com, Fabrizio Romano), 2025-26 UCL top scorer with 15 in 11 (UEFA.com \u2014 also confirms Real eliminated by Bayern in the QF, matching the Olise storyline). Olise: born White City, London (Wikipedia), age 24, Bayern/Bundesliga, 5 assists leading the tournament / most since 1994 / one behind Pel\u00e9 (Bundesliga.com, football360, ESPN), Bundesliga 15 goals + 19 assists so the 'at least 15 and 15' claim is right (DFL/bundesliga.com; note a Wikipedia snapshot showed 5 league assists but official league sources say 19), 4-3 stoppage-time CL QF winner vs Real (agg 6-4) and domestic double all confirmed. Bouaddi: born Senlis 2007 (age 18), Lille/Ligue 1, FIFA switch approved May 15 2026, named in Morocco's 26-man squad May 26, ex-France U21 captain, Deschamps 'not yet ready' (yabiladi/OneFootball), Brazil 1-1 opener, Netherlands 1-1 (3-2 pens) R32, Canada 0-3 R16 on Jul 4, Arsenal working on a deal with Lille demanding ~EUR 70m (Goal/FOX; newer reports cite EUR 80-100m structures), France QF Jul 9 at Boston Stadium. Kane: born Whipps Cross Hospital, Leytonstone (Wikipedia \u2014 the profile's Leytonstone-over-Walthamstow call is supported), age 32, Bayern/Bundesliga, WC line 5 goals in 4 games (12' pen + 42' vs Croatia 4-2; 0-0 Ghana; header vs Panama = 11th career WC goal passing Lineker; brace to beat DR Congo 2-1 on Jul 1), career 13 WC goals passing Pel\u00e9's 12 and level with Fontaine (ESPN), third straight Bundesliga top-scorer crown, hat-trick (55', 80', 90+2) in the 3-0 DFB-Pokal final win over Stuttgart, contract to 2027 via the Aug 2023 four-year deal. All birth/club coordinates spot-checked and plausible. No player mix-ups, no stale clubs, no phantom squad members found.",
+   "sources": [
+    "https://www.foxsports.com/stories/soccer/2026-fifa-world-cup-golden-boot-tracker",
+    "https://www.nbcnews.com/data-graphics/mbappe-messi-goal-record-fifa-world-cup-2026-scores-race-rcna351571",
+    "https://www.olympics.com/en/news/fifa-world-cup-messi-mbappe-goal-record-klose-football",
+    "https://www.uefa.com/uefachampionsleague/news/029d-1ec1670159ea-2d1882e6a430-1000--champions-league-top-scorer-kylian-mbappe/",
+    "https://www.realmadrid.com/en-US/news/football/first-team/latest-news/mbappe-gana-el-trofeo-pichichi-2025-26-23-05-2026",
+    "https://x.com/FabrizioRomano/status/2058324657321685337",
+    "https://www.aljazeera.com/sports/2026/6/26/dembele-scores-hat-trick-as-france-beat-norway-4-1-at-world-cup-2026",
+    "https://www.covers.com/world-cup/france-vs-norway-starting-lineups-friday-6-26-2026",
+    "https://sports.yahoo.com/articles/world-cup-2026-official-line-180000021.html",
+    "https://www.si.com/soccer/france-player-ratings-vs-norway-6-26-26",
+    "https://en.wikipedia.org/wiki/Michael_Olise",
+    "https://www.bundesliga.com/en/bundesliga/news/player-of-the-month-2025-26-vote-winners-ea-sports-olise-34233",
+    "https://www.dfl.de/en/news/michael-olise-is-the-bundesliga-player-of-the-2025-26-season/",
+    "https://www.uefa.com/uefachampionsleague/news/02a4-2065d3ad61f5-d3ad2c2b1ca9-1000--bayern-munchen-4-3-real-madrid-agg-6-4-highlights-late-goals/",
+    "https://www.aljazeera.com/sports/2026/4/15/bayern-edge-real-madrid-4-3-in-classic-to-reach-champions-league-semifinals",
+    "https://en.wikipedia.org/wiki/Ayyoub_Bouaddi",
+    "https://onefootball.com/fr/news/ex-france-under-21-captain-ayyoub-bouaddi-switches-to-morocco-cleared-to-play-42880599",
+    "https://www.moroccoworldnews.com/2026/06/326327/morocco-lineup-vs-netherlands-confirmed-bouaddi-starts-saibari-leads-attack/",
+    "https://www.skysports.com/football/netherlands-vs-morocco/report/549841",
+    "https://www.fifa.com/en/match-centre/match/17/285023/289288/400021530",
+    "https://www.nbcsports.com/soccer/live/canada-vs-morocco-live-updates-score-goals-highlights-stats-from-2026-fifa-world-cup",
+    "https://www.foxsports.com/stories/soccer/arsenal-working-on-signing-morocco-world-cup-star-ayyoub-bouaddi-as-lille-demand-70m-fee",
+    "https://worldsoccertalk.com/world-cup/france-vs-morocco-date-kickoff-time-and-venue-for-2026-world-cup-quarterfinals-clash/",
+    "https://en.wikipedia.org/wiki/Harry_Kane",
+    "https://fcbayern.com/en/news/2026/05/harry-kane-crowned-bundesliga-top-scorer-for-third-year-running",
+    "https://www.bundesliga.com/en/bundesliga/news/harry-kane-top-scorer-2025-26-third-time-bayern-munich-37407",
+    "https://en.wikipedia.org/wiki/2026_DFB-Pokal_final",
+    "https://www.sportschau.de/fussball/dfbpokal/stuttgart-stark-aber-kane-laesst-die-bayern-jubeln,pokal-finale-bayern-vfb-100.html",
+    "https://www.espn.com/soccer/story/_/id/49243099/fifa-world-cup-2026-stats-harry-kane-joins-lionel-messi-passes-pele-youri-tielemans-goal-latest-ever-usa-4",
+    "https://www.espn.com/soccer/match/_/gameId/760437/croatia-england",
+    "https://theanalyst.com/articles/england-vs-croatia-stats-world-cup-2026",
+    "https://www.cbssports.com/soccer/news/mexico-england-live-updates-world-cup-2026-score-result/live/",
+    "https://www.aljazeera.com/sports/2026/7/5/mexico-vs-england-fifa-world-cup-2026-kane-prediction-kickoff-time-altitude-round-of-16",
+    "https://cryptobriefing.com/mbappe-world-cup-scoring-record/"
+   ]
+  }
+ },
+ {
+  "batchIndex": 1,
+  "data": {
+   "players": [
+    {
+     "name": "Lionel Messi",
+     "nationalTeam": "Argentina",
+     "position": "FWD",
+     "age": 39,
+     "birthCity": "Rosario",
+     "birthCountry": "Argentina",
+     "birthLatLng": [
+      -32.94,
+      -60.64
+     ],
+     "club": "Inter Miami CF",
+     "clubCity": "Miami",
+     "clubCountry": "United States",
+     "clubLatLng": [
+      25.77,
+      -80.19
+     ],
+     "league": "MLS",
+     "knownFor": "The greatest player of his era, 2022 World Cup champion, and now the all-time leading scorer in men's World Cup history.",
+     "watchBecause": "At 39 he leads the Golden Boot race with 7 goals while defending Argentina's title, scoring in every game of what is almost certainly his last World Cup.",
+     "storylines": [
+      "He has scored in all four of Argentina's games here, a hat trick in the 3-0 opener against Algeria, two against Austria, a free kick against Jordan, and the opener against Cape Verde, making him the first player ever to score in 8 consecutive World Cup appearances and pushing his career record to 20 goals.",
+      "Argentina nearly suffered the upset of the tournament in the round of 32: debutants Cape Verde forced extra time before a 111th-minute own goal off a Messi corner won it 3-2. Egypt awaits in the round of 16 on July 7 in Atlanta.",
+      "He is locked in a Golden Boot duel with Kylian Mbappe, both on 7 goals with Mbappe ahead on the assists tiebreaker, and he passed Diego Maradona for World Cup career assists with his 9th against Cape Verde. Back home he is signed with Inter Miami through 2028 on about $28M a year."
+     ],
+     "stats": {
+      "matchesPlayed": 4,
+      "goals": 7,
+      "assists": 1,
+      "shots": null
+     },
+     "squadStatus": "alive (Argentina play Egypt in the round of 16 on July 7)",
+     "confidenceNotes": "Tournament assists = 1 is derived: he was level with Maradona on 8 career assists entering the Cape Verde match and multiple outlets reported his 9th there, while FIFA ruled a would-be second assist in that game an own goal (beIN). No source gave a direct 2026-only assist line. Shot totals not found on accessible stats pages. Age from his June 24, 1987 birthdate (turned 39 during the tournament)."
+    },
+    {
+     "name": "Julian Alvarez",
+     "nationalTeam": "Argentina",
+     "position": "FWD",
+     "age": 26,
+     "birthCity": "Calchin",
+     "birthCountry": "Argentina",
+     "birthLatLng": [
+      -31.62,
+      -63.72
+     ],
+     "club": "Atletico Madrid",
+     "clubCity": "Madrid",
+     "clubCountry": "Spain",
+     "clubLatLng": [
+      40.42,
+      -3.7
+     ],
+     "league": "La Liga",
+     "knownFor": "Relentless two-way striker nicknamed the Spider, a 2022 World Cup winner who scored 4 goals in Qatar including a semifinal brace against Croatia.",
+     "watchBecause": "The 2022 hero is scoreless and stuck behind Lautaro Martinez in Scaloni's pecking order, all while his very public push for a move to Barcelona hangs over him.",
+     "storylines": [
+      "At this World Cup he has 0 goals and 0 assists in 4 appearances with just 1 start (the group finale against Jordan). He arrived managing an ankle issue, and Scaloni has started Lautaro Martinez alongside Messi in every other game, a duo he says he will keep for the knockouts.",
+      "The transfer saga is the loudest club story in Spain: Alvarez publicly said he wants to leave Atletico to 'fulfil his dream', widely understood to be Barcelona, who have personal terms agreed but saw a 100 million euro bid rejected while Atletico point to his 500 million euro release clause.",
+      "His 2025-26 Atletico season was strong (8 goals and 4 assists in La Liga plus a deep Champions League run, converting a penalty against Arsenal in the semifinal first leg), which makes his quiet tournament the sharper contrast with Qatar 2022."
+     ],
+     "stats": {
+      "matchesPlayed": 4,
+      "goals": 0,
+      "assists": 0,
+      "shots": null
+     },
+     "squadStatus": "alive (Argentina play Egypt in the round of 16 on July 7)",
+     "confidenceNotes": "Goals/assists (0/0 in 4 apps, 1 start) from a tournament stats aggregator current through July 3 and consistent with match reports; minute totals conflict between sources (181 vs 200) so treat minutes as approximate. Shot totals not found."
+    },
+    {
+     "name": "Julio Enciso",
+     "nationalTeam": "Paraguay",
+     "position": "FWD",
+     "age": 22,
+     "birthCity": "Caaguazu",
+     "birthCountry": "Paraguay",
+     "birthLatLng": [
+      -25.46,
+      -56.02
+     ],
+     "club": "RC Strasbourg",
+     "clubCity": "Strasbourg",
+     "clubCountry": "France",
+     "clubLatLng": [
+      48.58,
+      7.75
+     ],
+     "league": "Ligue 1",
+     "knownFor": "Fearless Paraguayan attacker and ex-Brighton wonderkid, famous for his long-range stunner against Manchester City and for being the youngest Copa Libertadores scorer this century at 16.",
+     "watchBecause": "He just authored Paraguay's tournament: a hand in all three of their goals, including the header that set up the penalty-shootout upset of Germany, before France ended the run on July 4.",
+     "storylines": [
+      "His 42nd-minute header put Paraguay ahead of Germany in the round of 32 in Foxborough on June 29 (1-1, won 4-3 on penalties), his first World Cup goal and the knockout of the tournament so far. He had already assisted both Paraguay group-stage goals, against the USA and the 1-0 winner over Turkiye, meaning he was involved in every goal Paraguay scored.",
+      "The fairy tale ended on July 4 in Philadelphia, a 1-0 loss to France in the round of 16. Enciso had been subbed off against Germany with a knock but was cleared in time to face France, in Paraguay's first knockout appearance since 2010.",
+      "His club situation is one of football's odder deals: Brighton sold him to Strasbourg on September 1, 2025 in a roughly 20 million euro BlueCo package, and reporting (David Ornstein among others) says the Chelsea ownership group views him as a long-term Chelsea player. He produced 3 goals and 6 assists in Ligue 1 in 2025-26. A month before the tournament he was stretchered off in tears against Nicaragua, so even making the opener was a recovery story."
+     ],
+     "stats": {
+      "matchesPlayed": 5,
+      "goals": 1,
+      "assists": 2,
+      "shots": null
+     },
+     "squadStatus": "eliminated in round of 16 by France (0-1 on July 4)",
+     "confidenceNotes": "5 matches / 5 starts is from one aggregator (through July 4) and slightly clashes with early reports that his June 5 injury threatened the USA opener, but the 2 assists (USA and Turkiye goals) imply he did play the opener, and FIFA's top-assisters list corroborates the 2 assists. His start vs France is supported by lineup reporting plus the aggregator. Some outlets frame the move as Chelsea buying him and parking him at Strasbourg; Brighton's official announcement says he signed for Strasbourg on a four-year deal, so the storyline uses the verified Strasbourg deal with the Chelsea intent attributed to reporting."
+    },
+    {
+     "name": "Gilberto Mora",
+     "nationalTeam": "Mexico",
+     "position": "MID",
+     "age": 17,
+     "birthCity": "Tuxtla Gutierrez",
+     "birthCountry": "Mexico",
+     "birthLatLng": [
+      16.75,
+      -93.12
+     ],
+     "club": "Club Tijuana",
+     "clubCity": "Tijuana",
+     "clubCountry": "Mexico",
+     "clubLatLng": [
+      32.52,
+      -117.04
+     ],
+     "league": "Liga MX",
+     "knownFor": "A 17-year-old attacking midfielder who was scoring in Liga MX at 15 and is the youngest player at this World Cup, a small, press-resistant No. 10 for Tijuana.",
+     "watchBecause": "Hours from now he faces England at the Azteca after becoming the second-youngest player ever to start a World Cup knockout game, behind only 1958 Pele.",
+     "storylines": [
+      "He is the youngest player at this World Cup: he debuted June 11 against South Africa as the youngest Mexican ever to appear at one, then started the 2-0 round-of-32 win over Ecuador at 17 years and 259 days, second-youngest knockout starter in World Cup history after Pele, and was Mexico's standout that night.",
+      "Mexico have been a fortress, winning all four games at home without conceding (2-0 South Africa, 1-0 South Korea, 3-0 Czechia, 2-0 Ecuador), and tonight, July 5, they host England at the 2,240m-altitude Estadio Azteca. Marcus Rashford has publicly praised Mora and English pundits have compared his level to Jude Bellingham's.",
+      "His resume is already absurd: at the 2025 Gold Cup he became the youngest player to win a senior international trophy, beating marks associated with Pele and Lamine Yamal, he wears the 10 for Tijuana where he was the club's youngest-ever debutant, and Arsenal are among the clubs reported to be circling."
+     ],
+     "stats": {
+      "matchesPlayed": 3,
+      "goals": 0,
+      "assists": 0,
+      "shots": null
+     },
+     "squadStatus": "alive (Mexico play England in the round of 16 tonight, July 5, at Estadio Azteca; match not yet played at research time)",
+     "confidenceNotes": "Appearance line (3 of Mexico's 4 matches, 2 starts, 154 minutes, 0 G/0 A, current through July 1) comes from a single aggregator whose own text ambiguously mentions four match squads; which game he sat is unverified. Birthplace Tuxtla Gutierrez, Chiapas is per Wikipedia; he is so identified with Tijuana that some casual profiles imply he was born there, so flagging the single-source risk. ESPN credits him as the youngest-ever Liga MX goalscorer at 15; Wikipedia emphasizes youngest assist provider, so the exact record wording varies by source. Stats will be stale once the England match kicks off."
+    }
+   ],
+   "sources": [
+    "https://www.espn.com/soccer/story/_/id/49263170/argentina-break-cape-verde-hearts-extra-world-cup-lionel-messi-scores",
+    "https://www.pbs.org/newshour/world/lionel-messi-scores-20th-world-cup-goal-extends-streak-to-8-games-and-takes-golden-boot-lead",
+    "https://www.aljazeera.com/sports/2026/7/1/who-is-leading-the-race-for-the-fifa-world-cup-2026-golden-boot-award",
+    "https://www.aljazeera.com/sports/2026/6/22/messi-breaks-world-cups-all-time-scoring-record-with-17th-goal-vs-austria",
+    "https://www.aninews.in/news/sports/football/fifa-world-cup-2026-messi-breaks-maradonas-all-time-world-cup-assist-record-in-argentinas-win-over-cabo-verde20260704081319/",
+    "https://www.beinsports.com/en-us/soccer/fifa-world-cup-2026/articles/the-record-lionel-messi-lost-because-of-a-fifa-decision-against-cape-verde-2026-07-04",
+    "https://www.foxsports.com/stories/soccer/2026-fifa-world-cup-golden-boot-tracker",
+    "https://www.mlssoccer.com/news/lionel-messi-extends-inter-miami-contract-through-2028",
+    "https://bleacherreport.com/articles/25427226-lionel-messis-massive-salary-new-inter-miami-contract-revealed-in-release-of-2026-mls-wages",
+    "https://worldcuplocaltime.com/player/j-alvarez/",
+    "https://www.skysports.com/football/news/11095/13556913/julian-alvarez-atletico-madrid-striker-says-he-wants-to-leave-club-to-fulfil-his-dream",
+    "https://www.beinsports.com/en-us/soccer/fifa-world-cup-2026/articles/the-reason-why-lautaro-mart%C3%ADnez-is-overtaking-juli%C3%A1n-%C3%A1lvarez-for-a-starting-spot-with-argentina-ahead-of-the-2026-fifa-world-cup-2026-06-15",
+    "https://worldsoccertalk.com/world-cup/why-isnt-julian-alvarez-starting-for-argentina-against-cape-verde-at-the-2026-world-cup/",
+    "https://heavy.com/sports/soccer/world-cup/julio-enciso-paraguay-world-cup-goal/",
+    "https://www.espn.com/soccer/story/_/id/49217994/germany-vs-paraguay-live-2026-world-cup-round-32-updates",
+    "https://www.fifa.com/en/articles/top-assisters-at-the-world-cup-2026",
+    "https://worldcuplocaltime.com/player/j-enciso/",
+    "https://www.rotowire.com/soccer/headlines/julio-enciso-injury-cleared-for-france-clash-522092",
+    "https://www.brightonandhovealbion.com/media-article/mft-transfer-news-julio-enciso-strasbourg-september-2025",
+    "https://www.espn.com/soccer/story/_/id/46127868/julio-enciso-joins-blueco-owned-strasbourg-4-year-deal",
+    "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_Group_D",
+    "https://www.aljazeera.com/sports/2026/7/4/fifa-world-cup-round-of-16-match-schedule-which-teams-qualified",
+    "https://en.wikipedia.org/wiki/Gilberto_Mora_(footballer,_born_2008)",
+    "https://www.espn.com/soccer/story/_/id/48999966/mexico-gilberto-mora-poised-world-cup-breakout-star-guy-different",
+    "https://www.beinsports.com/en-us/soccer/fifa-world-cup-2026/articles/gilberto-mora-makes-world-cup-history-only-pel%C3%A9-started-younger-2026-07-02",
+    "https://worldcuplocaltime.com/player/g-mora/",
+    "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_Group_A",
+    "https://www.espn.com/soccer/match/_/gameId/760415/south-africa-mexico",
+    "https://www.aljazeera.com/sports/2026/7/5/mexico-vs-england-fifa-world-cup-2026-kane-prediction-kickoff-time-altitude-round-of-16",
+    "https://dailycannon.com/2026/07/gilberto-mora-arsenal-interest/"
+   ]
+  },
+  "verification": {
+   "discrepancies": [
+    {
+     "what": "Enciso storyline: 'A month before the tournament he was stretchered off in tears against Nicaragua'",
+     "severity": "fix",
+     "foundValue": "a month before the tournament",
+     "correctedValue": "one week before Paraguay's World Cup opener: the Paraguay-Nicaragua friendly at Defensores del Chaco was June 5, 2026, and Paraguay opened vs USA on June 12 (tournament began June 11)",
+     "evidence": "SI.com / Yahoo Sports: 'Paraguay star Julio Enciso injured one week before USMNT World Cup clash' and riotimesonline.com both date the Nicaragua friendly injury (stretchered off in tears, 24th minute) to June 5, 2026. The profile's own confidenceNotes even cite a 'June 5 injury', contradicting the 'a month before' phrasing in the storyline."
+    },
+    {
+     "what": "Messi storyline: 'locked in a Golden Boot duel with Kylian Mbappe, both on 7 goals' is stale as of July 5",
+     "severity": "note",
+     "foundValue": "two-way duel, Messi and Mbappe both on 7 goals",
+     "correctedValue": "three-way tie on 7 goals: Erling Haaland's brace against Brazil pulled him level with Messi and Mbappe (Mbappe still leads on the 2-assist tiebreaker); first World Cup ever with three players on 7+ goals",
+     "evidence": "Yahoo Sports 'World Cup goal leaders: Erling Haaland's brace keeps him in hunt with Kylian Mbappe and Lionel Messi' and Goal.com Golden Boot standings (checked July 5) both list a three-way tie at 7. The rest of the claim (Mbappe ahead on assists, level after his 70th-minute penalty vs Paraguay on July 4) is confirmed by Sky Sports."
+    },
+    {
+     "what": "Enciso storyline detail: 'subbed off against Germany with a knock but was cleared in time to face France'",
+     "severity": "unconfirmed",
+     "foundValue": "subbed off vs Germany with a knock, cleared for France",
+     "correctedValue": null,
+     "evidence": "No independent source found beyond the researcher's own Rotowire citation. His start vs France is consistent with match reporting (Paraguay 0-1 France, July 4, Philadelphia, confirmed by ESPN/Opta), and nothing contradicts the knock, but no second source confirms the substitution/injury detail itself."
+    },
+    {
+     "what": "Mora profile confidence note said which game he sat was unverified \u2014 now resolved (not an error, an upgrade)",
+     "severity": "note",
+     "foundValue": "3 of Mexico's 4 matches, unknown which game he sat",
+     "correctedValue": "He sat the South Korea match: sub debut in the June 11 opener vs South Africa, start vs Czechia in the group finale, start vs Ecuador in the round of 32 (3 apps, 2 starts, 0 G / 0 A confirmed)",
+     "evidence": "FOX Sports: 'Mora hardly featured in Mexico's first two World Cup games... came on as a substitute in the group-stage opener and started the group-stage finale (Czechia)', plus FOX/beIN confirming the Ecuador start at 17 years 259 days (second-youngest knockout starter after Pele's 17y239d)."
+    }
+   ],
+   "verdict": "minor-issues",
+   "notes": "Verification summary (all via fresh searches, July 5, 2026). MESSI: age 39 (b. Jun 24, 1987), Inter Miami/MLS, Rosario \u2014 correct. 7 goals in 4 matches confirmed goal-by-goal: hat trick in 3-0 opener vs Algeria (Jun 16, Kansas City), brace in 2-0 vs Austria (broke Klose's 16-goal record, reaching 18), 80th-minute free kick in 3-1 vs Jordan (Jun 27, as a sub), opener in 3-2 AET vs Cape Verde (20th career WC goal, 8-straight-games scoring streak). 9th career WC assist vs Cape Verde passed Maradona's 8 (tournament assists=1 is a sound derivation). 111th-minute Diney Borges own goal off a Messi corner confirmed. Egypt R16 on July 7 at Mercedes-Benz Stadium, Atlanta confirmed. Contract through 2028, $28.33M guaranteed 2026 MLS compensation confirmed. ALVAREZ: fully correct \u2014 age 26, Calchin, still at Atletico Madrid (transfer NOT completed; publicly asked to leave for 'dream' move, Barcelona \u20ac100m offer stonewalled/rejected, \u20ac500m release clause, Atletico demanding \u20ac150m), 0G/0A in 4 apps with 1 start (vs Jordan; 63rd-minute sub vs Cape Verde = 4th app), Lautaro started all other games, 2025-26 La Liga 8G/4A and the Arsenal CL semifinal first-leg penalty (1-1, Apr 29) all confirmed. ENCISO: age 22, Caaguazu, RC Strasbourg/Ligue 1 correct; permanent Brighton-to-Strasbourg sale announced Sep 1, 2025 (~\u00a316-17m/\u20ac20m incl. add-ons, BlueCo, reported Chelsea end-goal) confirmed; 5 matches/1 goal/2 assists confirmed (assist on Paraguay's 73rd-min consolation in 1-4 USA loss, assist on Galarza's winner in 1-0 vs Turkiye, 42nd-min header vs Germany Jun 29 at Gillette Stadium/Foxborough, 1-1 won 4-3 on pens); 'involved in every Paraguay goal' holds (Paraguay scored exactly 3: USA, Turkiye, Germany; 0-0 vs Australia); eliminated 0-1 by France Jul 4 in Philadelphia (Mbappe 70' pen) confirmed; Ligue 1 3G/6A confirmed; only error is the injury timing phrasing (fix filed). MORA: age 17 (b. Oct 14, 2008), born Tuxtla Gutierrez (NOT Tijuana \u2014 multiple sources confirm the profile got this right), Club Tijuana/Liga MX, youngest player at this WC, youngest Mexican WC appearance (Jun 11 sub vs South Africa, 17y240d, broke Manuel Rosas 1930), 17y259d vs Ecuador second-youngest knockout starter after Pele, youngest Liga MX goalscorer (15y320d, Aug 31, 2024 vs Leon), 2025 Gold Cup youngest senior-trophy winner, Rashford praise before Jul 5 England match at Azteca \u2014 all confirmed. Mexico results 2-0 SAf/1-0 SKor/3-0 Czechia/2-0 Ecuador with zero goals conceded confirmed; England R16 tonight Jul 5 at Azteca confirmed as still upcoming. Preferred fresh sources (NBC, Sky, FOX, Goal, SI, Opta Analyst, FIFA match centre, Bundesliga.com, Brighton & Hove News, Tribuna/FotMob, El Financiero) over the researcher's citations wherever possible.",
+   "sources": [
+    "https://sports.yahoo.com/soccer/article/world-cup-goal-leaders-golden-boot-lionel-messi-erling-haaland-kylian-mbappe-ousmane-dembele-010143798.html",
+    "https://www.goal.com/en/lists/world-cup-2026-golden-boot-standings-fifa-award/blt29fdba0896b8fd09",
+    "https://www.fifa.com/en/match-centre/match/17/285023/289288/400021528",
+    "https://worldsoccertalk.com/world-cup/argentina-vs-egypt-date-kickoff-time-and-venue-for-2026-world-cup-round-of-16-clash/",
+    "https://www.nbcsports.com/soccer/live/argentina-vs-cape-verde-live-updates-score-goals-highlights-stats-2026-fifa-world-cup-july-3",
+    "https://www.pbs.org/newshour/world/lionel-messi-scores-20th-world-cup-goal-extends-streak-to-8-games-and-takes-golden-boot-lead",
+    "https://www.aljazeera.com/sports/2026/6/17/messi-fires-argentina-to-win-against-algeria-in-world-cup-defence-opener",
+    "https://www.espn.com/soccer/story/_/id/49140402/lionel-messi-world-cup-record-goals-miroslav-klose-all",
+    "https://www.skysports.com/football/news/11095/13554960/world-cup-2026-argentina-2-0-austria-lionel-messi-breaks-scoring-record-with-two-goals-to-send-holders-through",
+    "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/jordan-argentina-match-report-highlights",
+    "https://www.wionews.com/sports/fifa-2026-messi-breaks-maradona-s-all-time-world-cup-assist-record-as-argentina-beat-cabo-verde-1783149713080",
+    "https://www.espn.com/soccer/story/_/id/48747094/messi-mls-salary-jumps-283m-inter-miami-dominates-spending",
+    "https://www.aljazeera.com/sports/2026/5/13/messi-doubles-mls-base-salary-to-make-28m-a-year-at-inter-miami",
+    "https://www.fifa.com/en/articles/julian-alvarez-stats-quotes-records",
+    "https://bolavip.com/en/world-cup/why-isnt-julian-alvarez-starting-today-for-argentina-vs-cape-verde-at-the-2026-world-cup",
+    "https://www.espn.com/soccer/story/_/id/49153868/atletico-madrid-ceo-refuses-transfer-julian-alvarez-threatens-fifa-complaint-barcelona",
+    "https://www.forbes.com/sites/tomsanderson/2026/06/29/atletico-madrid-tells-barcelona-final-price-for-buying-alvarez/",
+    "https://tribuna.com/en/persons/julian-alvarez/stat/2025-2026/la-liga/",
+    "https://www.espn.com/soccer/story/_/id/49220268/germany-dumped-world-cup-paraguay-penalties",
+    "https://www.skysports.com/football/news/17251/13558815/world-cup-2026-germany-1-1-paraguay-3-4-on-penalties-four-time-winners-dumped-out-in-stunning-last-32-exit",
+    "https://www.ticketmaster.com/world-cup-round-of-32-germany-foxborough-06-29-2026/event/Z7r9jZ1A74344",
+    "https://www.espn.com/soccer/match/_/gameId/760417/paraguay-united-states",
+    "https://www.ussoccer.com/stories/2026/06/usmnt/folarin-balogun-brace-match-recap-highlights-vs-paraguay",
+    "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/turkiye-paraguay-match-report-highlights",
+    "https://www.espn.com/soccer/match/_/gameId/760469/australia-paraguay",
+    "https://www.espn.com/soccer/match/_/gameId/760503/france-paraguay",
+    "https://theanalyst.com/articles/paraguay-vs-france-stats-world-cup-2026-last-16",
+    "https://www.brightonandhovenews.org/2025/09/01/brighton-and-hove-albion-sell-enciso-to-strasbourg-for-16m/",
+    "https://www.sportsmole.co.uk/football/chelsea/transfer-talk/news/big-interest-chelsea-given-enciso-transfer-update-by-brighton-boss-hurzeler_579721.html",
+    "https://www.livescore.com/en/season-stats/julio-enciso/33595/",
+    "https://www.si.com/soccer/usmnt-first-world-cup-opponent-injury-blow-star-player",
+    "https://www.riotimesonline.com/julio-enciso-paraguay-world-cup-injury-2026/",
+    "https://en.wikipedia.org/wiki/Gilberto_Mora_(footballer,_born_2008)",
+    "https://www.transfermarkt.us/gilberto-mora/profil/spieler/1155723",
+    "https://www.foxsports.com/stories/soccer/mexico-teenager-gilberto-mora-makes-history-start-vs-ecuador",
+    "https://www.foxsports.com/stories/soccer/mexico-teenager-gilberto-mora-impresses-in-first-world-cup-start-and-could-see-role-expand",
+    "https://www.aljazeera.com/news/2026/7/1/mexico-ecuador-fifa-world-cup-2026-score-jimenez-quinones-hincapie",
+    "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_Group_A",
+    "https://bolavip.com/en/world-cup/2026-world-cup-group-a-final-standings-updated-after-czechia-vs-mexico-and-south-africa-vs-south-korea",
+    "https://www.espn.com/soccer/story/_/id/48955103/mexico-gilberto-mora-17-youngest-player-world-cup",
+    "https://www.elfinanciero.com.mx/deportes/mundial-2026/2026/07/04/marcus-rashford-le-da-consejos-a-gilberto-mora-previo-al-mexico-vs-inglaterra/",
+    "https://www.yourbasin.com/sports/ap-england-faces-mexico-at-monster-stadium-where-el-tri-has-yet-to-concede-a-goal-at-this-world-cup/"
+   ]
+  }
+ },
+ {
+  "batchIndex": 2,
+  "data": {
+   "players": [
+    {
+     "name": "Lamine Yamal",
+     "nationalTeam": "Spain",
+     "position": "FWD",
+     "age": 18,
+     "birthCity": "Esplugues de Llobregat",
+     "birthCountry": "Spain",
+     "birthLatLng": [
+      41.3771,
+      2.088
+     ],
+     "club": "FC Barcelona",
+     "clubCity": "Barcelona",
+     "clubCountry": "Spain",
+     "clubLatLng": [
+      41.3874,
+      2.1686
+     ],
+     "league": "La Liga",
+     "knownFor": "Barcelona's teenage right winger, the most electric dribbler of his generation and La Liga's reigning Player of the Season at 18.",
+     "watchBecause": "Fresh off Man of the Match in the 3-0 win over Austria, he leads Spain into a blockbuster round of 16 against Portugal in Dallas on July 6, a week before his 19th birthday.",
+     "storylines": [
+      "He arrived undercooked after an April hamstring tear ended his club season, got only 19 minutes against Cape Verde, then scored ten minutes into his first start against Saudi Arabia. Only Pele in 1958 had opened the scoring in a World Cup match at 18 or younger.",
+      "His minutes have climbed every game (19, 45, 76, 85) and he is posting the highest dribbles per 90 of any player at a World Cup since 1998; Spain rewarded the ramp-up with a Man of the Match award in the round of 32 against Austria.",
+      "He was Barcelona's top scorer in 2025-26 with 24 goals and 17 assists in all competitions and won La Liga Player of the Season, and this Spain squad leans his way: eight Barcelona players and, for the first time in Spain's World Cup history, zero from Real Madrid."
+     ],
+     "stats": {
+      "matchesPlayed": 4,
+      "goals": 1,
+      "assists": 0,
+      "shots": null,
+      "saves": null,
+      "cleanSheets": null,
+      "goalsConceded": null
+     },
+     "squadStatus": "alive",
+     "confidenceNotes": "One Wikipedia group-page summary implied he did not play vs Cape Verde, but Olympics.com and a tournament stats page both confirm a 19-minute sub appearance, so 4 matches / 225 minutes is used. Tournament shot totals were not published anywhere I could verify. He turns 19 on July 13, 2026, so age 18 is as of July 5."
+    },
+    {
+     "name": "Pau Cubarsi",
+     "nationalTeam": "Spain",
+     "position": "DEF",
+     "age": 19,
+     "birthCity": "Bescano (Girona province)",
+     "birthCountry": "Spain",
+     "birthLatLng": [
+      41.9647,
+      2.7369
+     ],
+     "club": "FC Barcelona",
+     "clubCity": "Barcelona",
+     "clubCountry": "Spain",
+     "clubLatLng": [
+      41.3874,
+      2.1686
+     ],
+     "league": "La Liga",
+     "knownFor": "Barcelona's teenage ball-playing centre-back, a La Masia graduate who reads the game like a veteran.",
+     "watchBecause": "He has anchored a Spain defense that has not conceded a single goal in four matches, and Portugal's attack in the July 6 round of 16 is by far the biggest test of that streak.",
+     "storylines": [
+      "The 19-year-old has played every minute of Spain's tournament and Spain has four clean sheets in four games; keeper Unai Simon broke Walter Zenga's 36-year-old record of 517 shutout minutes behind Cubarsi's backline in the 3-0 win over Austria, where Austria mustered just five low-quality shots.",
+      "Opta named him in its 2026 World Cup group-stage Best XI after he went wire to wire against Cape Verde, Saudi Arabia and Uruguay, partnering Aymeric Laporte in the knockouts.",
+      "He is part of an eight-man Barcelona core in a Spain squad that includes no Real Madrid player for the first time ever at a World Cup; his one 2026 blemish came in April, a first-leg red card against Atletico Madrid in the Champions League quarterfinal Barcelona went on to lose."
+     ],
+     "stats": {
+      "matchesPlayed": 4,
+      "goals": 0,
+      "assists": null,
+      "shots": null,
+      "saves": null,
+      "cleanSheets": null,
+      "goalsConceded": null
+     },
+     "squadStatus": "alive",
+     "confidenceNotes": "Goals set to 0 because full scorer lists exist for all four Spain matches and he is not on any of them; no source published his assist count so it is null. Multiple sources confirm he played every minute of the group stage and started vs Austria, but I could not find an exact minutes figure for the Austria match in a stats table. A low-tier site called him a Champions League winner; that is false, Barcelona lost the 2025-26 quarterfinal to Atletico Madrid."
+    },
+    {
+     "name": "Jude Bellingham",
+     "nationalTeam": "England",
+     "position": "MID",
+     "age": 23,
+     "birthCity": "Stourbridge",
+     "birthCountry": "England",
+     "birthLatLng": [
+      52.4569,
+      -2.1487
+     ],
+     "club": "Real Madrid",
+     "clubCity": "Madrid",
+     "clubCountry": "Spain",
+     "clubLatLng": [
+      40.4168,
+      -3.7038
+     ],
+     "league": "La Liga",
+     "knownFor": "Real Madrid's box-crashing complete midfielder and England's talisman since his teens.",
+     "watchBecause": "England's round of 16 against co-hosts Mexico at the Azteca is being played tonight, July 5, after a storm delay, and Bellingham is the engine of a Tuchel side that has looked shaky.",
+     "storylines": [
+      "He scored in the 4-2 opener against Croatia, then added a goal and an assist in the 2-0 win over Panama; in between, the goalless Ghana draw made him the youngest player ever to reach 50 England caps at 22 years and 359 days.",
+      "England needed a late Harry Kane double to survive DR Congo 2-1 in the round of 32 after Bellingham had two headers clawed away by keeper Lionel Mpasi; that scare is why tonight's Mexico game at a rain-soaked Azteca feels bigger than a normal last-16 tie.",
+      "His 2025-26 at Real Madrid started with shoulder surgery and a September return, then match-winning goals against Juventus and Barcelona; he turned 23 on June 29, mid-tournament, already at his fourth major tournament, a record for a European player his age."
+     ],
+     "stats": {
+      "matchesPlayed": 4,
+      "goals": 2,
+      "assists": 1,
+      "shots": null,
+      "saves": null,
+      "cleanSheets": null,
+      "goalsConceded": null
+     },
+     "squadStatus": "alive",
+     "confidenceNotes": "Stats (4 apps, 314 minutes, 2 goals, 1 assist) are through the round of 32, per Squawka, and match Wikipedia's match-by-match account; the Mexico round of 16 kicked off late on July 5 after a weather delay and had no published result at research time, so these numbers could change within hours. A tribuna.com page showing 5 matches, 0 goals, 1 assist refers to World Cup qualification, not this tournament. Tournament shot totals not verifiable."
+    },
+    {
+     "name": "Vinicius Junior",
+     "nationalTeam": "Brazil",
+     "position": "FWD",
+     "age": 25,
+     "birthCity": "Sao Goncalo",
+     "birthCountry": "Brazil",
+     "birthLatLng": [
+      -22.8268,
+      -43.0537
+     ],
+     "club": "Real Madrid",
+     "clubCity": "Madrid",
+     "clubCountry": "Spain",
+     "clubLatLng": [
+      40.4168,
+      -3.7038
+     ],
+     "league": "La Liga",
+     "knownFor": "Real Madrid's explosive left winger, a Champions League final match-winner who became Brazil's main man at this World Cup.",
+     "watchBecause": "Brazil's shock 2-1 exit to Norway just hours ago has everyone debating whether his four-goal tournament was wasted by the team around him.",
+     "storylines": [
+      "He scored in all three group games (Morocco, Haiti, and twice against Scotland), only the fifth Brazilian ever to do that after Jairzinho, Romario, Ronaldo and Rivaldo, and took Player of the Match honors against both Morocco and Scotland.",
+      "The ending was brutal: Erling Haaland's brace beat Brazil 2-1 in the round of 16 on July 5 in New Jersey, Brazil's earliest World Cup exit since 1990, with Neymar's stoppage-time penalty the only reply and a Vinicius strike tipped away by keeper Orjan Nyland.",
+      "Playing under Carlo Ancelotti, his old Real Madrid boss now coaching Brazil, he flipped his international reputation from scapegoat to leader; he leaves with 4 goals while Haaland, Mbappe and Messi top the Golden Boot race on 7."
+     ],
+     "stats": {
+      "matchesPlayed": 5,
+      "goals": 4,
+      "assists": 1,
+      "shots": null,
+      "saves": null,
+      "cleanSheets": null,
+      "goalsConceded": null
+     },
+     "squadStatus": "eliminated in round of 16 by Norway",
+     "confidenceNotes": "Per-match line (5 starts, 441 minutes, 4 goals, 1 assist) comes from a tournament stats site and cross-checks with ESPN, FIFA and Opta match reports for every goal; tournament shot totals were not findable. Age 25 as of July 5; he turns 26 on July 12, 2026. No verified 2025-26 transfer or contract change away from Real Madrid was found."
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_knockout_stage",
+    "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_Group_H",
+    "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_Group_L",
+    "https://en.wikipedia.org/wiki/Lamine_Yamal",
+    "https://en.wikipedia.org/wiki/Pau_Cubars%C3%AD",
+    "https://en.wikipedia.org/wiki/Jude_Bellingham",
+    "https://en.wikipedia.org/wiki/Vin%C3%ADcius_J%C3%BAnior",
+    "https://www.espn.com/soccer/story/_/id/49135958/spain-saudi-arabia-2026-world-cup-lamine-yamal-mikel-oyarzabal",
+    "https://www.aljazeera.com/sports/2026/6/21/spain-thrash-saudi-arabia-as-lamine-yamal-off-mark-at-world-cup-2026",
+    "https://www.olympics.com/en/news/lamine-yamal-fifa-world-cup-2026-stats-form-and-how-to-watch-spain-star",
+    "https://worldcuplocaltime.com/player/lamine-yamal/",
+    "https://www.nbclosangeles.com/world-cup/spain-austria-score-yamal/3912199/",
+    "https://www.olympics.com/en/news/fifa-world-cup-2026-spain-vs-austria-round-32-score-lineups-live-updates",
+    "https://www.sofascore.com/news/spain-vs-austria-preview-round-of-32-stats-guide",
+    "https://onefootball.com/en/news/pau-cubarsi-named-in-optas-2026-world-cup-group-stage-xi-43073832",
+    "https://www.foxsports.com/stories/soccer/spain-next-world-cup-opponent",
+    "https://www.skysports.com/football/england-vs-dr-congo/report/549847",
+    "https://theanalyst.com/articles/england-vs-dr-congo-stats-world-cup-2026",
+    "https://www.englandfootball.com/articles/2026/Jun/17/jude-bellingham-sets-new-international-record-20261706",
+    "https://www.squawka.com/us/news/jude-bellingham-stats/",
+    "https://www.nbcsports.com/soccer/live/mexico-vs-england-live-updates-score-goals-highlights-stats-from-2026-fifa-world-cup",
+    "https://www.skysports.com/football/news/12016/13560286/world-cup-2026-englands-last-16-tie-with-mexico-will-kick-off-at-1am-monday",
+    "https://www.espn.com/soccer/story/_/id/49169240/fifa-world-cup-2026-stats-vinicius-joins-ronaldo-5-neymar-joins-pele-4-alajbegovic-breaks-kylian-mbappe-record",
+    "https://www.espn.com/soccer/story/_/id/49216717/brazil-avoid-world-cup-shock-late-win-vs-japan-reach-round-16",
+    "https://www.foxsports.com/stories/soccer/erling-haaland-ends-brazils-world-cup-brace-norway-round-16",
+    "https://www.nbclosangeles.com/world-cup/brazil-norway-score-haaland-neymar/3913107/",
+    "https://worldcuplocaltime.com/player/vinicius-junior/",
+    "https://theanalyst.com/articles/vinicius-junior-world-cup-2026-brazil-sensational-form",
+    "https://sports.yahoo.com/soccer/live/world-cup-2026-bracket-schedule-scores-results-live-updates-round-of-16-130000983.html"
+   ]
+  },
+  "verification": {
+   "verdict": "confirmed",
+   "discrepancies": [
+    {
+     "what": "Bellingham storyline: '2025-26 started with shoulder surgery and a September return'",
+     "severity": "note",
+     "foundValue": "September return",
+     "correctedValue": "Sources conflict: a Goal.com retrospective says he returned to La Liga action in September 2025; Al Jazeera (July 2025) and beIN projected a return in early-to-mid October, and his first goal came Oct 22 vs Juventus. The 1-0 Juventus winner and Clasico winner claims are confirmed regardless.",
+     "evidence": "goal.com Bellingham recovery pieces; aljazeera.com/sports/2025/7/16 (sidelined until October); statmuse/Wikipedia 2025-26 Real Madrid season confirming Bellingham goals"
+    },
+    {
+     "what": "Cubarsi birthplace 'Bescano (Girona province)'",
+     "severity": "note",
+     "foundValue": "Bescano",
+     "correctedValue": "Consistent with Wikipedia (Bescan\u00f3, Girona); some sources give the more specific village Estanyol within Bescan\u00f3 municipality. Not an error.",
+     "evidence": "en.wikipedia.org/wiki/Pau_Cubars\u00ed; instagram/famousbirthdays profiles citing Estanyol, born 22 Jan 2007 (age 19 correct)"
+    },
+    {
+     "what": "Vinicius storyline: 'Haaland, Mbappe and Messi top the Golden Boot race on 7'",
+     "severity": "note",
+     "foundValue": "7 goals each",
+     "correctedValue": "Confirmed at 7-7-7 by the FOX Sports Golden Boot tracker updated July 5 ('first time three players netted seven or more goals in a single World Cup'); one search-summary paraphrase suggested 8 each but the primary tracker and Al Jazeera's Brazil-Norway match report both say 7. Profile value stands.",
+     "evidence": "foxsports.com/stories/soccer/2026-fifa-world-cup-golden-boot-tracker (updated Jul 5, 2026); aljazeera.com Brazil-Norway report ('brace took him level with Lionel Messi on seven goals')"
+    }
+   ],
+   "notes": "Adversarial verification across ~14 fresh searches/fetches, preferring sources the researcher did not cite. Confirmed per player: YAMAL \u2014 age 18 (b. 13 Jul 2007, Esplugues de Llobregat per Wikipedia/Britannica; a low-quality stats site says Matar\u00f3, where he grew up, but Wikipedia wins), Barcelona/La Liga, 4 apps/225 min/1 goal/0 assists with per-match minutes 19-45-76-85 (worldcuplocaltime table), goal 10 min into first start vs Saudi Arabia (4-0), second-youngest WC scoring-opener behind Pele (ESPN), MOTM vs Austria without goal/assist (tribuna/ESPN), highest dribbles-per-90 since 1998, La Liga Player of the Season 2025-26 (laliga.com/ESPN), 24 goals+17 assists club top scorer, April 22 hamstring tear vs Celta ending his club season, Spain alive facing Portugal in Dallas July 6. CUBARSI \u2014 age 19 (b. 22 Jan 2007), Barcelona, played every minute of 4 Spain matches, 0 goals, Spain 4 clean sheets (0-0 CPV, 4-0 KSA, 1-0 URU, 3-0 AUT; Austria 5 shots 0 on target), Simon broke Zenga's 517-min record (now 519, though the streak spans back to Qatar 2022), Opta group-stage Best XI confirmed (theanalyst/OneFootball), Laporte CB partner vs Austria confirmed (SI/Khel Now), straight red (VAR upgrade) vs Atletico in CL QF first leg which Barcelona lost, 8 Barcelona / 0 Real Madrid squad confirmed (ESPN/Al Jazeera). BELLINGHAM \u2014 age 23 (b. 29 Jun 2003, Stourbridge), Real Madrid, 4 apps/314 min/2 goals/1 assist (Squawka + scout52 cross-check: goal vs Croatia 4-2, goal+assist vs Panama 2-0, 0-0 Ghana, DR Congo 2-1 with Kane late double after Cipenga opener), youngest to 50 England caps at 22y 359d vs Ghana beating Rooney's mark, youngest European at 4 major tournaments (surpassing Musiala), Mexico R16 at the Azteca delayed by lightning and not concluded at check time, so 'alive' and stats-through-R32 are correct as of July 5. VINICIUS \u2014 age 25 (b. 12 Jul 2000, S\u00e3o Gon\u00e7alo), still Real Madrid (16 La Liga goals 2025-26, no transfer found), 5 apps/441 min/4 goals/1 assist confirmed per-match (Morocco 1-1 goal, Haiti 3-0 goal+assist, Scotland 3-0 brace, Japan 2-1 R32 no goal, Norway 1-2 R16 no goal), fifth Brazilian to score in all three group games after Jairzinho/Romario/Ronaldo/Rivaldo (FIFA), eliminated by Norway 2-1 on July 5 (Haaland 11' and 90', Neymar 90'+10 pen after Casemiro elbow), earliest Brazil exit since 1990 and sixth straight KO by European opposition, Ancelotti coaching Brazil confirmed. Null fields (shots, Cubarsi assists/minutes-exact) remain unverifiable in any source I found, matching the researcher's own caveats. The researcher's confidence notes were accurate, including correctly rejecting the tribuna qualification stats and the false Cubarsi 'CL winner' claim.",
+   "sources": [
+    "https://www.foxsports.com/stories/soccer/2026-fifa-world-cup-golden-boot-tracker",
+    "https://www.aljazeera.com/sports/2026/7/5/haaland-scores-twice-as-norway-stun-brazil-2-1-in-world-cup-2026-last-16",
+    "https://worldcuplocaltime.com/player/vinicius-junior/",
+    "https://worldcuplocaltime.com/player/lamine-yamal/",
+    "https://www.fifa.com/en/match-centre/match/17/285023/289287/400021519",
+    "https://www.espn.com/soccer/match/_/gameId/760497/austria-spain",
+    "https://tribuna.com/en/news/2026-07-02-lamine-yamal-named-man-of-the-match-in-spains-30-despite-not-scoring-or-assisting-stats/",
+    "https://theanalyst.com/articles/world-cup-2026-best-xi-lionel-messi-vinicius-junior-kylian-mbappe-stats",
+    "https://www.espn.com/soccer/story/_/id/49253939/spain-goalkeeper-unai-simon-sets-world-cup-record-clean-sheets",
+    "https://www.espn.com/soccer/story/_/id/48870392/spain-world-cup-2026-squad-confirmed-lamine-yamal-stars-no-real-madrid-players",
+    "https://www.aljazeera.com/sports/2026/5/26/united-spain-first-as-barcelona-top-absent-real-madrid-in-world-cup-squad",
+    "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_Group_H",
+    "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/england-congo-dr-review-highlights",
+    "https://www.espn.com/soccer/match/_/gameId/760458/ghana-england",
+    "https://www.englandfootball.com/articles/2026/Jun/16/bukayo-saka-jude-bellingham-england-caps-achievement-20261506",
+    "https://theanalyst.com/articles/jude-bellingham-england-50-caps-youngest",
+    "https://www.scout52.com/jude-bellingham-world-cup-2026",
+    "https://www.espn.com/soccer/match/_/gameId/760487/japan-brazil",
+    "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/vinicius-junior-brazil-records-stats-quotes",
+    "https://www.laliga.com/en-GB/news/lamine-yamal-ea-sports-laliga-player-of-the-season-2025-2026",
+    "https://www.espn.com/soccer/story/_/id/48975502/barcelona-lamine-yamal-named-laliga-player-season",
+    "https://www.espn.com/soccer/story/_/id/48563164/lamine-yamal-injury-penalty-barcelona-celta-vigo",
+    "https://www.espn.com/soccer/story/_/id/48432344/var-review-pau-cubarsi-red-card-changed-barcelona-atletico-madrid-champions-league-tie-was-deserved",
+    "https://www.si.com/soccer/spain-vs-austria-world-cup-preview-predictions-and-lineups-7-2-26",
+    "https://en.wikipedia.org/wiki/Pau_Cubars%C3%AD",
+    "https://www.aljazeera.com/sports/2025/7/16/jude-bellingham-shoulder-surgery-sidelines-real-madrid-star-until-october",
+    "https://www.espn.com/soccer/match/_/gameId/760505/england-mexico",
+    "https://www.cbssports.com/soccer/news/mexico-england-live-updates-world-cup-2026-score-result/live/",
+    "https://www.espn.com/soccer/story/_/id/49140389/fifa-world-cup-2026-stats-lamine-yamal-youngest-pele-egypt-mohamed-salah-long-awaited-first-cape-verde-first-goals",
+    "https://sports.yahoo.com/soccer/breaking-news/article/2026-world-cup-spain-wins-group-h-thanks-to-fernando-musleras-blunder-as-cape-verde-takes-second-over-uruguay-020219723.html"
+   ]
+  }
+ },
+ {
+  "batchIndex": 3,
+  "data": {
+   "players": [
+    {
+     "name": "Erling Haaland",
+     "nationalTeam": "Norway",
+     "position": "FWD",
+     "age": 25,
+     "birthCity": "Leeds",
+     "birthCountry": "England",
+     "birthLatLng": [
+      53.8,
+      -1.55
+     ],
+     "club": "Manchester City",
+     "clubCity": "Manchester",
+     "clubCountry": "England",
+     "clubLatLng": [
+      53.48,
+      -2.24
+     ],
+     "league": "Premier League",
+     "knownFor": "Manchester City's goal machine and the most lethal pure number nine of his generation, now dragging Norway to history.",
+     "watchBecause": "He just knocked Brazil out with two late goals, putting Norway in their first ever World Cup quarterfinal and himself level with Messi and Mbappe on seven in the Golden Boot race.",
+     "storylines": [
+      "On July 5 he scored twice late to beat Brazil 2-1 in the round of 16, condemning the five-time champions to their earliest World Cup exit since 1990 and sending Norway to their first ever quarterfinal.",
+      "The Golden Boot is a three-way tie: Haaland, Messi and Mbappe all sit on seven goals, but Mbappe holds the tiebreaker with two assists while Haaland has none. It is the first World Cup ever with three players on seven or more.",
+      "He carried Norway here with 16 goals in qualifying, opened the tournament with braces against Iraq and Senegal, then won Norway's first ever World Cup knockout match with an 86th-minute goal against Ivory Coast."
+     ],
+     "stats": {
+      "matchesPlayed": 5,
+      "goals": 7,
+      "assists": 0,
+      "shots": null,
+      "saves": null,
+      "cleanSheets": null,
+      "goalsConceded": null
+     },
+     "squadStatus": "alive",
+     "confidenceNotes": "Goal count conflict: one NBC recap and a Wikipedia summary said 8 goals, but Goal.com, Sky Sports, Al Jazeera, Yahoo and the worldcuplocaltime match log (2 vs Iraq, 2 vs Senegal, 0 vs France, 1 vs Ivory Coast, 2 vs Brazil) agree on 7 in 5 matches; went with 7. Shots not found on any stats page. Norway's quarterfinal opponent (Mexico or England) was undecided as of writing because that July 5 match was storm-delayed."
+    },
+    {
+     "name": "Deniz Undav",
+     "nationalTeam": "Germany",
+     "position": "FWD",
+     "age": 29,
+     "birthCity": "Varel",
+     "birthCountry": "Germany",
+     "birthLatLng": [
+      53.4,
+      8.14
+     ],
+     "club": "VfB Stuttgart",
+     "clubCity": "Stuttgart",
+     "clubCountry": "Germany",
+     "clubLatLng": [
+      48.78,
+      9.18
+     ],
+     "league": "Bundesliga",
+     "knownFor": "Late-blooming Stuttgart striker who fought his way up from Germany's lower leagues and became the World Cup's record-breaking super-sub.",
+     "watchBecause": "He became the highest-scoring super-sub in World Cup history with five goal involvements in his first 56 minutes off the bench, though Germany's run ended in a shock penalty exit to Paraguay.",
+     "storylines": [
+      "Off the bench against Ivory Coast he scored twice, including a 94th-minute winner in the 2-1 victory, and his five goal involvements in 56 total World Cup minutes broke Roger Milla's 1990 super-sub record.",
+      "Germany's tournament died in the round of 32 on June 29: Paraguay held them 1-1, VAR chalked off a German goal in extra time, and Havertz, Woltemade and Tah all missed in the 4-3 shootout loss. Nagelsmann had even dropped Musiala to start Undav that night.",
+      "He turns 30 on July 19, the day of a final he will now watch from home, after arriving at the World Cup off a 19-goal, 6-assist Bundesliga season for Stuttgart."
+     ],
+     "stats": {
+      "matchesPlayed": 4,
+      "goals": 3,
+      "assists": 2,
+      "shots": null,
+      "saves": null,
+      "cleanSheets": null,
+      "goalsConceded": null
+     },
+     "squadStatus": "eliminated in round of 32 by Paraguay (1-1, lost 4-3 on penalties, June 29)",
+     "confidenceNotes": "Stat line (4 appearances vs Curacao, Ivory Coast, Ecuador and Paraguay, 1 start, 149 minutes, 3 goals, 2 assists) is from worldcuplocaltime and is consistent with Opta's reported five goal involvements (goal plus two assists vs Curacao, brace vs Ivory Coast); could not find a second full per-match source for the Ecuador appearance. Shots not found. One search summary mislabeled the Ivory Coast game as Germany's third group match; ESPN and FIFA date it June 20 as match two."
+    },
+    {
+     "name": "Johan Manzambi",
+     "nationalTeam": "Switzerland",
+     "position": "MID",
+     "age": 20,
+     "birthCity": "Geneva",
+     "birthCountry": "Switzerland",
+     "birthLatLng": [
+      46.2,
+      6.15
+     ],
+     "club": "SC Freiburg",
+     "clubCity": "Freiburg im Breisgau",
+     "clubCountry": "Germany",
+     "clubLatLng": [
+      48,
+      7.85
+     ],
+     "league": "Bundesliga",
+     "knownFor": "Freiburg's 20-year-old box-crashing midfielder, Switzerland's best young player of 2025 and this World Cup's breakout star.",
+     "watchBecause": "At 20 years and 261 days he became the youngest player since records began in 1966 to reach five goal involvements at a World Cup, and unbeaten Switzerland suddenly look like dark horses.",
+     "storylines": [
+      "Subbed on against Bosnia and Herzegovina, he scored twice in 19 minutes including a spectacular high volley, then added a goal and an assist to beat co-hosts Canada 2-1 and win Group B.",
+      "His solo run through Algeria's defense set up Breel Embolo inside 10 minutes as Switzerland won 2-0 on July 2, their first World Cup knockout win in 88 years. Colombia await in the round of 16 on July 7 in Vancouver.",
+      "He only broke through at Freiburg this season, scored in the Europa League semifinal win over Braga in May, and was named Europa League Young Player of the Season as Freiburg finished runner-up to Aston Villa."
+     ],
+     "stats": {
+      "matchesPlayed": 4,
+      "goals": 3,
+      "assists": 2,
+      "shots": null,
+      "saves": null,
+      "cleanSheets": null,
+      "goalsConceded": null
+     },
+     "squadStatus": "alive",
+     "confidenceNotes": "worldcuplocaltime's per-match log wrongly credits him a goal vs Algeria; Opta, Sky Sports, FOX and France 24 all confirm Embolo and Ndoye scored that night and Manzambi assisted, so totals are 3 goals and 2 assists in 4 appearances (25 min vs Qatar, 19 vs Bosnia, 85 vs Canada, 71 vs Algeria). Shots not found. Exact distribution of his second assist (Canada vs elsewhere) varies slightly between sources."
+    },
+    {
+     "name": "Ismael Saibari",
+     "nationalTeam": "Morocco",
+     "position": "MID",
+     "age": 25,
+     "birthCity": "Terrassa",
+     "birthCountry": "Spain",
+     "birthLatLng": [
+      41.56,
+      2.02
+     ],
+     "club": "PSV Eindhoven",
+     "clubCity": "Eindhoven",
+     "clubCountry": "Netherlands",
+     "clubLatLng": [
+      51.44,
+      5.48
+     ],
+     "league": "Eredivisie",
+     "knownFor": "PSV's Eredivisie Player of the Year, a direct, powerful attacking midfielder who just earned a 50 million euro move to Bayern Munich.",
+     "watchBecause": "Morocco's top scorer at this World Cup limped off with a hamstring injury on July 4, and whether he returns may decide how far the Atlas Lions' quarterfinal run goes.",
+     "storylines": [
+      "He scored in each of his first three matches, against Brazil, Scotland and Haiti, becoming the second African after Mohamed Salah to score in his first two World Cup games; his Scotland strike was the fastest goal of the tournament and made him Morocco's joint-record World Cup scorer alongside En-Nesyri.",
+      "He buried the winning penalty in the round-of-32 shootout against the Netherlands, the country where he made his name, then pulled up with a right hamstring strain 22 minutes into the 3-0 round-of-16 win over Canada. Scans will decide whether he plays again this tournament.",
+      "Bayern Munich confirmed his 50 million euro signing from PSV on July 1, mid-tournament, on a five-year deal after his 15-goal, 8-assist Eredivisie Player of the Year season. Born in Spain, raised in Belgium, he chose his parents' Morocco."
+     ],
+     "stats": {
+      "matchesPlayed": 5,
+      "goals": 3,
+      "assists": 0,
+      "shots": null,
+      "saves": null,
+      "cleanSheets": null,
+      "goalsConceded": null
+     },
+     "squadStatus": "alive; hamstring strain suffered July 4 vs Canada leaves quarterfinal availability in doubt pending medical tests",
+     "confidenceNotes": "worldcuplocaltime showed 4 matches, 363 minutes, 3 goals, 0 assists, apparently predating the July 4 Canada game where beIN confirms he started and played about 22 minutes before injury, so matchesPlayed is reported as 5. Injury severity unconfirmed as of July 5. Shots not found. Shootout penalty vs Netherlands is not counted as a goal."
+    }
+   ],
+   "sources": [
+    "https://www.aljazeera.com/sports/2026/7/5/haaland-scores-twice-as-norway-stun-brazil-2-1-in-world-cup-2026-last-16",
+    "https://sports.yahoo.com/soccer/breaking-news/article/world-cup-2026-erling-haalands-late-goal-lifts-norway-over-ivory-coast-and-into-the-round-of-16-190435588.html",
+    "https://www.goal.com/en/lists/world-cup-2026-golden-boot-standings-fifa-award/blt29fdba0896b8fd09",
+    "https://www.skysports.com/football/news/12098/13556951/world-cup-2026-golden-boot-race-lionel-messi-kylian-mbappe-harry-kane-and-erling-haaland-in-epic-battle",
+    "https://www.nbcsports.com/soccer/news/erling-haaland-stuns-with-two-late-goals-for-norway-vs-brazil-rising-up-world-cup-golden-boot-leaderboard",
+    "https://www.espn.com/soccer/story/_/id/49082534/group-2026-world-cup-teams-records-stats-know-france-senegal-iraq-norway",
+    "https://en.wikipedia.org/wiki/Erling_Haaland",
+    "https://en.wikipedia.org/wiki/Deniz_Undav",
+    "https://www.fifa.com/en/match-centre/match/17/285023/289287/400021513",
+    "https://www.espn.com/soccer/story/_/id/49220268/germany-dumped-world-cup-paraguay-penalties",
+    "https://theanalyst.com/articles/germany-vs-ivory-coast-stats-world-cup-2026",
+    "https://www.cbssports.com/soccer/news/germany-vs-ivory-coast-live-updates-world-cup-2026-score-result/live/",
+    "https://www.bundesliga.com/en/bundesliga/news/deniz-undav-germany-world-cup-stars-of-the-bundesliga-vfb-stuttgart-37826",
+    "https://en.wikipedia.org/wiki/Johan_Manzambi",
+    "https://theanalyst.com/articles/switzerland-vs-algeria-stats-world-cup-2026",
+    "https://www.skysports.com/football/switzerland-vs-algeria/report/549848",
+    "https://www.france24.com/en/sport/20260703-switzerland-beat-algeria-2-0-to-move-into-world-cup-last-16",
+    "https://www.bundesliga.com/en/bundesliga/news/switzerland-canada-world-cup-match-report-manzambi-matchday-3-37955",
+    "https://www.fifa.com/en/match-centre/match/17/285023/289288/400021535",
+    "https://en.wikipedia.org/wiki/Ismael_Saibari",
+    "https://www.beinsports.com/en-us/soccer/fifa-world-cup-2026/articles/what-injury-does-ismael-saibari-have-morocco-star-suffers-scare-at-fifa-world-cup-2026-2026-07-04",
+    "https://www.espn.com/soccer/match/_/gameId/760502/morocco-canada",
+    "https://www.foxsports.com/stories/soccer/bayern-munich-confirm-50m-signing-of-morocco-world-cup-hero-ismael-saibari-from-psv",
+    "https://www.aljazeera.com/sports/2026/6/20/morocco-beat-scotland-1-0-as-saibari-scores-fastest-world-cup-2026",
+    "https://worldcuplocaltime.com/player/e-haaland/",
+    "https://worldcuplocaltime.com/player/d-undav/",
+    "https://worldcuplocaltime.com/player/j-manzambi/",
+    "https://worldcuplocaltime.com/player/i-saibari/",
+    "https://www.foxsports.com/articles/other/mexicoengland-world-cup-round-of-16-match-delayed-by-1-hour-because-of-thunderstorm"
+   ]
+  },
+  "verification": {
+   "discrepancies": [
+    {
+     "what": "Erling Haaland matchesPlayed",
+     "severity": "fix",
+     "foundValue": "5",
+     "correctedValue": "4",
+     "evidence": "Haaland was an UNUSED substitute in Norway's 4-1 group loss to France on June 26 (Yahoo/AP: 'Erling Haaland was an unused sub during a much-changed Norway's 4-1 loss to France'; FOX Sports: 'Why Erling Haaland Didn't Play In Norway's 4-1 Loss To France'; ESPN pre-match: 'Haaland to miss France World Cup clash'). AP's Ivory Coast report calls his round-of-32 winner 'his fifth goal in three games', and Wikipedia's tournament summary lists only four appearances (Iraq, Senegal, Ivory Coast, Brazil). So it is 7 goals in 4 matches, not 5. The researcher's worldcuplocaltime log entry '0 vs France' wrongly counted an appearance."
+    },
+    {
+     "what": "Ismael Saibari club / clubCity / clubCountry / clubLatLng / league (stale after mid-tournament transfer)",
+     "severity": "fix",
+     "foundValue": "PSV Eindhoven, Eindhoven, Netherlands, Eredivisie",
+     "correctedValue": "Bayern Munich, Munich, Germany, Bundesliga (approx. clubLatLng [48.14, 11.58])",
+     "evidence": "Bayern Munich officially confirmed the ~EUR 50m signing from PSV on July 1, 2026 (before the profile's July 5 as-of date), on a contract to June 2031: FOX Sports 'World Cup Breakout Star Ismael Saibari Completes \u20ac50 Million Move To Bayern Munich', PSV official site 'Transfer | Ismael Saibari heads to FC Bayern Munich', ESPN 'Morocco's World Cup goalscorer Ismael Saibari joins Bayern Munich', fcbayern.com video announcement. The profile's own storylines acknowledge the completed move, so the club field is internally inconsistent as well."
+    },
+    {
+     "what": "Saibari storyline: 'his Scotland strike was the fastest goal of the tournament'",
+     "severity": "fix",
+     "foundValue": "fastest goal of the tournament",
+     "correctedValue": "fastest goal of the tournament at the time (71 seconds), surpassed hours later the same day by Paraguay's Matias Galarza (65 seconds vs Turkiye)",
+     "evidence": "Yahoo Sports: '2026 World Cup: Hours after Morocco's Ismael Saibari delivers fastest goal, Paraguay's Matias Galarza sets new record'; beIN/Outlook confirm Saibari's goal came in ~70-71 seconds and Galarza beat it by six seconds. As of July 5 Saibari's goal is no longer the tournament's fastest."
+    },
+    {
+     "what": "Saibari storyline: joint-record Morocco World Cup scorer credited to the Scotland strike",
+     "severity": "fix",
+     "foundValue": "his Scotland strike ... made him Morocco's joint-record World Cup scorer alongside En-Nesyri",
+     "correctedValue": "his THIRD goal, vs Haiti on June 24 (4-2 win), made him Morocco's joint-record World Cup scorer alongside Youssef En-Nesyri on 3 goals; the Scotland strike was only his second",
+     "evidence": "Wikipedia/Flashscore/The Ghana Report: 'scored his third World Cup goal in a 4-2 victory over Haiti on June 24, becoming Morocco's joint-highest goalscorer in the competition alongside Youssef En-Nesyri'. The Scotland goal instead made him the second African after Mohamed Salah to score in his first two World Cup matches (HITC/Yahoo), which the profile states correctly."
+    },
+    {
+     "what": "Manzambi storyline: award name 'Europa League Young Player of the Season'",
+     "severity": "note",
+     "foundValue": "named Europa League Young Player of the Season",
+     "correctedValue": "official award name is 'UEFA Europa League Revelation of the Season' (2025/26), UEFA's best-young-player prize for the competition",
+     "evidence": "UEFA.com: 'Johan Manzambi named 2025/26 UEFA Europa League Revelation of the Season'; Bundesliga.com uses the same name and describes it as the competition's best-young-player award. Substance of the claim is correct, only the award's name is paraphrased."
+    }
+   ],
+   "verdict": "minor-issues",
+   "notes": "Everything else verified against independent sources. Haaland: age 25 (b. 21 Jul 2000, Leeds, England), Norway, Man City/Premier League (long contract, no transfer), 7 goals/0 assists (assists inferred from Golden Boot tiebreaker coverage: Mbappe's 2 assists give him the edge over Messi and Haaland, all on 7 - first World Cup with three players on 7+, per FOX/Sky), braces vs Iraq and Senegal, 86th-min winner vs Ivory Coast (Norway's first WC knockout win), 2 late goals in 2-1 win over Brazil on July 5 (Brazil's earliest exit since 1990), 16 qualifying goals, alive; QF opponent Mexico/England genuinely undecided (July 5 Azteca match storm-delayed 1 hour). Undav: fully correct - b. 19 Jul 1996 Varel, 29 (turns 30 on July 19 final), VfB Stuttgart (extended to 2029), 19 goals + 6 assists in 2025-26 Bundesliga, 4 WC apps (subbed vs Curacao 1g2a in 7-1, brace incl. 94th-min winner vs Ivory Coast 2-1 on June 20 matchday two, sub vs Ecuador on the hour in 1-2 loss June 25, started vs Paraguay with Musiala benched per BFW/bulinews), 3g2a, five goal involvements in 56 sub minutes breaking Roger Milla's 1990 record (Wikipedia/Yahoo say broke, one blog said equalled), eliminated R32 by Paraguay 1-1 (3-4 pens) June 29 with Havertz/Woltemade saved and Tah over, VAR-disallowed Tah header in ET. Manzambi: fully correct on facts - b. 14 Oct 2005 Geneva, 20, SC Freiburg, 4 apps (sub debut vs Qatar 1-1 draw, brace in 19 min vs Bosnia 4-1, goal+assist vs Canada 2-1 to win Group B, assist for Embolo in 2-0 over Algeria on July 2 = first Swiss WC knockout win in 88 years), 3g2a, youngest since 1966 records to 5 goal involvements at 20y261d, Swiss best young player 2025 (SFA and SFL), scored in EL semi 2nd leg vs Braga, Freiburg lost final 0-3 to Aston Villa, Colombia next July 7 at BC Place Vancouver; Switzerland unbeaten (drew Qatar, not lost). Saibari stats correct: 5 apps (3 group + Netherlands R32 + ~22 min vs Canada July 4 before hamstring injury), 3 goals (Brazil 1-1 draw opener, Scotland 1-0, Haiti 4-2), 0 assists, winning shootout penalty vs Netherlands, b. 28 Jan 2001 Terrassa Spain (25), Morocco alive after 3-0 R16 win over Canada (Ounahi x2, Rahimi), injury severity still unconfirmed as of July 5 (coach Ouahbi awaiting medical assessment), 15g/8a Eredivisie POTY final PSV season. Shots/null fields: no per-player shot totals found anywhere; leaving null is correct.",
+   "sources": [
+    "https://www.espn.com/soccer/story/_/id/49279982/brazil-norway-world-cup-2026-erling-haaland",
+    "https://www.foxsports.com/stories/soccer/erling-haaland-ends-brazils-world-cup-brace-norway-round-16",
+    "https://www.foxsports.com/stories/soccer/2026-fifa-world-cup-golden-boot-tracker",
+    "https://sports.yahoo.com/soccer/breaking-news/article/world-cup-2026-erling-haaland-was-an-unused-sub-during-a-much-changed-norways-4-1-loss-to-france-175723626.html",
+    "https://www.foxsports.com/stories/soccer/why-norway-star-erling-haaland-didnt-play-vs-france-its-no-brainer",
+    "https://www.espn.com/soccer/story/_/id/49188052/norway-erling-haaland-miss-france-world-cup-clash-sources",
+    "https://www.espn.com/soccer/story/_/id/49227955/norway-ivory-coast-erling-haaland-world-cup-match-report-last-32",
+    "https://www.uefa.com/european-qualifiers/news/02a6-20d1592b3f90-2ef16e2c5255-1000--norway-at-the-world-cup-2026-squad-fixtures-group-and-hi/",
+    "https://en.wikipedia.org/wiki/Erling_Haaland",
+    "https://www.skysports.com/football/news/17251/13558815/world-cup-2026-germany-1-1-paraguay-3-4-on-penalties-four-time-winners-dumped-out-in-stunning-last-32-exit",
+    "https://www.fifa.com/en/match-centre/match/17/285023/289287/400021513",
+    "https://www.bavarianfootballworks.com/fifa-world-cup/223293/breaking-jamal-musiala-benched-for-germany-vs-paraguay",
+    "https://bulinews.com/confirmed-lineups-germany-paraguay",
+    "https://en.wikipedia.org/wiki/Deniz_Undav",
+    "https://sports.yahoo.com/articles/deniz-undav-sets-record-bench-173000171.html",
+    "https://theanalyst.com/articles/deniz-undav-staking-claim-germany-world-cup-2026",
+    "https://www.espn.com/soccer/match/_/gameId/760468/germany-ecuador",
+    "https://en.wikipedia.org/wiki/Johan_Manzambi",
+    "https://www.espn.com/soccer/match/_/gameId/760420/switzerland-qatar",
+    "https://www.espn.com/soccer/match/_/gameId/760498/algeria-switzerland",
+    "https://theanalyst.com/articles/switzerland-vs-algeria-stats-world-cup-2026",
+    "https://www.uefa.com/uefaeuropaleague/news/02a5-20ada4766290-fa2dd9da0b35-1000--johan-manzambi-named-2025-26-uefa-europa-league-revelatio/",
+    "https://www.bundesliga.com/en/bundesliga/news/johan-manzambi-world-cup-breakout-star-mbappe-messi-switzerland-38105",
+    "https://www.espn.com/soccer/match/_/gameId/760508/colombia-switzerland",
+    "https://en.wikipedia.org/wiki/Ismael_Saibari",
+    "https://www.foxsports.com/stories/soccer/bayern-munich-confirm-50m-signing-of-morocco-world-cup-hero-ismael-saibari-from-psv",
+    "https://www.psv.nl/en/media/article/transfer-ismael-saibari-leaves-for-fc-bayern-munchen",
+    "https://www.espn.com/soccer/story/_/id/49238268/morocco-world-cup-goalscorer-ismael-saibari-joins-bayern-munich",
+    "https://sports.yahoo.com/soccer/breaking-news/article/2026-world-cup-hours-after-moroccos-ismael-saibari-delivers-fastest-goal-paraguays-matias-galarza-sets-new-record-224107077.html",
+    "https://www.hitc.com/ismael-saibari-equals-mo-salah-world-cup-record-within-two-minutes-of-scotland-vs-morocco/",
+    "https://www.flashscore.com/news/ismael-saibari-the-extraordinary-journey-of-morocco-s-world-cup-top-goalscorer/rZQrnid3/",
+    "https://www.skysports.com/football/canada-vs-morocco/report/549854",
+    "https://www.moroccoworldnews.com/2026/07/327304/reports-suggest-ismael-saibari-has-a-hamstring-strain-ouahbi-says-he-is-yet-to-meet-his-doctor/",
+    "https://www.foxsports.com/articles/other/mexicoengland-world-cup-round-of-16-match-delayed-by-1-hour-because-of-thunderstorm"
+   ]
+  }
+ },
+ {
+  "batchIndex": 4,
+  "data": {
+   "players": [
+    {
+     "name": "Cristiano Ronaldo",
+     "nationalTeam": "Portugal",
+     "position": "FWD",
+     "age": 41,
+     "birthCity": "Funchal",
+     "birthCountry": "Portugal",
+     "birthLatLng": [
+      32.65,
+      -16.91
+     ],
+     "club": "Al Nassr",
+     "clubCity": "Riyadh",
+     "clubCountry": "Saudi Arabia",
+     "clubLatLng": [
+      24.71,
+      46.68
+     ],
+     "league": "Saudi Pro League",
+     "knownFor": "Five-time Ballon d'Or winner and men's international goals record holder, now the first man ever to score at six different World Cups.",
+     "watchBecause": "At 41 he just buried his first World Cup knockout goal ever to keep Portugal alive, and a heavyweight round-of-16 clash with Spain comes July 6 in Arlington.",
+     "storylines": [
+      "The drought is dead. His 68th-minute penalty in the 2-1 round-of-32 win over Croatia on July 3 was his first knockout-stage goal in nine tries across six World Cups, and at 41 years and 146 days he became the oldest player ever to score in a World Cup knockout match. Croatia thought they had equalized at the death but VAR ruled Pasalic offside.",
+      "His brace in the 5-0 group-stage rout of Uzbekistan made him the first player to score at six World Cups (2006 through 2026), and the Croatia goal pushed his career total to 976 by beIN's count. Even so, ESPN is openly debating whether Goncalo Ramos, who scored the stoppage-time winner vs Croatia, should start over him against Spain.",
+      "He arrived at this tournament off the best possible spring: in May he finally won the Saudi Pro League with Al Nassr, scoring twice in the 4-1 title clincher over Damac, his first league title since Juventus in 2020. Portugal finished second in Group K behind Colombia after a 1-1 draw with DR Congo, the Uzbekistan rout, and a 0-0 with Colombia."
+     ],
+     "stats": {
+      "matchesPlayed": 4,
+      "goals": 3,
+      "assists": 0,
+      "shots": null,
+      "saves": null,
+      "cleanSheets": null,
+      "goalsConceded": null
+     },
+     "squadStatus": "alive",
+     "confidenceNotes": "Goals (2 vs Uzbekistan, 1 penalty vs Croatia) confirmed by FOX, beIN, Al Jazeera, ESPN and SI. Assists reported as zero in group-stage coverage and the Croatia goals were his penalty plus a Leao-assisted Ramos goal, but no single official stat line was found, so 0 assists is inferred from match reports. Total tournament shots unverifiable (only 3 shots vs DR Congo reported), set to null. Sources conflict on his 2025-26 club league goal total (26 vs 28), not used in output."
+    },
+    {
+     "name": "Vozinha",
+     "nationalTeam": "Cape Verde",
+     "position": "GK",
+     "age": 40,
+     "birthCity": "Mindelo",
+     "birthCountry": "Cape Verde",
+     "birthLatLng": [
+      16.89,
+      -24.99
+     ],
+     "club": "Chaves",
+     "clubCity": "Chaves",
+     "clubCountry": "Portugal",
+     "clubLatLng": [
+      41.74,
+      -7.47
+     ],
+     "league": "Liga Portugal 2",
+     "knownFor": "A 40-year-old former electrician, real name Josimar Dias, who kept goal for second-division Chaves and became the face of Cape Verde's first-ever World Cup.",
+     "watchBecause": "His fairytale just ended in the tournament's best story: 18 saves, a shutout of Spain, a near-upset of Argentina, and he is suddenly the most-followed goalkeeper on social media.",
+     "storylines": [
+      "He opened the World Cup with a seven-save 0-0 against Spain on June 15 and won Player of the Match, becoming at 40 years and 12 days the oldest player ever to appear in a nation's World Cup debut. Cape Verde then drew Uruguay 2-2 and Saudi Arabia 0-0 to sneak out of Group H.",
+      "In the round of 32 on July 3 he made eight saves and nearly authored the biggest upset in World Cup history before Argentina won 3-2 in extra time, surviving a Lopes Cabral stunner. Only Curacao's Ely Room (20) and Paraguay's Orlando Gill (19) out-saved his 18, and among keepers 40 or older only Shilton in 1990 and Zoff in 1982 ever made more in one World Cup.",
+      "The internet adopted him: he gained roughly 17 million Instagram followers within days of the Spain match and has now passed Iker Casillas as the most-followed goalkeeper on social media. The kicker is that his Chaves contract expired June 1, so the tournament's viral star is currently a free agent, telling ESPN he is weighing offers including a move to Brazil."
+     ],
+     "stats": {
+      "matchesPlayed": 4,
+      "goals": null,
+      "assists": null,
+      "shots": null,
+      "saves": 18,
+      "cleanSheets": 2,
+      "goalsConceded": 5
+     },
+     "squadStatus": "eliminated in round of 32 by Argentina (3-2 after extra time, July 3)",
+     "confidenceNotes": "18 tournament saves confirmed by multiple stats roundups (ANI, Open, Goalkeeper Magazine) and consistent with 5 goals conceded; a Wikipedia-derived summary implied 15, treated as less reliable. Per-match save splits reported for Spain (7), Saudi Arabia (3) and Argentina (8); the Uruguay match split was not itemized. He played all four Cape Verde matches per match reports. Club Chaves (19 appearances, 6 clean sheets in 2025-26) confirmed, contract expired June 1, 2026."
+    },
+    {
+     "name": "Nathan Saliba",
+     "nationalTeam": "Canada",
+     "position": "MID",
+     "age": 22,
+     "birthCity": "Longueuil",
+     "birthCountry": "Canada",
+     "birthLatLng": [
+      45.53,
+      -73.52
+     ],
+     "club": "RSC Anderlecht",
+     "clubCity": "Brussels",
+     "clubCountry": "Belgium",
+     "clubLatLng": [
+      50.85,
+      4.35
+     ],
+     "league": "Belgian Pro League",
+     "knownFor": "Tenacious ball-winning midfielder from the CF Montreal academy, 2024 Canada Soccer Young Player of the Year, who moved to Anderlecht in June 2025.",
+     "watchBecause": "He was the breakout Canadian of the host nation's historic first knockout run, stepping into the injured Ismael Kone's shoes and scoring within minutes of doing so.",
+     "storylines": [
+      "His tournament moment: when Kone went down with a gruesome injury against Qatar on June 18, Saliba came on in the 57th minute, scored a sublime free kick seven minutes later in the 6-0 rout, then lifted Kone's empty number 8 jersey to the crowd. He added an assist on a Jonathan David goal in the same 33-minute cameo.",
+      "Promoted to the XI, he assisted Promise David's goal in the 2-1 loss to Switzerland, then started the historic 1-0 round-of-32 win over South Africa on June 28, Canada's first-ever knockout victory, before being subbed at 59 minutes to protect him from a suspension-triggering second yellow.",
+      "Canada's run ended 0-3 against Morocco in Houston on July 4 with Saliba an unused sub as Ounahi scored twice. The 22-year-old leaves the tournament with his stock soaring, already valued around 7.5 million euros and drawing English club chatter after one season in Belgium."
+     ],
+     "stats": {
+      "matchesPlayed": 3,
+      "goals": 1,
+      "assists": 2,
+      "shots": null,
+      "saves": null,
+      "cleanSheets": null,
+      "goalsConceded": null
+     },
+     "squadStatus": "eliminated in round of 16 by Morocco (0-3, July 4); he was an unused substitute in that match",
+     "confidenceNotes": "FotMob match log (Qatar 33 min, Switzerland 90, South Africa 59, Morocco unused, 182 total minutes, 1 goal, 2 assists) is the primary stat source and matches Squawka and CBC reporting. A Wikipedia-derived summary vaguely suggested a Honduras group-opener appearance, which FotMob does not show, so matchesPlayed is 3; if he made a brief unlogged appearance in the opener it could be 4. Tournament shots not found."
+    },
+    {
+     "name": "Yan Diomande",
+     "nationalTeam": "Ivory Coast",
+     "position": "FWD",
+     "age": 19,
+     "birthCity": "Abidjan",
+     "birthCountry": "Ivory Coast",
+     "birthLatLng": [
+      5.36,
+      -4.01
+     ],
+     "club": "RB Leipzig",
+     "clubCity": "Leipzig",
+     "clubCountry": "Germany",
+     "clubLatLng": [
+      51.34,
+      12.37
+     ],
+     "league": "Bundesliga",
+     "knownFor": "Explosive 19-year-old winger who went from Abidjan to a Florida academy at 15, broke through at Leganes, and cost RB Leipzig a 20 million euro release clause in July 2025.",
+     "watchBecause": "He just announced himself as the tournament's wonderkid, man of the match in the opener and the creative engine of Ivory Coast's first-ever knockout run before Haaland's Norway ended it.",
+     "storylines": [
+      "He was man of the match in the 1-0 opening win over Ecuador on June 14, leading Ivory Coast in touches, chances created, duels won and progressive carries, and at 19 years and 212 days became the youngest player ever to appear for Ivory Coast at a World Cup.",
+      "Against Germany he beat Joshua Kimmich to the byline and crossed for Kessie's shock opener before Deniz Undav's 94th-minute winner stole it 2-1; he then assisted in the 2-0 win over Curacao that clinched Ivory Coast's first knockout berth, the youngest Ivorian with a World Cup assist at 19 years and 223 days.",
+      "The run ended 1-2 against Norway in Arlington on June 30, Amad Diallo's 74th-minute equalizer undone by Haaland's 86th-minute winner, with Diomande playing 89 minutes. ESPN reports Europe's top clubs are circling barely a year after Leipzig paid his clause, and he leaves with 12 goals and 8 assists from his debut Bundesliga season."
+     ],
+     "stats": {
+      "matchesPlayed": 4,
+      "goals": 0,
+      "assists": 1,
+      "shots": null,
+      "saves": null,
+      "cleanSheets": null,
+      "goalsConceded": null
+     },
+     "squadStatus": "eliminated in round of 32 by Norway (1-2, June 30)",
+     "confidenceNotes": "FotMob match log (Ecuador 90 min, Germany 85, Curacao 67, Norway 89; 0 goals, 1 assist) agrees with all match reports; a Wikipedia-derived summary claiming 1 goal is contradicted by scorer records (Diallo vs Ecuador, Kessie vs Germany, Pepe vs Curacao, Diallo vs Norway) and was rejected. His Germany cross for Kessie was not credited as an official assist. Tournament shots not found. Born November 14, 2006 per Wikipedia, consistent with the 19 years 212 days record note."
+    }
+   ],
+   "sources": [
+    "https://www.espn.com/soccer/story/_/id/49253213/portugal-ronaldo-survive-late-scare-croatia-world-cup",
+    "https://www.beinsports.com/en-us/soccer/fifa-world-cup-2026/articles/cristiano-ronaldo-ends-his-knockout-stage-world-cup-drought-to-keep-portugal-alive-2026-07-03",
+    "https://www.aljazeera.com/sports/2026/7/3/ronaldo-scores-as-portugal-comeback-to-win-but-croatia-denied-by-late-var",
+    "https://www.si.com/soccer/cristiano-ronaldo-sets-world-cup-record-in-round-of-32",
+    "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/cristiano-ronaldo-portugal-goal-record",
+    "https://www.beinsports.com/en-us/soccer/fifa-world-cup-2026/articles/cristiano-ronaldo-breaks-another-record-with-his-first-world-cup-knockout-goal-reaches-976-career-goals-2026-07-03",
+    "https://www.espn.com/soccer/story/_/id/49255237/portugal-snatch-victory-cristiano-ronaldo-continue",
+    "https://www.espn.com/soccer/story/_/id/49266158/fifa-world-cup-2026-portugal-vs-spain-tv-channel-how-watch-kickoff-live-stream-referee-predicted-lineups",
+    "https://www.aljazeera.com/sports/2026/5/21/ronaldo-scores-twice-to-seal-saudi-pro-league-at-last-with-al-nassr",
+    "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_Group_K",
+    "https://en.wikipedia.org/wiki/Vozinha",
+    "https://www.aljazeera.com/sports/2026/6/16/who-is-vozinha-cape-verdes-viral-goalkeeper-at-the-world-cup",
+    "https://www.espn.com/soccer/story/_/id/49074487/cape-verde-gk-vozinha-stopped-world-cup-favourites-spain-gained-14m-followers",
+    "https://www.espn.com/soccer/story/_/id/49167061/cape-verde-gk-vozinha-seeks-new-club-world-cup-considers-brazil",
+    "https://www.espn.com/soccer/story/_/id/49260981/argentina-cape-verde-live-world-cup-2026-latest-updates-lionel-messi-commentary-score-result",
+    "https://www.fifa.com/en/match-centre/match/17/285023/289273/400021487",
+    "https://www.aninews.in/news/sports/football/fifa-world-cup-2026-vozinha-cabo-verdes-remarkable-tournament-debut-in-numbers20260704100151/",
+    "https://www.aninews.in/news/sports/football/fifa-world-cup-2026-cabo-verdes-vozinha-overtakes-legendary-casillas-becomes-most-followed-goalkeeper-on-social-media20260705220117/",
+    "https://openthemagazine.com/sports/fifa-world-cup-2026-vozinhas-stunning-numbers-prove-why-cabo-verde-won-hearts-despite-argentina-defeat",
+    "https://en.wikipedia.org/wiki/Nathan_Saliba",
+    "https://www.fotmob.com/players/1216798/nathan-saliba",
+    "https://www.cbc.ca/sports/soccer/worldcup/fifa-canada-world-cup-nathan-saliba-chris-jones-june-21-9.7243821",
+    "https://www.squawka.com/ca/news/nathan-saliba/",
+    "https://www.nbcnews.com/sports/soccer/live-blog/canada-south-africa-world-cup-2026-live-updates-rcna352096",
+    "https://www.espn.com/soccer/match/_/gameId/760502/morocco-canada",
+    "https://olympic.ca/2026/07/04/canadas-fifa-world-cup-journey-ends-with-round-of-16-loss-to-morocco/",
+    "https://en.wikipedia.org/wiki/Yan_Diomande",
+    "https://www.fotmob.com/players/1735453/yan-diomande",
+    "https://www.espn.com/soccer/story/_/id/49071185/yan-diomande-lives-hype-ivory-coast-win-vs-ecuador",
+    "https://www.cbssports.com/soccer/news/world-cup-yan-diomande-ivory-coast-win-ecuador/",
+    "https://www.skysports.com/football/news/12098/13553785/world-cup-2026-germany-2-1-ivory-coast-deniz-undav-scores-94th-minute-winner-in-group-e-clash",
+    "https://www.skysports.com/football/ivory-coast-vs-norway/549843",
+    "https://www.fifa.com/en/match-centre/match/17/285023/289287/400021514",
+    "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/world-cup-wonderkids-yan-diomande"
+   ]
+  },
+  "verification": {
+   "verdict": "minor-issues",
+   "discrepancies": [
+    {
+     "what": "Cristiano Ronaldo profile: date of the Portugal 2-1 Croatia round-of-32 match given as July 3 (stated twice in storylines: 'win over Croatia on July 3' and 'his 68th-minute penalty in the 2-1 round-of-32 win over Croatia on July 3')",
+     "severity": "fix",
+     "foundValue": "July 3, 2026",
+     "correctedValue": "July 2, 2026 (Thursday), at Toronto Stadium/BMO Field",
+     "evidence": "ESPN match page is explicitly dated 'Portugal 2-1 Croatia (Jul 2, 2026)' (espn.com/soccer/match/_/gameId/760496); Al Jazeera's live blog URL is /liveblog/2026/7/2/live-portugal-vs-croatia; match reports describe it as played 'on Thursday' (July 2). The researcher's July 3 sources are next-day coverage. All other match details (Perisic 53', Ronaldo penalty 68' after Vlasic foul on Veiga, Ramos header winner 90+4', Gvardiol equalizer disallowed for Pasalic offside via connected-ball VAR review, oldest knockout scorer at 41y146d, R16 vs Spain July 6 in Arlington/Dallas) all verified as correct."
+    },
+    {
+     "what": "Vozinha profile storyline: Curacao goalkeeper's name given as 'Ely Room'",
+     "severity": "fix",
+     "foundValue": "Ely Room",
+     "correctedValue": "Eloy Room",
+     "evidence": "ESPN stats piece 'Room's all-time record 15' and Squawka/Goalkeeper Magazine saves leaderboards spell it Eloy Room (Curacao). The numbers themselves check out: Room leads the tournament with 20 saves, Paraguay's Orlando Gill has 19, and Vozinha's 18 was third-most at Cape Verde's elimination (FOX Sports: 18 saves on 23 shots, .782)."
+    },
+    {
+     "what": "Vozinha profile storyline: 'gained roughly 17 million Instagram followers within days of the Spain match'",
+     "severity": "unconfirmed",
+     "foundValue": "~17 million gained within days",
+     "correctedValue": null,
+     "evidence": "No source found matching 17M. Reports vary widely: ESPN (the researcher's own cited source) says 14m gained after the Spain match, Forbes (June 22) says 15 million, Punch says 'over 18m' gained across the tournament, HITC/Yahoo says ~50K before to ~21.5M now, Turkiye Today says 50K to 20M. The claim he passed Casillas as most-followed goalkeeper is supported (ANI, July 5). The follower-gain figure itself cannot be pinned to 17M."
+    },
+    {
+     "what": "Nathan Saliba profile storyline: substitution minute vs Qatar given as 57th minute (and '33-minute cameo')",
+     "severity": "note",
+     "foundValue": "came on in the 57th minute",
+     "correctedValue": "56th minute per Yahoo/beIN match coverage (FotMob, the researcher's source, evidently logs 57')",
+     "evidence": "Yahoo Canada's match report states 'Saliba came on in the 56th minute to replace Kon\u00e9.' One-minute discrepancy between stat providers; everything else about the moment is confirmed (free-kick goal for Canada's 4th in the 6-0 win June 18 in Vancouver, Kon\u00e9 jersey tribute, assist on Jonathan David's final goal)."
+    }
+   ],
+   "notes": "Everything else verified clean with independent sources. RONALDO: age 41, Portugal, Al Nassr (Riyadh, Saudi Pro League), born Funchal; 4 matches / 3 goals (brace in 5-0 vs Uzbekistan, penalty vs Croatia) confirmed; first man to score at six World Cups confirmed; Group K results exactly as stated (1-1 DR Congo, 5-0 Uzbekistan, 0-0 Colombia, second behind Colombia); Saudi Pro League title May 21, 2026, 4-1 vs Damac with a Ronaldo brace, first league title since Juventus 2020, confirmed by ESPN/Al Jazeera/Outlook; 976 career goals consistent (973 reported at title win + 3 WC goals); alive, faces Spain July 6 in Dallas/Arlington. VOZINHA: b. June 3, 1986 in Mindelo (40, '40 years 12 days' vs Spain checks out), real name Josimar Jos\u00e9 \u00c9vora Dias, G.D. Chaves / Liga Portugal 2 with contract expired June 1, 2026, former electrician confirmed by beIN; 4 matches (7 saves vs Spain, 0 vs Uruguay 2-2, 3 vs Saudi 0-0, 8 vs Argentina), 18 saves / 2 clean sheets / 5 conceded all cross-check (FOX: 18-of-23, .782); eliminated by Argentina 3-2 AET July 3 (Lopes Cabral 103' stunner confirmed); oldest player in a nation's WC debut confirmed. SALIBA: b. Feb 7, 2004 (22), Longueuil, Anderlecht (Belgian Pro League) since June 2025, 2024 Canada Soccer Young Player of the Year confirmed; 3 matches / 1 goal / 2 assists confirmed (Qatar sub goal+assist; STARTED vs Switzerland \u2014 'entering the XI for the injured Kon\u00e9' per MLSSoccer, contradicting a loose Wikipedia summary; started vs South Africa 1-0 June 28 per confirmed lineup); Canada opener was vs Bosnia-Herzegovina (1-1), not Honduras \u2014 researcher correctly excluded it; unused sub in the 0-3 Morocco R16 loss July 4 in Houston (Ounahi double confirmed; Saliba replaced in XI by Sigur). DIOMANDE: b. Nov 14, 2006 in Abidjan (19), RB Leipzig (Bundesliga) \u2014 club confirmed current, Leipzig publicly stated he stays despite PSG interest; \u20ac20m release clause from Legan\u00e9s July 16, 2025 confirmed; DME Academy (Daytona Beach, Florida) at 15 confirmed; 12 goals/8 assists in 33 Bundesliga games confirmed (named 2025-26 Bundesliga Rookie of the Season); 4 WC matches / 0 goals / 1 assist (vs Curacao June 25) confirmed; youngest Ivorian at a WC (19y212d) confirmed; eliminated by Norway 1-2 on June 30 in Arlington (Nusa 39', Diallo 74', Haaland 86') confirmed. Date arithmetic on both Diomande age records is internally consistent with his DOB. Null fields (shots, etc.) remain appropriately unverifiable.",
+   "sources": [
+    "https://www.espn.com/soccer/match/_/gameId/760496/croatia-portugal",
+    "https://www.aljazeera.com/sports/liveblog/2026/7/2/live-portugal-vs-croatia-fifa-world-cup-2026",
+    "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/portugal-croatia-match-report-highlights",
+    "https://www.si.com/soccer/cristiano-ronaldo-sets-world-cup-record-in-round-of-32",
+    "https://www.espn.com/soccer/story/_/id/49256422/fifa-var-correctly-denied-croatia-equaliser-portugal",
+    "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_Group_K",
+    "https://www.espn.com/soccer/story/_/id/48635460/cristiano-ronaldo-first-saudi-title-al-nassr-clinch-league",
+    "https://www.aljazeera.com/sports/2026/5/21/ronaldo-scores-twice-to-seal-saudi-pro-league-at-last-with-al-nassr",
+    "https://en.wikipedia.org/wiki/Vozinha",
+    "https://www.foxsports.com/stories/soccer/meet-vozinha-cape-verdean-goalkeeper-who-shut-out-spain",
+    "https://www.nbcmiami.com/world-cup/cape-verde-uruguay-score-vozinha/3823948/",
+    "https://www.aljazeera.com/sports/2026/6/22/cape-verde-fight-back-for-second-world-cup-draw-2-2-against-uruguay",
+    "https://www.skysports.com/football/argentina-vs-cape-verde/report/549852",
+    "https://www.espn.com/soccer/story/_/id/49131197/fifa-world-cup-2026-stats-eloy-room-all-record-15-denis-undav-equals-roger-milla-5-netherlands-score-100",
+    "https://www.squawka.com/en/news/world-cup/stat-leaders-world-cup-2026-most-saves/",
+    "https://www.beinsports.com/en-us/soccer/fifa-world-cup-2026/articles/the-inspiring-story-of-vozinha-from-working-as-an-electrician-to-becoming-cape-verde-s-hero-at-the-2026-fifa-world-cup-2026-07-05",
+    "https://www.forbes.com/sites/jodiecook/2026/06/22/cape-verde-goalkeeper-gains-15-million-followers-after-world-cup-debut/",
+    "https://en.wikipedia.org/wiki/Nathan_Saliba",
+    "https://canadasoccer.com/news/olivia-smith-and-nathan-saliba-named-canada-soccers-2024-young-players-of-the-year/",
+    "https://ca.news.yahoo.com/live/world-cup-2026-canada-captures-history-in-momentous-6-0-victory-vs-qatar-but-not-without-heartbreaking-injury-for-ismael-kone-200128121.html",
+    "https://www.mlssoccer.com/competitions/fifa-world-cup/news/canada-starting-lineup-vs-switzerland-2026-fifa-world-cup-group-b-finale",
+    "https://www.mlssoccer.com/competitions/fifa-world-cup/news/canada-starting-lineup-vs-south-africa-world-cup-round-of-32",
+    "https://www.cbc.ca/sports/livestory/fifa-world-cup-2026-canada-vs-bosnia-and-herzegovina-june-12-live-updates-9.7222390",
+    "https://www.espn.com/soccer/match/_/gameId/760502/morocco-canada",
+    "https://www.nbcsports.com/soccer/live/canada-vs-morocco-live-updates-score-goals-highlights-stats-from-2026-fifa-world-cup",
+    "https://www.fantasyfootballscout.co.uk/2026/07/04/canada-v-morocco-team-news-halhal-in-for-riad",
+    "https://en.wikipedia.org/wiki/Yan_Diomande",
+    "https://www.bundesliga.com/en/bundesliga/news/yan-diomande-transfer-latest-rb-leipzig-38038",
+    "https://www.dfl.de/en/news/yan-diomande-is-the-bundesliga-rookie-of-the-2025-26-season/",
+    "https://www.skysports.com/football/news/12098/13558812/world-cup-2026-ivory-coast-1-2-norway-erling-haaland-scores-dramatic-winner-to-set-up-last-16-clash-with-brazil",
+    "https://www.espn.com/soccer/story/_/id/49227955/norway-ivory-coast-erling-haaland-world-cup-match-report-last-32",
+    "https://www.aljazeera.com/news/2026/6/30/ivory-coast-norway-fifa-world-cup-round-of-32-prediction-haaland-diomande-lineups"
+   ]
+  }
+ }
+]

@@ -1,0 +1,1467 @@
+{
+ "bracket": {
+  "key": "bracket",
+  "data": {
+   "stage": "Round of 16",
+   "stageDetail": "Round of 16 in progress (July 4-7). 3 of 8 matches played as of July 5: France beat Paraguay and Morocco beat Canada on July 4; Norway beat Brazil earlier on July 5. Mexico vs England kicks off tonight (July 5, 6pm local, Estadio Azteca). Remaining: Portugal-Spain and USA-Belgium July 6, Argentina-Egypt and Switzerland-Colombia July 7. Quarterfinals July 9-11, semifinals July 14-15, third place July 18, final July 19 at MetLife Stadium.",
+   "matches": [
+    {
+     "round": "Round of 32",
+     "teamA": "South Africa",
+     "teamB": "Canada",
+     "played": true,
+     "scoreA": 0,
+     "scoreB": 1,
+     "penalties": null,
+     "winner": "Canada",
+     "date": "June 28",
+     "venue": "SoFi Stadium, Inglewood"
+    },
+    {
+     "round": "Round of 32",
+     "teamA": "Brazil",
+     "teamB": "Japan",
+     "played": true,
+     "scoreA": 2,
+     "scoreB": 1,
+     "penalties": null,
+     "winner": "Brazil",
+     "date": "June 29",
+     "venue": "NRG Stadium, Houston"
+    },
+    {
+     "round": "Round of 32",
+     "teamA": "Germany",
+     "teamB": "Paraguay",
+     "played": true,
+     "scoreA": 1,
+     "scoreB": 1,
+     "penalties": "3-4",
+     "winner": "Paraguay",
+     "date": "June 29",
+     "venue": "Gillette Stadium, Foxborough"
+    },
+    {
+     "round": "Round of 32",
+     "teamA": "Netherlands",
+     "teamB": "Morocco",
+     "played": true,
+     "scoreA": 1,
+     "scoreB": 1,
+     "penalties": "2-3",
+     "winner": "Morocco",
+     "date": "June 29",
+     "venue": "Estadio BBVA, Guadalupe (Monterrey)"
+    },
+    {
+     "round": "Round of 32",
+     "teamA": "France",
+     "teamB": "Sweden",
+     "played": true,
+     "scoreA": 3,
+     "scoreB": 0,
+     "penalties": null,
+     "winner": "France",
+     "date": "June 30",
+     "venue": "MetLife Stadium, East Rutherford"
+    },
+    {
+     "round": "Round of 32",
+     "teamA": "Ivory Coast",
+     "teamB": "Norway",
+     "played": true,
+     "scoreA": 1,
+     "scoreB": 2,
+     "penalties": null,
+     "winner": "Norway",
+     "date": "June 30",
+     "venue": "AT&T Stadium, Arlington"
+    },
+    {
+     "round": "Round of 32",
+     "teamA": "Mexico",
+     "teamB": "Ecuador",
+     "played": true,
+     "scoreA": 2,
+     "scoreB": 0,
+     "penalties": null,
+     "winner": "Mexico",
+     "date": "June 30",
+     "venue": "Estadio Azteca, Mexico City"
+    },
+    {
+     "round": "Round of 32",
+     "teamA": "United States",
+     "teamB": "Bosnia and Herzegovina",
+     "played": true,
+     "scoreA": 2,
+     "scoreB": 0,
+     "penalties": null,
+     "winner": "United States",
+     "date": "July 1",
+     "venue": "Levi's Stadium, Santa Clara"
+    },
+    {
+     "round": "Round of 32",
+     "teamA": "Belgium",
+     "teamB": "Senegal",
+     "played": true,
+     "scoreA": 3,
+     "scoreB": 2,
+     "penalties": null,
+     "winner": "Belgium",
+     "date": "July 1",
+     "venue": "Lumen Field, Seattle"
+    },
+    {
+     "round": "Round of 32",
+     "teamA": "England",
+     "teamB": "DR Congo",
+     "played": true,
+     "scoreA": 2,
+     "scoreB": 1,
+     "penalties": null,
+     "winner": "England",
+     "date": "July 1",
+     "venue": "Mercedes-Benz Stadium, Atlanta"
+    },
+    {
+     "round": "Round of 32",
+     "teamA": "Portugal",
+     "teamB": "Croatia",
+     "played": true,
+     "scoreA": 2,
+     "scoreB": 1,
+     "penalties": null,
+     "winner": "Portugal",
+     "date": "July 2",
+     "venue": "BMO Field, Toronto"
+    },
+    {
+     "round": "Round of 32",
+     "teamA": "Spain",
+     "teamB": "Austria",
+     "played": true,
+     "scoreA": 3,
+     "scoreB": 0,
+     "penalties": null,
+     "winner": "Spain",
+     "date": "July 2",
+     "venue": "SoFi Stadium, Inglewood"
+    },
+    {
+     "round": "Round of 32",
+     "teamA": "Switzerland",
+     "teamB": "Algeria",
+     "played": true,
+     "scoreA": 2,
+     "scoreB": 0,
+     "penalties": null,
+     "winner": "Switzerland",
+     "date": "July 2",
+     "venue": "BC Place, Vancouver"
+    },
+    {
+     "round": "Round of 32",
+     "teamA": "Argentina",
+     "teamB": "Cape Verde",
+     "played": true,
+     "scoreA": 3,
+     "scoreB": 2,
+     "penalties": null,
+     "winner": "Argentina",
+     "date": "July 3",
+     "venue": "Hard Rock Stadium, Miami Gardens"
+    },
+    {
+     "round": "Round of 32",
+     "teamA": "Australia",
+     "teamB": "Egypt",
+     "played": true,
+     "scoreA": 1,
+     "scoreB": 1,
+     "penalties": "2-4",
+     "winner": "Egypt",
+     "date": "July 3",
+     "venue": "AT&T Stadium, Arlington"
+    },
+    {
+     "round": "Round of 32",
+     "teamA": "Colombia",
+     "teamB": "Ghana",
+     "played": true,
+     "scoreA": 1,
+     "scoreB": 0,
+     "penalties": null,
+     "winner": "Colombia",
+     "date": "July 3",
+     "venue": "Arrowhead Stadium, Kansas City"
+    },
+    {
+     "round": "Round of 16",
+     "teamA": "Paraguay",
+     "teamB": "France",
+     "played": true,
+     "scoreA": 0,
+     "scoreB": 1,
+     "penalties": null,
+     "winner": "France",
+     "date": "July 4",
+     "venue": "Lincoln Financial Field, Philadelphia"
+    },
+    {
+     "round": "Round of 16",
+     "teamA": "Canada",
+     "teamB": "Morocco",
+     "played": true,
+     "scoreA": 0,
+     "scoreB": 3,
+     "penalties": null,
+     "winner": "Morocco",
+     "date": "July 4",
+     "venue": "NRG Stadium, Houston"
+    },
+    {
+     "round": "Round of 16",
+     "teamA": "Brazil",
+     "teamB": "Norway",
+     "played": true,
+     "scoreA": 1,
+     "scoreB": 2,
+     "penalties": null,
+     "winner": "Norway",
+     "date": "July 5",
+     "venue": "MetLife Stadium, East Rutherford"
+    },
+    {
+     "round": "Round of 16",
+     "teamA": "Mexico",
+     "teamB": "England",
+     "played": false,
+     "scoreA": null,
+     "scoreB": null,
+     "penalties": null,
+     "winner": null,
+     "date": "July 5",
+     "venue": "Estadio Azteca, Mexico City"
+    },
+    {
+     "round": "Round of 16",
+     "teamA": "Portugal",
+     "teamB": "Spain",
+     "played": false,
+     "scoreA": null,
+     "scoreB": null,
+     "penalties": null,
+     "winner": null,
+     "date": "July 6",
+     "venue": "AT&T Stadium, Arlington"
+    },
+    {
+     "round": "Round of 16",
+     "teamA": "United States",
+     "teamB": "Belgium",
+     "played": false,
+     "scoreA": null,
+     "scoreB": null,
+     "penalties": null,
+     "winner": null,
+     "date": "July 6",
+     "venue": "Lumen Field, Seattle"
+    },
+    {
+     "round": "Round of 16",
+     "teamA": "Argentina",
+     "teamB": "Egypt",
+     "played": false,
+     "scoreA": null,
+     "scoreB": null,
+     "penalties": null,
+     "winner": null,
+     "date": "July 7",
+     "venue": "Mercedes-Benz Stadium, Atlanta"
+    },
+    {
+     "round": "Round of 16",
+     "teamA": "Switzerland",
+     "teamB": "Colombia",
+     "played": false,
+     "scoreA": null,
+     "scoreB": null,
+     "penalties": null,
+     "winner": null,
+     "date": "July 7",
+     "venue": "BC Place, Vancouver"
+    },
+    {
+     "round": "Quarterfinal",
+     "teamA": "France",
+     "teamB": "Morocco",
+     "played": false,
+     "scoreA": null,
+     "scoreB": null,
+     "penalties": null,
+     "winner": null,
+     "date": "July 9",
+     "venue": "Gillette Stadium, Foxborough"
+    },
+    {
+     "round": "Quarterfinal",
+     "teamA": "Winner R16 Portugal/Spain (Match 93)",
+     "teamB": "Winner R16 United States/Belgium (Match 94)",
+     "played": false,
+     "scoreA": null,
+     "scoreB": null,
+     "penalties": null,
+     "winner": null,
+     "date": "July 10",
+     "venue": "SoFi Stadium, Inglewood"
+    },
+    {
+     "round": "Quarterfinal",
+     "teamA": "Norway",
+     "teamB": "Winner R16 Mexico/England (Match 92)",
+     "played": false,
+     "scoreA": null,
+     "scoreB": null,
+     "penalties": null,
+     "winner": null,
+     "date": "July 11",
+     "venue": "Hard Rock Stadium, Miami Gardens"
+    },
+    {
+     "round": "Quarterfinal",
+     "teamA": "Winner R16 Argentina/Egypt (Match 95)",
+     "teamB": "Winner R16 Switzerland/Colombia (Match 96)",
+     "played": false,
+     "scoreA": null,
+     "scoreB": null,
+     "penalties": null,
+     "winner": null,
+     "date": "July 11",
+     "venue": "Arrowhead Stadium, Kansas City"
+    },
+    {
+     "round": "Semifinal",
+     "teamA": "Winner QF Match 97 (France/Morocco)",
+     "teamB": "Winner QF Match 98",
+     "played": false,
+     "scoreA": null,
+     "scoreB": null,
+     "penalties": null,
+     "winner": null,
+     "date": "July 14",
+     "venue": "AT&T Stadium, Arlington"
+    },
+    {
+     "round": "Semifinal",
+     "teamA": "Winner QF Match 99",
+     "teamB": "Winner QF Match 100",
+     "played": false,
+     "scoreA": null,
+     "scoreB": null,
+     "penalties": null,
+     "winner": null,
+     "date": "July 15",
+     "venue": "Mercedes-Benz Stadium, Atlanta"
+    },
+    {
+     "round": "Third place",
+     "teamA": "Loser SF Match 101",
+     "teamB": "Loser SF Match 102",
+     "played": false,
+     "scoreA": null,
+     "scoreB": null,
+     "penalties": null,
+     "winner": null,
+     "date": "July 18",
+     "venue": "Hard Rock Stadium, Miami Gardens"
+    },
+    {
+     "round": "Final",
+     "teamA": "Winner SF Match 101",
+     "teamB": "Winner SF Match 102",
+     "played": false,
+     "scoreA": null,
+     "scoreB": null,
+     "penalties": null,
+     "winner": null,
+     "date": "July 19",
+     "venue": "MetLife Stadium, East Rutherford"
+    }
+   ],
+   "aliveTeams": [
+    {
+     "name": "France",
+     "group": "I"
+    },
+    {
+     "name": "Morocco",
+     "group": "C"
+    },
+    {
+     "name": "Norway",
+     "group": "I"
+    },
+    {
+     "name": "Mexico",
+     "group": "A"
+    },
+    {
+     "name": "England",
+     "group": "L"
+    },
+    {
+     "name": "Portugal",
+     "group": "K"
+    },
+    {
+     "name": "Spain",
+     "group": "H"
+    },
+    {
+     "name": "United States",
+     "group": "D"
+    },
+    {
+     "name": "Belgium",
+     "group": "G"
+    },
+    {
+     "name": "Argentina",
+     "group": "J"
+    },
+    {
+     "name": "Egypt",
+     "group": "G"
+    },
+    {
+     "name": "Switzerland",
+     "group": "B"
+    },
+    {
+     "name": "Colombia",
+     "group": "K"
+    }
+   ],
+   "knockoutEliminations": [
+    {
+     "team": "South Africa",
+     "by": "Canada",
+     "round": "Round of 32"
+    },
+    {
+     "team": "Japan",
+     "by": "Brazil",
+     "round": "Round of 32"
+    },
+    {
+     "team": "Germany",
+     "by": "Paraguay",
+     "round": "Round of 32"
+    },
+    {
+     "team": "Netherlands",
+     "by": "Morocco",
+     "round": "Round of 32"
+    },
+    {
+     "team": "Sweden",
+     "by": "France",
+     "round": "Round of 32"
+    },
+    {
+     "team": "Ivory Coast",
+     "by": "Norway",
+     "round": "Round of 32"
+    },
+    {
+     "team": "Ecuador",
+     "by": "Mexico",
+     "round": "Round of 32"
+    },
+    {
+     "team": "Bosnia and Herzegovina",
+     "by": "United States",
+     "round": "Round of 32"
+    },
+    {
+     "team": "Senegal",
+     "by": "Belgium",
+     "round": "Round of 32"
+    },
+    {
+     "team": "DR Congo",
+     "by": "England",
+     "round": "Round of 32"
+    },
+    {
+     "team": "Croatia",
+     "by": "Portugal",
+     "round": "Round of 32"
+    },
+    {
+     "team": "Austria",
+     "by": "Spain",
+     "round": "Round of 32"
+    },
+    {
+     "team": "Algeria",
+     "by": "Switzerland",
+     "round": "Round of 32"
+    },
+    {
+     "team": "Cape Verde",
+     "by": "Argentina",
+     "round": "Round of 32"
+    },
+    {
+     "team": "Australia",
+     "by": "Egypt",
+     "round": "Round of 32"
+    },
+    {
+     "team": "Ghana",
+     "by": "Colombia",
+     "round": "Round of 32"
+    },
+    {
+     "team": "Paraguay",
+     "by": "France",
+     "round": "Round of 16"
+    },
+    {
+     "team": "Canada",
+     "by": "Morocco",
+     "round": "Round of 16"
+    },
+    {
+     "team": "Brazil",
+     "by": "Norway",
+     "round": "Round of 16"
+    }
+   ],
+   "notes": "All scores taken from raw Wikipedia wikitext of '2026 FIFA World Cup knockout stage' and '2026 FIFA World Cup round of 32' (bracket + per-match football boxes with aet/penaltyscore fields), cross-confirmed with ESPN, Sky Sports, Al Jazeera, FIFA.com, SBS and Yahoo. Extra-time matches: Germany-Paraguay 1-1 aet (pens 3-4), Netherlands-Morocco 1-1 aet (pens 2-3), Australia-Egypt 1-1 aet (pens 2-4), Belgium 3-2 Senegal aet, Argentina 3-2 Cape Verde aet; all other played matches ended in 90 minutes. Penalty shootouts flagged in the penalties field, teamA score first. Brazil-Norway (Haaland brace 79' and 90', Neymar penalty consolation) finished earlier today July 5; Mexico-England kicks off 18:00 local tonight July 5 at Estadio Azteca, so it is listed as not played - note englandfootball.com dates it 'Monday 6 July' in UK time (1:00 BST), a timezone artifact, local date is July 5. One WebFetch summarization of the truncated Wikipedia page returned hallucinated future QF/SF 'results' (impossible as of July 5); it was discarded in favor of the raw wikitext, which shows all QF/SF/final slots empty. QF matchups already part-known: France vs Morocco (July 9), Norway vs Mexico/England winner (July 11, confirmed by Sky Sports and amNewYork). Alive teams count 13 = 16 R16 qualifiers minus 3 R16 losers so far. Group letters from the knockout-stage 'Qualified teams' table. Match count: 16 R32 + 8 R16 + 4 QF + 2 SF + 1 third-place + 1 final = 32 entries.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_knockout_stage",
+    "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_round_of_32",
+    "https://www.espn.com/soccer/story/_/id/49279982/brazil-norway-world-cup-2026-erling-haaland",
+    "https://www.espn.com/soccer/match/_/gameId/760502/morocco-canada",
+    "https://www.skysports.com/football/news/17251/13558815/world-cup-2026-germany-1-1-paraguay-3-4-on-penalties-four-time-winners-dumped-out-in-stunning-last-32-exit",
+    "https://www.skysports.com/football/canada-vs-morocco/report/549854",
+    "https://www.skysports.com/football/news/12098/13558810/world-cup-2026-australia-1-1-egypt-2-4-on-penalties-shoot-out-drama-sends-mohamed-salah-and-co-into-last-16",
+    "https://www.aljazeera.com/sports/2026/7/5/haaland-scores-twice-as-norway-stun-brazil-2-1-in-world-cup-2026-last-16",
+    "https://www.aljazeera.com/sports/2026/7/3/egypt-beat-australia-on-penalties-to-win-first-world-cup-knockout-match",
+    "https://www.aljazeera.com/sports/2026/7/5/mexico-vs-england-fifa-world-cup-2026-kane-prediction-kickoff-time-altitude-round-of-16",
+    "https://www.aljazeera.com/sports/2026/7/4/fifa-world-cup-round-of-16-match-schedule-which-teams-qualified",
+    "https://www.fifa.com/en/match-centre/match/17/285023/289287/400021513",
+    "https://www.fifa.com/en/match-centre/match/17/285023/289288/400021530",
+    "https://www.sbs.com.au/news/live-blog/australia-v-egypt-world-cup-live-score-updates/pu1sh9wyy",
+    "https://sports.yahoo.com/soccer/live/world-cup-2026-bracket-scores-results-schedule-live-updates-round-of-32-173000083.html",
+    "https://www.olympics.com/en/news/fifa-world-cup-2026-canada-vs-morocco-round-of-16-score-lineups-live-updates",
+    "https://www.amny.com/sports/soccer/world-cup-haaland-norway-brazil/"
+   ]
+  },
+  "verification": {
+   "verdict": "confirmed",
+   "discrepancies": [
+    {
+     "what": "Mexico vs England (R16, July 5, Estadio Azteca) described as 'kicks off tonight 6pm local'",
+     "severity": "note",
+     "foundValue": "played: false, kickoff 6pm local July 5",
+     "correctedValue": null,
+     "evidence": "Yahoo Sports live blog headline (July 5): 'Storm delays Mexico vs. England after Erling Haaland's brace sends Brazil home' \u2014 the match is storm-delayed but still scheduled for July 5 local time and remains unplayed, so the dataset's played:false/scoreA:null/scoreB:null is correct; the app may want to surface the delay. 8pm ET listed by CBS = 6pm Mexico City (UTC-6), so '6pm local' is right."
+    }
+   ],
+   "sources": [
+    "https://www.espn.com/soccer/match/_/gameId/760504/norway-brazil",
+    "https://www.espn.com/soccer/story/_/id/49279982/brazil-norway-world-cup-2026-erling-haaland",
+    "https://www.cbssports.com/soccer/news/2026-fifa-world-cup-bracket-round-of-32-results-round-of-16-matchups-final/",
+    "https://www.cnn.com/2026/07/04/sport/round-of-16-canada-morocco-paraguay-france",
+    "https://sports.yahoo.com/soccer/live/world-cup-2026-bracket-schedule-scores-results-live-updates-round-of-16-130000983.html",
+    "https://sports.yahoo.com/soccer/live/world-cup-2026-bracket-scores-results-schedule-live-updates-round-of-32-173000083.html",
+    "https://www.foxsports.com/stories/soccer/erling-haaland-ends-brazils-world-cup-brace-norway-round-16",
+    "https://www.nbclosangeles.com/world-cup/brazil-norway-score-haaland-neymar/3913107/",
+    "https://abcnews.com/Sports/wireStory/egypt-australia-head-penalty-shootout-world-cup-match-134453072",
+    "https://www.outlookindia.com/sports/football/australia-vs-egypt-live-score-fifa-world-cup-2026-round-of-32-aus-vs-egy-updates-dallas-stadium-highlights",
+    "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/switzerland-algeria-match-report-highlights",
+    "https://www.aljazeera.com/sports/2026/7/5/haaland-scores-twice-as-norway-stun-brazil-2-1-in-world-cup-2026-last-16",
+    "https://www.aljazeera.com/sports/2026/7/4/fifa-world-cup-round-of-16-match-schedule-which-teams-qualified",
+    "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_knockout_stage",
+    "https://en.wikipedia.org/w/index.php?title=2026_FIFA_World_Cup_round_of_32&action=raw",
+    "https://www.olympics.com/en/news/fifa-world-cup-2026-every-match-result-friday-3-july-live-scores",
+    "https://www.nbcsports.com/soccer/news/2026-world-cup-schedule-kick-off-times-stadiums-dates-groups-how-to-watch-live-bracket"
+   ],
+   "notes": "Independent verification via 8 searches + 4 fetches, preferring sources outside the dataset's list (CBS, CNN, Fox, ABC, Outlook India, NBC, Olympics.com, FIFA match report). All 16 R32 scores/penalties/venues/dates confirmed (incl. Germany 1-1 Paraguay 3-4 pens Gillette; Netherlands 1-1 Morocco 2-3 pens Estadio BBVA; Australia 1-1 Egypt 2-4 pens AT&T Arlington per ABC/Outlook/FOX4; Switzerland 2-0 Algeria BC Place per FIFA.com; Argentina 3-2 Cape Verde aet Hard Rock; Colombia 1-0 Ghana Arrowhead). All 3 played R16 results confirmed: France 1-0 Paraguay (Mbappe pen, Philadelphia), Morocco 3-0 Canada (Ounahi brace, Houston), Norway 2-1 Brazil (Haaland 79'/90', Neymar stoppage-time pen, East Rutherford). Conflict logged: CBS's bracket article lists Brazil-Norway as 0-2, but ESPN's match page ('Brazil 1-2 Norway Final Score'), Al Jazeera, NBC and Fox all report 1-2 with Neymar's stoppage-time penalty; the dataset's 1-2 stands (CBS likely unupdated for the late penalty). Remaining R16 schedule/venues confirmed (Portugal-Spain July 6 AT&T; USA-Belgium July 6 Lumen; Argentina-Egypt July 7 Mercedes-Benz; Switzerland-Colombia July 7 BC Place \u2014 FIFA.com also confirms Switzerland stays in Vancouver for July 7). QF structure confirmed: France-Morocco July 9 Gillette; W93/W94 July 10 SoFi; Norway vs W92 July 11 Hard Rock; W95/W96 July 11 Arrowhead; SF July 14 Dallas (Boston+LA winners) and July 15 Atlanta (Miami+KC winners); third place July 18 Hard Rock; final July 19 MetLife. Match numbers 92-97 match Wikipedia's numbering (R16 = 89-96, QF = 97-100). All 13 aliveTeams group letters match Wikipedia's qualified-teams table (Mexico A, Switzerland B, Morocco C, USA D, Belgium+Egypt G, Spain H, France+Norway I, Argentina J, Colombia+Portugal K, England L). Eliminations list internally consistent with match results. Caution echoed: one WebFetch summarization of the truncated Wikipedia knockout page returned hallucinated R16/QF 'results' (e.g. Mexico 0-2 England on July 1) \u2014 discarded, matching the dataset's own warning about that exact failure mode."
+  }
+ },
+ "odds": {
+  "key": "odds",
+  "data": {
+   "odds": [
+    {
+     "team": "France",
+     "rawOdds": "+160",
+     "impliedPct": 38.46,
+     "source": "FanDuel Sportsbook (via FOX Sports)",
+     "freshness": "July 5, 2026, 7:15 p.m. ET (post Norway-Brazil result; France already through to QF)"
+    },
+    {
+     "team": "Argentina",
+     "rawOdds": "+440",
+     "impliedPct": 18.52,
+     "source": "FanDuel Sportsbook (via FOX Sports)",
+     "freshness": "July 5, 2026, 7:15 p.m. ET (plays Egypt in R16 on July 7)"
+    },
+    {
+     "team": "Spain",
+     "rawOdds": "+550",
+     "impliedPct": 15.38,
+     "source": "FanDuel Sportsbook (via FOX Sports)",
+     "freshness": "July 5, 2026, 7:15 p.m. ET (plays Portugal in R16 on July 6)"
+    },
+    {
+     "team": "England",
+     "rawOdds": "+950",
+     "impliedPct": 9.52,
+     "source": "FanDuel Sportsbook (via FOX Sports)",
+     "freshness": "July 5, 2026, 7:15 p.m. ET (R16 vs Mexico storm-delayed, in progress at snapshot)"
+    },
+    {
+     "team": "Portugal",
+     "rawOdds": "+1400",
+     "impliedPct": 6.67,
+     "source": "FanDuel Sportsbook (via FOX Sports)",
+     "freshness": "July 5, 2026, 7:15 p.m. ET (plays Spain in R16 on July 6)"
+    },
+    {
+     "team": "Norway",
+     "rawOdds": "+1400",
+     "impliedPct": 6.67,
+     "source": "FanDuel Sportsbook (via FOX Sports)",
+     "freshness": "July 5, 2026, 7:15 p.m. ET (surged from +4000 after 2-1 R16 upset of Brazil; through to QF)"
+    },
+    {
+     "team": "Colombia",
+     "rawOdds": "+2200",
+     "impliedPct": 4.35,
+     "source": "FanDuel Sportsbook (via FOX Sports)",
+     "freshness": "July 5, 2026, 7:15 p.m. ET (plays Switzerland in R16)"
+    },
+    {
+     "team": "Mexico",
+     "rawOdds": "+2200",
+     "impliedPct": 4.35,
+     "source": "FanDuel Sportsbook (via FOX Sports)",
+     "freshness": "July 5, 2026, 7:15 p.m. ET (R16 vs England storm-delayed, in progress at snapshot)"
+    },
+    {
+     "team": "Morocco",
+     "rawOdds": "+3000",
+     "impliedPct": 3.23,
+     "source": "FanDuel Sportsbook (via FOX Sports)",
+     "freshness": "July 5, 2026, 7:15 p.m. ET (beat Canada 3-0; through to QF vs France)"
+    },
+    {
+     "team": "United States",
+     "rawOdds": "+3000",
+     "impliedPct": 3.23,
+     "source": "FanDuel Sportsbook (via FOX Sports)",
+     "freshness": "July 5, 2026, 7:15 p.m. ET (plays Belgium in R16)"
+    },
+    {
+     "team": "Belgium",
+     "rawOdds": "+5000",
+     "impliedPct": 1.96,
+     "source": "FanDuel Sportsbook (via FOX Sports)",
+     "freshness": "July 5, 2026, 7:15 p.m. ET (plays USA in R16)"
+    },
+    {
+     "team": "Switzerland",
+     "rawOdds": "+6000",
+     "impliedPct": 1.64,
+     "source": "FanDuel Sportsbook (via FOX Sports)",
+     "freshness": "July 5, 2026, 7:15 p.m. ET (plays Colombia in R16)"
+    },
+    {
+     "team": "Egypt",
+     "rawOdds": "+30000",
+     "impliedPct": 0.33,
+     "source": "FanDuel Sportsbook (via FOX Sports)",
+     "freshness": "July 5, 2026, 7:15 p.m. ET (plays Argentina in R16 on July 7)"
+    }
+   ],
+   "favoritesInOrder": [
+    "France",
+    "Argentina",
+    "Spain",
+    "England",
+    "Portugal",
+    "Norway"
+   ],
+   "sources": [
+    "https://www.foxsports.com/stories/soccer/world-cup-2026-champion-odds",
+    "https://sports.yahoo.com/soccer/betting/article/2026-world-cup-betting-odds-for-remaining-round-of-16-teams-to-win-it-all-141109939.html",
+    "https://theanalyst.com/articles/world-cup-predictions-2026-quarter-finals-opta-supercomputer",
+    "https://www.vegasinsider.com/soccer/odds/world-cup/",
+    "https://www.espn.com/soccer/story/_/id/49279982/brazil-norway-world-cup-2026-erling-haaland",
+    "https://www.aljazeera.com/sports/2026/7/5/haaland-scores-twice-as-norway-stun-brazil-2-1-in-world-cup-2026-last-16",
+    "https://www.olympics.com/en/news/fifa-world-cup-2026-bracket-quarter-finals-full-schedule-live-updates",
+    "https://www.skysports.com/football/news/12016/13560286/world-cup-2026-englands-last-16-tie-with-mexico-will-kick-off-at-1am-monday",
+    "https://www.natesilver.net/p/world-cup-2026-odds-predictions"
+   ],
+   "notes": "Tournament state at snapshot (July 5, 2026, evening ET): Round of 16 of the 48-team World Cup is in progress; final is July 19 at MetLife. Through to quarterfinals: Morocco (3-0 vs Canada), France (1-0 vs Paraguay), Norway (2-1 upset of Brazil, Haaland brace \u2014 Brazil's earliest exit since 1990). Eliminated so far in R16: Canada, Paraguay, Brazil. Still to play R16: Mexico vs England (storm-delayed to ~1am UK July 6, effectively in progress at snapshot), Spain vs Portugal (July 6), USA vs Belgium, Argentina vs Egypt, Switzerland vs Colombia \u2014 so 13 teams alive, all listed. Primary odds source: FanDuel board published by FOX Sports July 5, 7:15 p.m. ET, the freshest complete post-Norway-upset list covering all 13 alive teams. impliedPct is my own raw conversion of American odds (100/(decimal)); NOT normalized (FanDuel's 13 implied pcts sum to ~114%, the vig). Conflicts: (1) BetMGM July 4 (via Yahoo) had Spain +800 ahead of England +900 and Norway at 25-1 \u2014 pre-Norway-upset, superseded by FanDuel July 5; (2) VegasInsider's BetMGM board timestamped 9:06 p.m. July 5 still listed Brazil +1100 and Norway +3300, i.e. stale despite the newer timestamp, so I preferred FanDuel; (3) Opta supercomputer model (25,000 sims, run July 4 BEFORE R16 games) as model cross-check: France 28.9%, Argentina 16.3%, Spain 13.0%, England 8.1%, Portugal 5.0%, Colombia 3.4%, Morocco 3.2%, Norway 2.9%, Mexico 2.7%, USA 2.1% (no Belgium/Egypt/Switzerland figures published; still included Brazil 9.1%). Nate Silver's new PELE model (July 5) exists but exact percentages are paywalled. Egypt's +30000 is a real published FanDuel number, not a placeholder."
+  },
+  "verification": {
+   "verdict": "minor-issues",
+   "discrepancies": [
+    {
+     "what": "England and Mexico freshness fields (and notes) say the England-Mexico R16 tie was 'in progress' at the July 5, 7:15 p.m. ET snapshot",
+     "severity": "note",
+     "foundValue": "R16 vs England/Mexico storm-delayed, in progress at snapshot",
+     "correctedValue": "Not yet kicked off at snapshot: scheduled kickoff was 8:00 p.m. ET July 5 (1 a.m. UK July 6, per Sky Sports); a thunderstorm at Estadio Azteca then delayed kickoff a further hour to ~9:00 p.m. ET (~2 a.m. UK), so at 7:15 p.m. ET the match was pre-kickoff/delayed, not underway",
+     "evidence": "ABC7: 'Mexico-England World Cup round of 16 match delayed by 1 hour due to thunderstorm... on Sunday night as a thunderstorm rolled through Estadio Azteca'; beIN Sports: 'FIFA Confirms New Kickoff Time After Weather Delay'; Sky Sports had the scheduled kickoff at 1am UK Monday (= 8 p.m. ET)"
+    },
+    {
+     "what": "favoritesInOrder ranks Portugal 5th and Norway 6th, but both are +1400 on the same FanDuel board, so the ordering between them is arbitrary; FOX's own table listed Norway above Portugal",
+     "severity": "note",
+     "foundValue": "[\"France\",\"Argentina\",\"Spain\",\"England\",\"Portugal\",\"Norway\"]",
+     "correctedValue": "Positions 5-6 are a dead heat at +1400; either order is defensible (FOX listed Norway then Portugal). Treat as tied rather than strictly ordered.",
+     "evidence": "FOX Sports FanDuel board July 5, 7:15 p.m. ET: Norway +1400, Portugal +1400"
+    }
+   ],
+   "sources": [
+    "https://www.foxsports.com/stories/soccer/world-cup-2026-champion-odds",
+    "https://www.cbssports.com/betting/news/world-cup-odds/",
+    "https://www.espn.com/soccer/story/_/id/49279982/brazil-norway-world-cup-2026-erling-haaland",
+    "https://sports.yahoo.com/soccer/article/world-cup-2026-erling-haaland-scores-twice-and-norway-shocks-brazil-2-1-to-advance-to-quarterfinals-220552249.html",
+    "https://www.nbclosangeles.com/world-cup/brazil-norway-score-haaland-neymar/3913107/",
+    "https://www.espn.com/soccer/match/_/gameId/760503/france-paraguay",
+    "https://www.fifa.com/en/match-centre/match/17/285023/289288/400021533",
+    "https://www.cbssports.com/soccer/news/france-paraguay-live-updates-world-cup-2026-score-result/live/",
+    "https://www.espn.com/soccer/match/_/gameId/760502/morocco-canada",
+    "https://www.nbcsports.com/soccer/live/canada-vs-morocco-live-updates-score-goals-highlights-stats-from-2026-fifa-world-cup",
+    "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/canada-morocco-match-report-highlights",
+    "https://abc7.com/post/world-cup-2026-mexico-england-round-16-match-delayed-1-hour-due-thunderstorm/19454562/",
+    "https://www.beinsports.com/en-us/soccer/fifa-world-cup-2026/articles/will-mexico-vs-england-be-delayed-because-of-the-storm-here-s-what-we-know-2026-07-05",
+    "https://www.skysports.com/football/news/12098/13560485/world-cup-2026-england-kick-off-chaos-explained-and-how-storms-hitting-mexico-could-delay-the-last-16-tie",
+    "https://www.espn.com/soccer/match/_/gameId/760506/spain-portugal",
+    "https://www.ussoccer.com/competitions/fifa-world-cup-26/matches/united-states-vs-belgium-tickets-live-score-match-hub-lineups-highlights",
+    "https://www.espn.com/soccer/match/_/gameId/760509/egypt-argentina",
+    "https://www.espn.com/soccer/match/_/gameId/760508/colombia-switzerland",
+    "https://www.fifa.com/en/match-centre/match/17/285023/289288/400021535",
+    "https://www.olympics.com/en/news/fifa-world-cup-2026-how-to-watch-usa-vs-belgium-round-16-head-to-head-full-schedule"
+   ],
+   "notes": "All 13 odds values verified exactly against the FanDuel board published by FOX Sports (July 5, 2026, 7:15 p.m. ET): France +160, Argentina +440, Spain +550, England +950, Norway +1400, Portugal +1400, Colombia +2200, Mexico +2200, Morocco +3000, USA +3000, Belgium +5000, Switzerland +6000, Egypt +30000 (Egypt's +30000 is genuinely on the board). All 13 impliedPct values recomputed and mathematically correct for raw American-odds conversion (sum ~114.3%, matching the stated vig; correctly labeled as un-normalized). All match facts verified from independent sources: Norway 2-1 Brazil with a Haaland brace (Brazil's earliest exit since 1990, per ESPN); France 1-0 Paraguay (Mbappe penalty, July 4, Philadelphia); Morocco 3-0 Canada (Ounahi double, July 4, Houston) with Morocco's QF vs France confirmed; remaining R16 fixtures confirmed as Spain-Portugal July 6 (Arlington), USA-Belgium July 6 (Seattle), Argentina-Egypt July 7 (Atlanta), Switzerland-Colombia July 7 (Vancouver, final R16 tie), England-Mexico July 5 (Estadio Azteca). The 13-teams-alive count is internally consistent (3 QF-bound + 10 still to play across 5 remaining R16 ties; Canada, Paraguay, Brazil eliminated). Norway's surge from +4000 to +1400 independently corroborated. Conflicts encountered: (1) CBS Sports' odds page dated July 5 still carried a stale pre-Norway-upset FanDuel board (Brazil +1100 listed, no Norway) \u2014 corroborates the dataset's observation that some boards lagged the result; preferred the post-upset FOX board. (2) A FanDuel live-site snippet showed France +180/Argentina +410 and a BetMGM note had France moving +188 to +175 \u2014 these reflect later line movement or a different book, not errors in the 7:15 p.m. ET snapshot. Unverifiable but non-load-bearing notes content: the Opta supercomputer percentages and the Nate Silver PELE model claim were not independently re-verified (model commentary only, not dataset fields). The two reported discrepancies are annotation-level only; no odds value, implied percentage, score, or bracket fact required correction."
+  }
+ },
+ "leaders": {
+  "key": "leaders",
+  "data": {
+   "topScorers": [
+    {
+     "name": "Kylian Mbapp\u00e9",
+     "team": "France",
+     "goals": 7,
+     "assists": 2,
+     "matchesPlayed": null
+    },
+    {
+     "name": "Lionel Messi",
+     "team": "Argentina",
+     "goals": 7,
+     "assists": 0,
+     "matchesPlayed": null
+    },
+    {
+     "name": "Erling Haaland",
+     "team": "Norway",
+     "goals": 7,
+     "assists": 0,
+     "matchesPlayed": null
+    },
+    {
+     "name": "Harry Kane",
+     "team": "England",
+     "goals": 5,
+     "assists": 0,
+     "matchesPlayed": null
+    },
+    {
+     "name": "Ousmane Demb\u00e9l\u00e9",
+     "team": "France",
+     "goals": 4,
+     "assists": 2,
+     "matchesPlayed": null
+    },
+    {
+     "name": "Mikel Oyarzabal",
+     "team": "Spain",
+     "goals": 4,
+     "assists": 1,
+     "matchesPlayed": null
+    },
+    {
+     "name": "Vin\u00edcius J\u00fanior",
+     "team": "Brazil",
+     "goals": 4,
+     "assists": 1,
+     "matchesPlayed": null
+    },
+    {
+     "name": "Isma\u00efla Sarr",
+     "team": "Senegal",
+     "goals": 4,
+     "assists": 1,
+     "matchesPlayed": null
+    },
+    {
+     "name": "Johan Manzambi",
+     "team": "Switzerland",
+     "goals": 3,
+     "assists": 2,
+     "matchesPlayed": null
+    },
+    {
+     "name": "Juli\u00e1n Qui\u00f1ones",
+     "team": "Mexico",
+     "goals": 3,
+     "assists": 1,
+     "matchesPlayed": null
+    }
+   ],
+   "topAssists": [
+    {
+     "name": "Michael Olise",
+     "team": "France",
+     "assists": 5,
+     "goals": null
+    },
+    {
+     "name": "Bruno Guimar\u00e3es",
+     "team": "Brazil",
+     "assists": 4,
+     "goals": null
+    },
+    {
+     "name": "Brahim D\u00edaz",
+     "team": "Morocco",
+     "assists": 4,
+     "goals": null
+    },
+    {
+     "name": "Roberto Alvarado",
+     "team": "Mexico",
+     "assists": 3,
+     "goals": null
+    },
+    {
+     "name": "Alexander Isak",
+     "team": "Sweden",
+     "assists": 3,
+     "goals": null
+    },
+    {
+     "name": "Martin \u00d8degaard",
+     "team": "Norway",
+     "assists": 3,
+     "goals": null
+    },
+    {
+     "name": "Florian Wirtz",
+     "team": "Germany",
+     "assists": 3,
+     "goals": null
+    },
+    {
+     "name": "Kylian Mbapp\u00e9",
+     "team": "France",
+     "assists": 2,
+     "goals": 7
+    }
+   ],
+   "notes": "All figures are 2026 World Cup tournament-only, as of July 5, 2026 (mid/late Round of 16; Norway-Brazil, France-Paraguay, Morocco-Canada R16 results included). GOALS: Messi/Mbapp\u00e9/Haaland at 7 each is confirmed by four independent July-5 sources: Sky Sports (updated Jul 5 23:29 UK, includes Haaland's brace vs Brazil), Wikipedia's 2026 FIFA World Cup goalscorers data module (as of 2026-07-05), FOX Sports Golden Boot tracker (Jul 5, 6:36 p.m. ET), and NBC Sports (Jul 5). CONFLICT: Depor's live blog and one search-summary paraphrase of an updated Yahoo article claimed 8-8-8; I rejected this outlier in favor of the four corroborating sources above. Goal.com and Planet Football pages still showed Haaland at 5 (stale, pre-Brazil match). CONFLICT: FOX omitted Isma\u00efla Sarr from its 4-goal group, but Wikipedia, NBC, Goal.com, Depor and match reports all confirm Sarr at 4. Ordering within goal ties uses FIFA's official tiebreaker (assists): Mbapp\u00e9 (2A) ahead of Messi/Haaland (0A each; Messi-vs-Haaland order would fall to minutes played, which I could not verify). Ranks 9-10 come from a 12-player tie at 3 goals (Wikipedia list: Cunha, David, Qui\u00f1ones, Havertz, Undav, Saibari, Brobbey, Gakpo, Just, Balogun, Manzambi, Wissa); Manzambi and Qui\u00f1ones were selected by the assists tiebreaker, matching Yahoo's published ranking. Note FOX/Goal also listed Cristiano Ronaldo at 3 goals but Wikipedia's Jul-5 module does not; he is excluded. matchesPlayed: no source published per-player match counts for the scorer table, so all are null rather than guessed. ASSISTS: FIFA/Wikipedia-style convention as aggregated by Planet Football, Wego, OneFootball and match reports (Olise 5; Guimar\u00e3es 4; Brahim D\u00edaz 4 confirmed by Morocco World News and Dailysports, '4 assists in 5 matches' after two assists vs Canada in R16; then Alvarado/Isak/\u00d8degaard/Wirtz at 3). CONFLICT: Planet Football and Wego omitted Brahim D\u00edaz's jump to 4 (stale through R32). The 8th assist spot is a large tie at 2 (Mbapp\u00e9, Demb\u00e9l\u00e9, Manzambi, Kimmich, Undav, Embolo, Gravenberch, Saka, Salah, Chris Wood, Enciso, Alvarado's teammates, etc.); Mbapp\u00e9 is listed 8th as he has the most goals (7) among the 2-assist group; treat rank 8 as representative of that tie. Assist counts of 2 for Manzambi and 1 for Qui\u00f1ones are single-source (Yahoo goal-leaders table). Scorer assist counts (Demb\u00e9l\u00e9 2, Oyarzabal 1, Vin\u00edcius 1, Sarr 1, Messi/Haaland/Kane 0) corroborated by Yahoo and Depor. Goals for the non-Mbapp\u00e9 assist leaders were not published in any fetched source (all are below 3 goals since they are absent from the 3+ goal list) and are left null. Providers using Opta-style assist definitions may differ by \u00b11 on several players.",
+   "sources": [
+    "https://www.skysports.com/football/news/12098/13556951/world-cup-2026-golden-boot-race-lionel-messi-kylian-mbappe-erling-haaland-and-harry-kane-in-epic-battle-to-be-top-goalscorer",
+    "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup",
+    "https://en.wikipedia.org/wiki/Module:Goalscorers/data/2026_FIFA_World_Cup",
+    "https://www.foxsports.com/stories/soccer/2026-fifa-world-cup-golden-boot-tracker",
+    "https://www.nbcsports.com/soccer/news/2026-world-cup-top-goalscorers-full-list-latest-on-race-for-the-golden-boot",
+    "https://sports.yahoo.com/soccer/article/world-cup-goal-leaders-golden-boot-lionel-messi-erling-haaland-kylian-mbappe-ousmane-dembele-010143798.html",
+    "https://www.goal.com/en/lists/world-cup-2026-golden-boot-standings-fifa-award/blt29fdba0896b8fd09",
+    "https://www.planetfootball.com/stats-tables/2026-world-cup-stats-leaders-goals-assists-chances-created-dribbles",
+    "https://blog.wego.com/world-cup-most-assists-live-leaderboard/",
+    "https://onefootball.com/en/news/world-cup-top-scorers-assists-the-latest-rankings-43068220",
+    "https://www.moroccoworldnews.com/2026/07/327237/world-cup-2026-brahim-diaz-makes-history-with-four-assists-for-morocco/",
+    "https://dailysports.net/news/history-made-brahim-diaz-becomes-first-african-player-to-register-four-assists-in-a-single-fifa-world-cup/",
+    "https://www.bignewsnetwork.com/news/279161981/fifa-world-cup-2026-senegal-ismaila-sarr-makes-history-in-r32-clash-against-belgium",
+    "https://depor.com/en/us-live/world-cup-2026-top-scorers-live-messi-leads-golden-boot-race-updated-rankings-kylian-mbappe-haaland-kane-nnda-nnrt-noticia/"
+   ]
+  },
+  "verification": {
+   "verdict": "minor-issues",
+   "discrepancies": [
+    {
+     "what": "topAssists omits Andreas Schjelderup (Norway), who has 3 assists; the list's rank-8 entry (Mbapp\u00e9, 2 assists) is therefore displaced from the top 8",
+     "severity": "fix",
+     "foundValue": "topAssists rank 8 = Kylian Mbapp\u00e9 (2 assists); Schjelderup absent",
+     "correctedValue": "Insert Andreas Schjelderup (Norway, 3 assists) into the 3-assist tier alongside Alvarado/Isak/\u00d8degaard/Wirtz; Mbapp\u00e9 (2 assists) drops out of the top 8",
+     "evidence": "FOX Sports 2026 World Cup assists stats table (live, Jul 5) lists Schjelderup with 3 assists, in the same tier as Isak/\u00d8degaard/Wirtz/Alvarado; FotMob's Norway page also shows 3 tournament assists; NBC Sports' Brazil-Norway live blog confirms his assist on Haaland's headed opener in the R16 (Norway 2-1 Brazil, Jul 5)"
+    },
+    {
+     "what": "Ousmane Demb\u00e9l\u00e9's assist count of 2 (used to rank him first within the 4-goal tie) could not be confirmed by any independent source",
+     "severity": "unconfirmed",
+     "foundValue": "Demb\u00e9l\u00e9 assists = 2",
+     "correctedValue": null,
+     "evidence": "Squawka's Demb\u00e9l\u00e9 stats page credits him with 1 assist (4 goals incl. hat-trick vs Norway); another tracker summary says no assists recorded; only the dataset's own Yahoo/Depor sources support 2. If his assists are actually 1, the ordering of the 4-goal group (rows 5-8) also becomes a minutes-played tiebreak rather than Demb\u00e9l\u00e9 leading on assists"
+    },
+    {
+     "what": "Leaders' goal tally 7-7-7 (Messi/Mbapp\u00e9/Haaland) \u2014 verified correct despite an 8-8-8 claim circulating in some aggregator snippets",
+     "severity": "note",
+     "foundValue": "7 goals each",
+     "correctedValue": "7 (confirmed, no change)",
+     "evidence": "Yahoo Sports R16 live blog: Haaland's 90th-minute goal vs Brazil was 'his seventh goal of the tournament' and 'Both [Mbapp\u00e9 and Messi] have seven goals in this year's tournament'; NBC Sports tracker updated Jul 5 6:03 PM (post Norway 2-1 Brazil) shows all three at 7; Athlon/whereig-style snippets claiming 'level on eight' are unreliable paraphrases"
+    },
+    {
+     "what": "All other verifiable values check out: Kane 5 (England); Demb\u00e9l\u00e9/Oyarzabal/Vin\u00edcius/Sarr 4 goals each; Manzambi 3G+2A (Switzerland); Qui\u00f1ones 3G+1A (Mexico, goal+assist in one game); Messi/Haaland 0 assists; Mbapp\u00e9 2 assists; Olise 5A, Guimar\u00e3es 4A, Brahim D\u00edaz 4A, Alvarado/Isak/\u00d8degaard/Wirtz 3A; teams and spellings correct; R16 results consistent (Norway 2-1 Brazil, France 1-0 Paraguay, Morocco beat Canada)",
+     "severity": "note",
+     "foundValue": null,
+     "correctedValue": null,
+     "evidence": "NBC Sports goalscorer list (Jul 5, 6:03 PM); Sunday Guardian assists top-5 (Jul 5, post France-Paraguay); FOX Sports live assists stats table; FOX Sports R16 preview (Manzambi 'three goals and two assists', Qui\u00f1ones goal+assist vs 1986 precedent); Yahoo R16 live blog; Tribuna player pages (Sarr 4G+1A; Vin\u00edcius 4G+1A through R32)"
+    }
+   ],
+   "notes": "Fact-check run Jul 5, 2026 with sources mostly outside the dataset's own list. The dataset's core is sound: 7-7-7 leaders confirmed against post-match sources (the 8-8-8 variant appearing in a few search snippets is a bad paraphrase; Yahoo's live blog explicitly counts Haaland's second vs Brazil as his seventh). One real defect: Andreas Schjelderup (Norway) has 3 assists (FOX Sports stats table + FotMob; at least one confirmed in the R16 vs Brazil) and is missing from topAssists, so listing Mbapp\u00e9 (2A) at rank 8 is wrong even under the dataset's own 'representative of the 2-assist tie' caveat. Demb\u00e9l\u00e9's 2 assists is single-cluster-sourced (Yahoo/Depor) and contradicted by Squawka (1 assist) \u2014 recommend nulling it; note this also weakens his assists-tiebreak placement at the top of the 4-goal group. Oyarzabal/Vin\u00edcius/Sarr at 1 assist each were corroborated (Tribuna/worldcuptime player pages); a content-farm page claiming Oyarzabal 6G/3A in 6 matches was discarded as impossible (max 5 matches played by Jul 5). Qui\u00f1ones' 1 assist is consistent with FOX's report of his goal+assist game but remains thinly sourced. matchesPlayed nulls are appropriate; no per-player match counts published in the scorer tables I could access. FIFA.com and ESPN stat pages were JS-rendered/empty and FBref returned 403, so they could not be used.",
+   "sources": [
+    "https://www.nbcsports.com/soccer/news/2026-world-cup-top-goalscorers-full-list-latest-on-race-for-the-golden-boot",
+    "https://sports.yahoo.com/soccer/live/world-cup-2026-bracket-schedule-scores-results-live-updates-round-of-16-130000983.html",
+    "https://sundayguardianlive.com/sports/fifa-world-cup-2026-most-assists-on-july-5-after-france-vs-paraguay-michael-olise-tops-standings-brazils-bruno-guimaraes-in-2nd-position-top-5-list-227491/",
+    "https://www.foxsports.com/soccer/fifa-world-cup/stats?category=standard&sort=a&season=2026&sortOrder=desc&groupId=12",
+    "https://www.nbcsports.com/soccer/live/brazil-vs-norway-live-updates-score-goals-highlights-stats-2026-fifa-world-cup-july-5",
+    "https://www.foxsports.com/stories/soccer/world-cup-round-16-preview-one-player-every-team-you-need-know",
+    "https://www.fotmob.com/teams/8492/overview/norway",
+    "https://www.squawka.com/us/news/ousmane-dembele-stats/",
+    "https://tribuna.com/en/persons/ismaila-sarr/stat/2026/world-cup/",
+    "https://www.aljazeera.com/sports/2026/7/1/who-is-leading-the-race-for-the-fifa-world-cup-2026-golden-boot-award",
+    "https://www.espn.com/soccer/story/_/id/49279982/brazil-norway-world-cup-2026-erling-haaland",
+    "https://www.cbssports.com/soccer/news/brazil-norway-live-updates-world-cup-2026-score-result/live/"
+   ]
+  }
+ },
+ "gk": {
+  "key": "gk",
+  "data": {
+   "gkLeaders": [
+    {
+     "name": "Eloy Room",
+     "team": "Cura\u00e7ao",
+     "saves": 20,
+     "cleanSheets": 1,
+     "goalsConceded": 9,
+     "matchesPlayed": 3,
+     "moment": "One week after conceding seven to Germany, the 37-year-old made 15 saves (later corrected by FIFA to 16, tying Tim Howard's 2014 single-game record and the most ever in 90 minutes) in a 0-0 draw with Ecuador on June 20, earning the smallest World Cup nation ever (pop. ~158,000) its first-ever point. Cura\u00e7ao were eliminated in the group stage."
+    },
+    {
+     "name": "Orlando Gill",
+     "team": "Paraguay",
+     "saves": 19,
+     "cleanSheets": null,
+     "goalsConceded": null,
+     "matchesPlayed": null,
+     "moment": "The face of the round of 32: 6 saves across 120 minutes vs Germany, then stopped Kai Havertz and Nick Woltemade in the shootout as Paraguay won 4-3 to knock Germany out. His backstory went viral: early in his career he sold his jerseys and boots to pay his newborn son's medical expenses, and a sold jersey was returned to him during the tournament. Paraguay then lost 1-3 to France in the round of 16 on July 4."
+    },
+    {
+     "name": "Vozinha (Josimar Dias)",
+     "team": "Cabo Verde",
+     "saves": 18,
+     "cleanSheets": 2,
+     "goalsConceded": 5,
+     "matchesPlayed": 4,
+     "moment": "The tournament's folk hero. At 40 years and 12 days, the oldest player ever to appear in a nation's first World Cup match. Made 7 saves to shut out Spain 0-0 (facing 28 attempts, Player of the Match), kept a second clean sheet vs Saudi Arabia, then made 8 regulation saves (repeatedly denying Messi) as Cape Verde twice came back before losing 2-3 in extra time to Argentina in the round of 32. His social following exploded from about 50K to 14-20M."
+    },
+    {
+     "name": "Mohammed Al-Owais",
+     "team": "Saudi Arabia",
+     "saves": 16,
+     "cleanSheets": null,
+     "goalsConceded": null,
+     "matchesPlayed": null,
+     "moment": "Set the early save benchmark with 9 saves in the 1-1 Group H draw with Uruguay (most in a single World Cup game since Livakovic's 11 in 2022), including tipping a Valverde shot wide at 90+4. Player of the Match. Saudi Arabia were eliminated in the group stage."
+    },
+    {
+     "name": "Bart Verbruggen",
+     "team": "Netherlands",
+     "saves": 16,
+     "cleanSheets": 0,
+     "goalsConceded": 5,
+     "matchesPlayed": 4,
+     "moment": "The busiest keeper among the contenders, but no clean sheet in four games; the Netherlands went out on penalties 2-3 to Morocco after a 1-1 draw in the round of 32."
+    },
+    {
+     "name": "Alireza Beiranvand",
+     "team": "Iran",
+     "saves": 15,
+     "cleanSheets": 1,
+     "goalsConceded": null,
+     "matchesPlayed": null,
+     "moment": "Made 7 saves in a 0-0 draw with Belgium on June 21, capped by an 85th-minute point-blank reflex stop on Maxim De Cuyper that ESPN named its Moment of the Day and one of the saves of the tournament. Iran did not reach the round of 32."
+    },
+    {
+     "name": "Lionel Mpasi",
+     "team": "DR Congo",
+     "saves": 14,
+     "cleanSheets": 0,
+     "goalsConceded": 5,
+     "matchesPlayed": 4,
+     "moment": "Breakout star of DR Congo's first-ever knockout run: 8 saves in a narrow 0-1 loss to Colombia, then nearly upset England in the round of 32, repeatedly denying Jude Bellingham (including a spectacular header stop) before Harry Kane's late double won it 2-1 for England."
+    },
+    {
+     "name": "Patrick Beach",
+     "team": "Australia",
+     "saves": 14,
+     "cleanSheets": 2,
+     "goalsConceded": 3,
+     "matchesPlayed": 4,
+     "moment": "22-year-old former softball player picked ahead of Mat Ryan; made 8 saves with a clean sheet in a 2-0 World Cup-debut win over Turkey. Then the talking point: subbed off in the 119th minute for Ryan as a tactical shootout sub vs Egypt (echoing the Krul 2014 move); Ryan saved nothing and Australia lost their first-ever World Cup shootout 2-4, with Salah scoring a panenka."
+    },
+    {
+     "name": "Diogo Costa",
+     "team": "Portugal",
+     "saves": 14,
+     "cleanSheets": 2,
+     "goalsConceded": 2,
+     "matchesPlayed": 4,
+     "moment": "Quietly excellent: only 2 goals conceded in 4 matches, including holding the 1-1 group-stage upset draw against DR Congo to a single goal. Still alive: Portugal face Spain (and Unai Simon's record shutout streak) in the round of 16 on July 6."
+    },
+    {
+     "name": "Zion Suzuki",
+     "team": "Japan",
+     "saves": 14,
+     "cleanSheets": 1,
+     "goalsConceded": 5,
+     "matchesPlayed": 4,
+     "moment": "Solid tournament ended by Brazil 1-2 in the round of 32. Save count of 14 appears only in FOX Sports data (single-source, flagged)."
+    }
+   ],
+   "notes": "PROVIDERS AND METHOD: FBref returned HTTP 403 on every attempt, so FBref numbers could not be pulled. The leaderboard spine is Goalkeeper Magazine's saves leaderboard (explicitly last updated July 5, 2026), which matches Squawka's tally (Room 20, Gill 19). Cross-checked per keeper against FOX Sports' goalkeeping stats page (appears Opta-derived), Wikipedia player pages, and match reports from ESPN, Sky Sports, CBS, beIN, SBS, and US Soccer. CONFLICTS FLAGGED: (1) Eloy Room: 20 saves per Goalkeeper Magazine/Squawka vs 18 per FOX Sports; a FIFA/CBS stat correction upgraded his Ecuador game from 15 to 16 saves (tying Tim Howard's single-game record), which FOX may not include. Reported 20. (2) Orlando Gill: 19 per GK Magazine/Squawka; worldcuplocaltime.com's live tracker shows 23 saves across 5 matches, apparently including the July 4 round-of-16 1-3 loss to France. Reported 19 (best read: through the round of 32); matchesPlayed left null because it is unclear whether the 19 includes the France match (4 vs 5). (3) Vozinha: FOX Sports and GK Magazine agree on 18 (4 GP, 5 GA, 2 CS, save breakdown 7 Spain + 3 Saudi Arabia + 8 regulation vs Argentina); ESPN's Cape Verde retrospective credits him 25 saves and calls it the tournament high, apparently counting extra-time saves vs Argentina on a FIFA-style count. Reported the two-source 18; a FIFA-derived pipeline may prefer 25. (4) Gregor Kobel (Switzerland, still alive): 13 saves per GK Magazine vs 10 per FOX; just below the cutoff either way, so omitted from the list. (5) Suzuki's 14 is single-source (FOX). NULLS: Al-Owais and Beiranvand per-keeper CS/GA/GP left null where their participation in the final group match could not be verified (team results are known: Saudi drew 0-0 with Cape Verde; Iran drew 2-2 with New Zealand and 0-0 with Belgium). Mpasi's GA of 5 is summed from per-match reports (1 Portugal, 1 Colombia, 1 Uzbekistan, 2 England). Beach's GA of 3 = 2 in group per Wikipedia + 1 vs Egypt. BRACKET AND KEEPERS STILL ALIVE (as of July 5): Round of 16 winners so far: Canada (beat Morocco 1-0), France (beat Paraguay 3-1), Norway (beat Brazil, Haaland brace). Mexico vs England was storm-delayed July 5 and in progress. Still to play: Portugal vs Spain and USA vs Belgium (July 6), plus Argentina, Colombia, Switzerland, Egypt in remaining R16 ties. Verified current keepers of alive teams: Spain = Unai Simon (4 clean sheets in 4, Golden Glove leader, broke Walter Zenga's 36-year-old record with 519 consecutive scoreless WC minutes); Mexico = Raul Rangel (4 CS in 4); Colombia = Camilo Vargas (3 CS in 4); France = Mike Maignan; Portugal = Diogo Costa; Switzerland = Gregor Kobel; USA = Matt Freese (started over Matt Turner, 2 clean sheets incl. 2-0 over Bosnia, first US knockout win since 2002); England = Jordan Pickford (2 CS, tied Peter Shilton's England WC appearance record, named to face Mexico); Egypt = Mostafa Shobeir (started over Mohamed El Shenawy; saved a penalty vs Iran in the group and backstopped the 4-2 shootout win over Australia); Argentina = Emiliano Martinez (only 2 saves vs Cape Verde but a decisive late free-kick stop on Sidny Lopes Cabral). Norway, Canada, and Belgium starting keepers could not be verified from sources found (Belgium's keeper was beaten 0 times by Iran but never named in retrieved coverage), so they are omitted rather than guessed. Vozinha check (as requested): eliminated with Cape Verde in the round of 32 by Argentina (2-3 AET, July 3), full line in gkLeaders entry 3.",
+   "sources": [
+    "https://goalkeepermagazine.com/world-cup-2026-goalkeeper-stats-leaderboard-whos-making-the-most-saves/",
+    "https://www.squawka.com/en/news/world-cup/stat-leaders-world-cup-2026-most-saves/",
+    "https://www.foxsports.com/soccer/fifa-world-cup/stats?category=goalkeeping&sort=t_sv&season=2026&sortOrder=desc&groupId=12",
+    "https://www.cbssports.com/soccer/news/curacao-goalkeeper-eloy-room-epic-performance-world-cup-ecuador/",
+    "https://www.skysports.com/football/news/29910/13553789/world-cup-2026-ecuador-0-0-curacao-eloy-room-makes-history-with-incredible-15-saves-to-earn-blue-wave-first-ever-point",
+    "https://www.espn.com/soccer/story/_/id/49131334/curacao-goalkeeper-eloy-room-tim-howard-world-cup-save-record",
+    "https://en.wikipedia.org/wiki/Vozinha",
+    "https://www.espn.com/soccer/story/_/id/49074487/cape-verde-gk-vozinha-stopped-world-cup-favourites-spain-gained-8m-followers",
+    "https://www.espn.com/soccer/story/_/id/49262637/messi-argentina-nearly-suffered-historic-world-cup-upset-cape-verde",
+    "https://www.espn.com/soccer/story/_/id/49265781/cape-verde-incredible-world-cup-run-captured-hearts-earned-respect",
+    "https://www.beinsports.com/en-us/soccer/fifa-world-cup-2026/articles/the-emotional-story-behind-orlando-gill-paraguay-s-hero-in-the-penalty-shootout-against-germany-2026-07-02",
+    "https://sports.yahoo.com/soccer/article/world-cup-2026-paraguay-goalkeeper-orlando-gill-getting-jersey-back-that-he-sold-for-sons-medical-expenses-110000650.html",
+    "https://www.skysports.com/football/news/11095/13552712/world-cup-2026-saudi-arabia-1-1-uruguay-maxi-araujo-levels-late-but-goalkeeper-mohammed-al-owais-is-the-hero",
+    "https://www.espn.com/espn/story/_/id/49141110/2026-fifa-world-cup-moment-day-miracle-alireza-beiranvand-save-keeps-iran-unbeaten",
+    "https://en.wikipedia.org/wiki/Lionel_Mpasi",
+    "https://www.washingtonpost.com/sports/soccer/2026/07/01/congo-world-cup-lionel-mpasi/748f30ea-7587-11f1-b665-5f8be87f3787_story.html",
+    "https://en.wikipedia.org/wiki/Patrick_Beach",
+    "https://bolavip.com/en/world-cup/why-was-australia-goalkeeper-patrick-beach-subbed-off-vs-egypt-at-the-2026-world-cup",
+    "https://www.101greatgoals.com/football/world-cup-news/australia-egypt-penalties-report-result-goals-mohamed-salah-lionel-messi/",
+    "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_knockout_stage",
+    "https://www.espn.com/soccer/story/_/id/49253939/spain-goalkeeper-unai-simon-sets-world-cup-record-clean-sheets",
+    "https://www.newsx.com/sports/fifa-world-cup-2026-golden-gloves-rankings-on-july-5-after-france-vs-paraguay-unai-simon-and-raul-rangel-lead-charge-in-most-clean-sheets-top-5-list-244820/",
+    "https://www.ussoccer.com/stories/2026/07/usmnt/match-recap-highlights-vs-bosnia-and-herzegovina-world-cup-round-of-32",
+    "https://www.englandfootball.com/articles/2026/Jul/05/jordan-pickford-levels-peter-shilton-england-world-cup-apprearance-record-20260507",
+    "https://worldcuplocaltime.com/2026-world-cup-goalkeeper-stats/",
+    "https://sports.yahoo.com/soccer/article/world-cup-2026-cape-verdes-vozinha-frustrates-lionel-messi-in-heroic-loss-to-argentina-005734254.html"
+   ]
+  },
+  "verification": {
+   "verdict": "major-issues",
+   "discrepancies": [
+    {
+     "what": "Notes state the Canada-Morocco round-of-16 result backwards: \"Round of 16 winners so far: Canada (beat Morocco 1-0)\". Morocco won, and the score was 3-0.",
+     "severity": "fix",
+     "foundValue": "Canada beat Morocco 1-0; Canada listed among R16 winners",
+     "correctedValue": "Morocco beat Canada 3-0 (July 4, Houston; Azzedine Ounahi brace + Soufiane Rahimi). Morocco advance to the quarter-finals with keeper Yassine Bounou; Canada are eliminated.",
+     "evidence": "ESPN final score page 'Canada 0-3 Morocco (Jul 4, 2026)' (espn.com/soccer/match/_/gameId/760502); Team Canada olympic.ca 'Canada's FIFA World Cup journey ends with Round of 16 loss to Morocco'; Al Jazeera liveblog Canada 0-3 Morocco; VAVEL 'Canada 0-3 Morocco, Ounahi double'. This also breaks the notes' alive-team keeper list: Morocco (Bounou) is alive and omitted, Canada is dead."
+    },
+    {
+     "what": "France-Paraguay round-of-16 score is wrong in BOTH the Orlando Gill entry (\"Paraguay then lost 1-3 to France in the round of 16 on July 4\") and the notes (\"France (beat Paraguay 3-1)\").",
+     "severity": "fix",
+     "foundValue": "Paraguay 1-3 France",
+     "correctedValue": "Paraguay 0-1 France (July 4, Philadelphia; Mbapp\u00e9 penalty, 70th minute)",
+     "evidence": "ESPN 'Paraguay 0-1 France (Jul 4, 2026) Final Score'; FIFA.com match centre Paraguay v France 0-1; FOX Sports box score Jul 04 2026; Al Jazeera liveblog; CBS Sports 'Mbappe nets winner from penalty spot'. Date and elimination are correct; only the scoreline is wrong."
+    },
+    {
+     "what": "Vozinha's tournament save total: dataset reports 18, but mainstream tournament coverage credits him 25 saves and calls that the tournament HIGH, which contradicts the dataset's own leaderboard spine that has Eloy Room leading with 20.",
+     "severity": "note",
+     "foundValue": "saves: 18 (Goalkeeper Magazine/FOX count)",
+     "correctedValue": "18 on an Opta/regulation-style count; 25 on the FIFA-style count used by Yahoo/FOX retrospectives (includes extra time vs Argentina), described as the tournament high. Pipeline must pick one methodology; if it uses FIFA counts, Vozinha (25) leads, not Room (20).",
+     "evidence": "Yahoo Sports Cape Verde retrospective: 'Vozinha left the tournament with 25 saves, which is the tournament-high.' Dataset notes already flag this conflict; confirming both numbers circulate. All other Vozinha facts verified: 40y12d oldest player in a nation's first WC match (Wikipedia/NBC), 7 saves vs Spain 0-0 with POTM, 8 saves and 2-3 AET loss to Argentina July 3, Messi denied repeatedly."
+    },
+    {
+     "what": "Zion Suzuki's 14 saves remain single-source (FOX), as the dataset itself flags; no second source found in fresh searches.",
+     "severity": "unconfirmed",
+     "foundValue": "saves: 14",
+     "correctedValue": null,
+     "evidence": "Match facts verified (Brazil 2-1 Japan, June 29, Houston; Suzuki tipped Vinicius shot onto post per ESPN/FIFA/Al Jazeera), but no independent confirmation of the 14 total. Recommend null or keep flagged."
+    },
+    {
+     "what": "Al-Owais moment detail 'tipping a Valverde shot wide at 90+4' \u2014 the save on Valverde is real but the 90+4 timestamp could not be confirmed in any retrieved report.",
+     "severity": "unconfirmed",
+     "foundValue": "Valverde save at 90+4",
+     "correctedValue": null,
+     "evidence": "Sky Sports report (Saudi Arabia 1-1 Uruguay) confirms 9 saves (tournament-high at the time) and a Valverde 'rasping shot' pushed past the post, plus Ugarte shot tipped onto post, but gives no 90+4 stamp. Core stats (9 saves, 1-1, June 15, Group H, hero billing) all confirmed."
+    },
+    {
+     "what": "Patrick Beach 'subbed off in the 119th minute' \u2014 the tactical keeper swap for Mat Ryan is confirmed, but the exact 119th-minute stamp was not found in retrieved coverage.",
+     "severity": "unconfirmed",
+     "foundValue": "119th minute",
+     "correctedValue": null,
+     "evidence": "Yahoo/SBS/Sky confirm Popovic subbed Ryan on for Beach 'prior to the end of the second period of extra time' with an eye on penalties; Egypt won the shootout 4-2 with Ryan saving none (Egypt scored all four) and Salah scoring a panenka (ESPN, Sports Mole, France24). Everything else in the Beach entry verified: born Aug 6 2003 (22), softball backstory (beIN), 8 saves + clean sheet in 2-0 win over Turkey June 13, Australia's first-ever WC shootout loss."
+    },
+    {
+     "what": "Notes' Iran group results are incomplete: they list only 2-2 vs New Zealand and 0-0 vs Belgium, omitting the 1-1 draw with Egypt in the Group G finale \u2014 the match where Shobeir saved Taremi's penalty and Khalilzadeh's stoppage-time goal was disallowed.",
+     "severity": "note",
+     "foundValue": "Iran drew 2-2 with New Zealand and 0-0 with Belgium",
+     "correctedValue": "Iran drew all three: 0-0 Belgium, 2-2 New Zealand, 1-1 Egypt; eliminated on the third-place ranking (9th of the third-placed teams). If Beiranvand played all three, his group GA is 3 with 1 clean sheet.",
+     "evidence": "Sky Sports 'Egypt 1-1 Iran... thrilling finale to Group G'; Al Jazeera 'Team Melli knocked out... three points gleaned from three draws'; Wikipedia 2026 FIFA World Cup Group G; Opta Analyst Egypt 1-1 Iran stats. Confirms the dataset's 'Iran did not reach the round of 32' claim and the Shobeir penalty-save note (2nd Egyptian GK ever to save a WC penalty, after El-Hadary 2018)."
+    },
+    {
+     "what": "Mid-table save totals (Al-Owais 16, Verbruggen 16, Beiranvand 15, Mpasi 14, Beach 14, Costa 14) rest on the single Goalkeeper Magazine/Squawka leaderboard; only the top two (Room 20, Gill 19) were independently re-confirmed in fresh searches.",
+     "severity": "note",
+     "foundValue": "leaderboard-derived totals",
+     "correctedValue": null,
+     "evidence": "Squawka 'Most saves at World Cup 2026' confirms 'Eloy Room remains first with 20 saves, with Orlando Gill now close behind on 19.' The leaderboard's top entries check out, so the spine appears reliable, but the mid-table totals have no second independent confirmation."
+    }
+   ],
+   "sources": [
+    "https://www.espn.com/soccer/match/_/gameId/760502/morocco-canada",
+    "https://olympic.ca/2026/07/04/canadas-fifa-world-cup-journey-ends-with-round-of-16-loss-to-morocco/",
+    "https://www.espn.com/soccer/match/_/gameId/760503/france-paraguay",
+    "https://www.fifa.com/en/match-centre/match/17/285023/289288/400021533",
+    "https://www.cbssports.com/soccer/news/france-paraguay-live-updates-world-cup-2026-score-result/live/",
+    "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/room-unbeatable-curacao-ecuador-reaction",
+    "https://www.foxnews.com/sports/curacao-goalie-makes-15-saves-squad-picks-first-world-cup-point",
+    "https://www.espn.com/soccer/match/_/gameId/760422/curacao-germany",
+    "https://sports.yahoo.com/soccer/article/2026-world-cup-paraguay-upsets-germany-in-penalties-thanks-to-orlando-gill-and-a-controversial-foul-call-233154875.html",
+    "https://abcnews.com/Sports/wireStory/paraguay-stuns-germany-penalty-shootout-biggest-upset-2026-134325453",
+    "https://sports.yahoo.com/soccer/article/world-cup-2026-cape-verdes-vozinha-frustrates-lionel-messi-in-heroic-loss-to-argentina-005734254.html",
+    "https://www.nbcnews.com/sports/soccer/lionel-messi-faces-surprising-test-vozinha-cape-verdes-40-year-old-goa-rcna352908",
+    "https://en.wikipedia.org/wiki/Vozinha",
+    "https://www.espn.com/soccer/story/_/id/49263170/argentina-break-cape-verde-hearts-extra-world-cup-lionel-messi-scores",
+    "https://news.northeastern.edu/2026/06/16/spain-vs-cape-verde-vozinha-world-cup/",
+    "https://www.skysports.com/football/news/11095/13552712/world-cup-2026-saudi-arabia-1-1-uruguay-maxi-araujo-levels-late-but-goalkeeper-mohammed-al-owais-is-the-hero",
+    "https://www.aljazeera.com/sports/2026/6/30/morocco-netherlands-world-cup-knockout-penalty-shootout-saibari-diop-gakpo",
+    "https://www.espn.com/soccer/match/_/gameId/760488/morocco-netherlands",
+    "https://www.sportsmole.co.uk/football/belgium/world-cup/feature/belgium-0-0-iran-alireza-beiranvand-produce-one-of-the-saves-of-the-tournament-to-deny-maxim-de-cuyper_599763.html",
+    "https://www.espn.com/espn/story/_/id/49141110/2026-fifa-world-cup-moment-day-miracle-alireza-beiranvand-save-keeps-iran-unbeaten",
+    "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/england-congo-dr-review-highlights",
+    "https://www.espn.com/soccer/match/_/gameId/760495/congo-dr-england",
+    "https://www.sbs.com.au/news/live-blog/australia-v-egypt-world-cup-live-score-updates/pu1sh9wyy",
+    "https://www.aljazeera.com/sports/2026/7/3/egypt-beat-australia-on-penalties-to-win-first-world-cup-knockout-match",
+    "https://www.espn.com/soccer/story/_/id/49261423/world-cup-history-mohamed-salah-egypt-penalty-shootout-australia",
+    "https://en.wikipedia.org/wiki/Patrick_Beach",
+    "https://www.beinsports.com/en-us/soccer/fifa-world-cup-2026/articles/the-incredible-story-of-patrick-beach-the-australia-goalkeeper-who-went-from-softball-to-shining-at-the-2026-world-cup-2026-07-02",
+    "https://www.espn.com/soccer/match/_/gameId/760487/japan-brazil",
+    "https://www.aljazeera.com/sports/2026/6/29/martinelli-scores-late-as-brazil-beat-japan-2-1-enter-world-cup-last-16",
+    "https://www.aljazeera.com/sports/2026/7/5/haaland-scores-twice-as-norway-stun-brazil-2-1-in-world-cup-2026-last-16",
+    "https://www.foxsports.com/stories/soccer/erling-haaland-ends-brazils-world-cup-brace-norway-round-16",
+    "https://www.foxsports.com/stories/soccer/england-vs-mexico-world-cup-round-16-match-delayed-due-extreme-weather",
+    "https://abc7.com/post/world-cup-2026-mexico-england-round-16-match-delayed-1-hour-due-thunderstorm/19454562/",
+    "https://www.espn.com/soccer/story/_/id/49253939/spain-goalkeeper-unai-simon-sets-world-cup-record-clean-sheets",
+    "https://www.euronews.com/2026/07/03/goalkeeper-unai-simon-sets-new-guinness-world-record-following-spains-3-0-win-over-austria",
+    "https://www.aninews.in/news/sports/football/fifa-world-cup-2026-unai-simon-breaks-walter-zengas-shutout-record-as-spain-storm-into-last-1620260703033633/",
+    "https://www.espn.com/soccer/story/_/id/49243502/usa-bosnia-herzegovina-2026-fifa-world-cup-knockout-round-32",
+    "https://www.cbsnews.com/news/world-cup-us-bosnia-herzegovina-round-of-32/",
+    "https://www.espn.com/soccer/match/_/gameId/760506/spain-portugal",
+    "https://www.squawka.com/us/news/world-cup/match-preview-portugal-vs-spain-07-06-26-world-cup-2026-round-of-16/",
+    "https://www.cbssports.com/soccer/news/live-updates-world-cup-2026-score-result/live/",
+    "https://onefootball.com/en/news/shobeir-penalty-save-helps-egypt-make-world-cup-history-against-iran-43063802",
+    "https://theanalyst.com/articles/egypt-vs-iran-stats-fifa-world-cup-2026",
+    "https://www.aljazeera.com/sports/2026/6/28/heightened-emotions-in-iran-after-team-melli-knocked-out-of-world-cup",
+    "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_Group_G",
+    "https://onefootball.com/en/news/raul-rangel-makes-history-at-the-2026-fifa-world-cup-43054469",
+    "https://www.newsx.com/sports/fifa-world-cup-2026-golden-gloves-rankings-on-july-5-after-france-vs-paraguay-unai-simon-and-raul-rangel-lead-charge-in-most-clean-sheets-top-5-list-244820/",
+    "https://www.englandfootball.com/articles/2026/Jul/05/jordan-pickford-levels-peter-shilton-england-world-cup-apprearance-record-20260507",
+    "https://www.squawka.com/en/news/world-cup/stat-leaders-world-cup-2026-most-saves/"
+   ],
+   "notes": "Verification ran 16 fresh searches across sources mostly outside the dataset's list (FIFA.com, ESPN match pages, Al Jazeera, ABC, NPR, olympic.ca, VAVEL, CBS, Fox News, Sports Mole, OneFootball, Opta Analyst, Wikipedia Group pages, Euronews, ANI, France24, SBS, englandfootball.com). RESULT: the ten gkLeaders entries are substantively accurate, but the dataset contains two hard factual errors, both about round-of-16 results: (1) Morocco beat Canada 3-0 (dataset: Canada beat Morocco 1-0) \u2014 this flips a bracket winner and invalidates the alive-keepers list (Morocco/Bounou alive, Canada out); (2) France beat Paraguay 1-0 via a 70th-minute Mbapp\u00e9 penalty (dataset: 3-1, stated twice). Everything else re-confirmed: Room 15 saves per Opta / 16 per FIFA vs Ecuador June 20 (ties Howard 2014, most in 90 min), Germany 7-1 Cura\u00e7ao June 14, leaderboard Room 20 / Gill 19 (Squawka), Gill's 2 shootout saves on Havertz and Woltemade in the 4-3 win plus the disallowed Tah goal, Vozinha's full arc (40y12d record, 7-save 0-0 vs Spain, 2-3 AET vs Argentina July 3), Al-Owais 9 saves in the 1-1 vs Uruguay June 15, Netherlands 1-1 (2-3 pens) Morocco, Beiranvand's 85th-minute De Cuyper save in the 0-0 with Belgium (ESPN Moment of the Day; Iran eliminated on three draws), England 2-1 DR Congo with Kane 75'/86' and Mpasi denying two Bellingham headers, Australia 1-1 (2-4 pens) Egypt with the Beach-to-Ryan sub and Salah panenka, Brazil 2-1 Japan, Norway 2-1 Brazil (Haaland brace), Mexico-England delayed ~1 hour July 5 by lightning, Portugal vs Spain July 6 (Portugal group: 1-1 DRC, 5-0 Uzbekistan, 0-0 Colombia \u2014 consistent with Costa's 2 CS; note Portugal beat Croatia in the R32, absent from the dataset), USA 2-0 Bosnia (Freese; first knockout win since 2002) then Belgium Monday July 6 in Seattle, Unai Simon 519 minutes / 4 CS breaking Zenga's 517, Rangel 4 CS, Vargas 3 CS, Pickford tying Shilton's 17 England WC apps, Shobeir's penalty save on Taremi, Martinez's late free-kick stop on Sidny Lopes Cabral (his 2nd save of the game). CONFLICT CARRIED FORWARD: Vozinha 18 (Opta-style) vs 25 (FIFA-style, called tournament-high by Yahoo/FOX retrospectives) \u2014 the app must pick one counting methodology, since under the FIFA count Room's 20 would not lead. Suzuki's 14 remains single-source; recommend nulling. One factual nuance: the R32 'Krul-echo' sub and 2-4 shootout are confirmed, but the 119' stamp and Al-Owais's 90+4 stamp were not found verbatim."
+  }
+ },
+ "stories": {
+  "key": "stories",
+  "data": {
+   "tournamentStorylines": [
+    {
+     "headline": "A three-way Golden Boot dead heat at seven: Messi, Mbappe, Haaland",
+     "detail": "Messi opened the tournament with his first career World Cup hat trick against Algeria and now owns the all-time World Cup goals record at 20, with 7 this tournament in four games. Mbappe matched him at 7 with the penalty that beat Paraguay 1-0, sits second all-time on 19 career goals after passing Klose, and holds the tiebreaker on assists, while Haaland's brace against Brazil pulled him level at 7 too. Harry Kane lurks behind on 5 for the tournament but passed Pele's 13-goal career mark, so four of the biggest names in the sport are chasing one trophy inside the trophy.",
+     "keyNames": [
+      "Lionel Messi",
+      "Kylian Mbappe",
+      "Erling Haaland",
+      "Harry Kane"
+     ]
+    },
+    {
+     "headline": "Haaland sends Brazil home and Norway into their first ever quarterfinal",
+     "detail": "Norway beat Brazil 2-1 at MetLife Stadium on July 5, with Haaland heading the opener in the 79th minute and burying a second in the 90th before Neymar's stoppage-time consolation penalty. It is Brazil's earliest World Cup exit since 1990 and Norway's first quarterfinal ever, in their first World Cup since 1998. The quiet hero was 35-year-old keeper Orjan Nyland, who saved a first-half Bruno Guimaraes penalty, and Norway now waits for the Mexico-England winner in Miami on July 11.",
+     "keyNames": [
+      "Erling Haaland",
+      "Orjan Nyland",
+      "Neymar",
+      "Bruno Guimaraes"
+     ]
+    },
+    {
+     "headline": "Trump calls Infantino, FIFA un-suspends Balogun, and everyone loses their minds",
+     "detail": "Folarin Balogun got a straight red via VAR review for stepping on Tarik Muharemovic's ankle in the USA's 2-0 round-of-32 win over Bosnia, which should have meant an automatic one-game ban. Then AP reported Trump phoned FIFA president Gianni Infantino, and FIFA invoked an obscure Article 27 provision to put the suspension on a one-year 'probationary period', the first time in over 60 years of World Cups it has done anything like it. The Belgian federation says it is 'astonished' since Balogun can now face them Monday in Seattle, and even Muharemovic said the challenge was not a red card, which makes the whole thing weirder.",
+     "keyNames": [
+      "Folarin Balogun",
+      "Donald Trump",
+      "Gianni Infantino",
+      "Tarik Muharemovic",
+      "Mauricio Pochettino"
+     ]
+    },
+    {
+     "headline": "Cabo Verde, the smallest nation ever in the knockouts, nearly pulled the greatest upset in World Cup history",
+     "detail": "In their debut World Cup, Cabo Verde held Spain scoreless behind 40-year-old keeper Vozinha, who faced 27 shots that day, then took defending champion Argentina to the 111th minute of extra time before losing 3-2 on a Diney Borges own goal from a Messi set piece. Deroy Duarte and a Sidny Lopes Cabral stunner twice pegged Argentina back, and Vozinha made eight saves including one off a Messi free kick. His Instagram went from 56,000 followers to 14.2 million during the tournament, which tells you who the people's champion of this World Cup is.",
+     "keyNames": [
+      "Vozinha",
+      "Sidny Lopes Cabral",
+      "Deroy Duarte",
+      "Diney Borges",
+      "Lionel Messi"
+     ]
+    },
+    {
+     "headline": "Ronaldo vs Yamal: a 23-year age gap collides in Spain-Portugal on Monday",
+     "detail": "The round-of-16 tie in Arlington on July 6 is being sold as a generational duel: Ronaldo at 41 became the first man to score in six World Cups, and his penalty against Croatia was, incredibly, his first ever World Cup knockout goal, making him the oldest knockout scorer at 41 years and 147 days. Yamal, 18, scored his first World Cup goal in the 4-0 group win over Saudi Arabia and runs a Spain side whose defense has been record-breakingly stingy. It is a rematch of the 2025 Nations League final, which Spain won on penalties, and the loser's tournament ends with one legend possibly playing his final World Cup match.",
+     "keyNames": [
+      "Cristiano Ronaldo",
+      "Lamine Yamal",
+      "Goncalo Ramos"
+     ]
+    },
+    {
+     "headline": "The three hosts are living three different movies",
+     "detail": "Canada is out, beaten 3-0 by Morocco in Houston with Alphonso Davies never leaving the bench and Jesse Marsch defiantly insisting 'I'd rather be us than them.' Mexico has not conceded a goal all tournament and is playing England at a storm-soaked Azteca literally tonight, riding 17-year-old Gilberto Mora, while the USA won Group D despite a 3-2 loss to Turkiye and faces Belgium Monday in Seattle chasing a first quarterfinal since 2002. One host dead, one host electric, one host holding its breath through a Trump-flavored eligibility scandal.",
+     "keyNames": [
+      "Jesse Marsch",
+      "Alphonso Davies",
+      "Gilberto Mora",
+      "Christian Pulisic",
+      "Mauricio Pochettino",
+      "Folarin Balogun"
+     ]
+    },
+    {
+     "headline": "The heat is the villain of this World Cup, and now the storms are too",
+     "detail": "FIFPRO flagged six venues, Atlanta, Dallas, Houston, Kansas City, Miami and Monterrey, as extremely high risk for heat-stress injury, and FIFA took heavy criticism for scheduling knockout games in 100-plus degree afternoons, including a Philadelphia match at 5pm with a feels-like of 110 and calls in the press to delay France-Paraguay to the evening. FIFA's answer has been three-minute hydration breaks each half and cooling infrastructure, which players' unions call insufficient. Meanwhile a thunderstorm delayed Mexico-England at the Azteca by an hour on July 5, so the weather is shaping the bracket at both extremes.",
+     "keyNames": [
+      "FIFPRO",
+      "FIFA",
+      "Kylian Mbappe"
+     ]
+    },
+    {
+     "headline": "The old order keeps dying: Germany, Netherlands, Uruguay, now Brazil",
+     "detail": "Germany went out in the round of 32 to Paraguay on penalties after Jonathan Tah's extra-time goal was erased by VAR, a call Julian Nagelsmann flatly called 'a joke', with Havertz, Woltemade and Tah all missing spot kicks. The Netherlands lost their third straight World Cup shootout, this one 3-2 to Morocco after Issa Diop equalized in the 91st, their earliest exit ever, and Uruguay never even escaped the group after a Muslera error against Spain. Add Brazil's exit to Norway and the expanded 48-team bracket is eating giants at a rate nobody predicted.",
+     "keyNames": [
+      "Julian Nagelsmann",
+      "Kai Havertz",
+      "Jonathan Tah",
+      "Cody Gakpo",
+      "Fernando Muslera",
+      "Julio Enciso"
+     ]
+    },
+    {
+     "headline": "Morocco look like 2022 was not a fluke, and France await again",
+     "detail": "The 2022 semifinalists beat the Netherlands on penalties with Ismael Saibari converting the winner, then dismantled co-host Canada 3-0 behind an Azzedine Ounahi double to book a quarterfinal against France, a straight rematch of the 2022 semi. Eighteen-year-old Lille midfielder Ayyoub Bouaddi has anchored their midfield all tournament. France, who won their group ahead of Norway and ground past Sweden 2-0 and Paraguay 1-0, now have to solve the best-organized team they have faced.",
+     "keyNames": [
+      "Azzedine Ounahi",
+      "Ismael Saibari",
+      "Ayyoub Bouaddi",
+      "Issa Diop",
+      "Kylian Mbappe"
+     ]
+    },
+    {
+     "headline": "Messi vs Salah in Atlanta, after Egypt's 92-year wait ended in tears",
+     "detail": "Egypt beat Australia 4-2 on penalties after a 1-1 draw for their first World Cup knockout win in 92 years, with Salah playing through a hamstring concern, converting a Panenka in the shootout and breaking down in tears afterward. The reward is Argentina on July 7 in Atlanta, the reigning champions who just survived Cabo Verde by the skin of their teeth. Two aging icons, one shot at a quarterfinal, and Salah dodged every Messi question in the mixed zone.",
+     "keyNames": [
+      "Mohamed Salah",
+      "Lionel Messi",
+      "Lionel Scaloni"
+     ]
+    }
+   ],
+   "breakoutPlayers": [
+    {
+     "name": "Gilberto Mora",
+     "position": "Attacking midfielder",
+     "team": "Mexico",
+     "why": "The 17-year-old Club Tijuana No. 10 became Mexico's youngest ever World Cup player and then the second-youngest to start a knockout game behind only Pele, with Arsenal already circling and English pundits comparing his level to Bellingham."
+    },
+    {
+     "name": "Vozinha",
+     "position": "Goalkeeper",
+     "team": "Cabo Verde",
+     "why": "A 40-year-old journeyman from the Portuguese second tier who shut out Spain, made eight saves against Argentina, and went from 56,000 to 14.2 million Instagram followers in three weeks."
+    },
+    {
+     "name": "Johan Manzambi",
+     "position": "Midfielder",
+     "team": "Switzerland",
+     "why": "The young Freiburg midfielder has a hand in seemingly everything, two goals against Bosnia, a goal and assist against Canada, and another assist in the win over Algeria that put Switzerland in the last 16."
+    },
+    {
+     "name": "Ayyoub Bouaddi",
+     "position": "Midfielder",
+     "team": "Morocco",
+     "why": "An 18-year-old Lille midfielder calmly running the engine room of a team that has knocked out the Netherlands and Canada and now gets France."
+    },
+    {
+     "name": "Julio Enciso",
+     "position": "Attacking midfielder",
+     "team": "Paraguay",
+     "why": "The 22-year-old Strasbourg playmaker opened the scoring against Germany in the round of 32, the spark for the shootout that sent the four-time champions home."
+    },
+    {
+     "name": "Nestory Irankunda",
+     "position": "Forward",
+     "team": "Australia",
+     "why": "At 20 he became the youngest Australian to score at a World Cup in the 2-0 win over Turkiye and turned into a national hero overnight."
+    },
+    {
+     "name": "Ismael Saibari",
+     "position": "Midfielder",
+     "team": "Morocco",
+     "why": "Stepped up and buried the winning penalty that eliminated the Netherlands, the country where he grew up, in a shootout Morocco won 3-2."
+    },
+    {
+     "name": "Sidny Lopes Cabral",
+     "position": null,
+     "team": "Cabo Verde",
+     "why": "His stunning extra-time equalizer against Argentina briefly had the smallest nation in World Cup history level with the world champions at 2-2."
+    },
+    {
+     "name": "Folarin Balogun",
+     "position": "Striker",
+     "team": "United States",
+     "why": "The USMNT striker is the most argued-about man in the sport right now, a VAR red card against Bosnia wiped away by FIFA after a reported Trump phone call so he can face Belgium."
+    },
+    {
+     "name": "Orjan Nyland",
+     "position": "Goalkeeper",
+     "team": "Norway",
+     "why": "The 35-year-old, Norway's oldest player, saved Bruno Guimaraes' penalty and stonewalled Brazil in the win that put Norway in their first ever quarterfinal."
+    },
+    {
+     "name": "Azzedine Ounahi",
+     "position": "Midfielder",
+     "team": "Morocco",
+     "why": "The 2022 revelation is doing it again, scoring twice in the 3-0 round-of-16 win that ended co-host Canada's tournament."
+    }
+   ],
+   "fallenStars": [
+    {
+     "name": "Neymar",
+     "team": "Brazil",
+     "oneLineLegacy": "Converted a stoppage-time penalty nobody will remember as Haaland's Norway handed Brazil their earliest World Cup exit since 1990."
+    },
+    {
+     "name": "Luka Modric",
+     "team": "Croatia",
+     "oneLineLegacy": "Reached 200 caps at this tournament, then saw his last World Cup ended by Goncalo Ramos' 94th-minute header after VAR chalked off Pasalic's equalizer."
+    },
+    {
+     "name": "Son Heung-min",
+     "team": "South Korea",
+     "oneLineLegacy": "Benched for the decisive group game his team lost 1-0 to South Africa, out with Korea's worst-ever World Cup finish and a presidential call for an investigation waiting at home."
+    },
+    {
+     "name": "Kai Havertz",
+     "team": "Germany",
+     "oneLineLegacy": "One of three Germans to miss in the round-of-32 shootout against Paraguay, the night Nagelsmann called the VAR decision that erased Tah's extra-time goal 'a joke'."
+    },
+    {
+     "name": "Cody Gakpo",
+     "team": "Netherlands",
+     "oneLineLegacy": "His 72nd-minute opener against Morocco was undone by a 91st-minute Issa Diop header, and the Dutch lost a third consecutive World Cup shootout in their earliest exit ever."
+    },
+    {
+     "name": "Fernando Muslera",
+     "team": "Uruguay",
+     "oneLineLegacy": "One late error against Spain finished the job that draws with Saudi Arabia and Cabo Verde had started, the shock group-stage exit of the tournament."
+    },
+    {
+     "name": "Alphonso Davies",
+     "team": "Canada",
+     "oneLineLegacy": "Canada's best player watched the 3-0 Morocco defeat from the bench because he could not trust his hamstring, and Marsch's defiant 'I'd rather be us than them' became the epitaph."
+    },
+    {
+     "name": "Cabo Verde",
+     "team": "Cabo Verde",
+     "oneLineLegacy": "The smallest nation ever to reach the knockouts left as everyone's second team, undone only by a 111th-minute own goal against the world champions."
+    },
+    {
+     "name": "Paraguay",
+     "team": "Paraguay",
+     "oneLineLegacy": "Slayers of Germany on penalties, then beaten 1-0 by a single Mbappe penalty in brutal heat, a run their federation will dine on for a decade."
+    }
+   ],
+   "notes": "Snapshot taken evening of July 5, 2026, with the round of 16 mid-flight. UNRESOLVED: Mexico vs England kicked off late on July 5 after a one-hour thunderstorm delay at Estadio Azteca and had no final score at research time; Spain-Portugal and USA-Belgium play July 6, Egypt-Argentina and Switzerland-Colombia July 7. CONFLICTS FOUND: (1) Ronaldo's 2026 tournament goal count: a FOX preview said 'four goals in three games' but goal-by-goal accounts (brace vs Uzbekistan, penalty vs Croatia described by ESPN/TSN as his 11th career World Cup goal and first ever in a knockout) support three this tournament; I used the goal-by-goal accounting and avoided a hard total in prose. (2) France 2-0 Sweden per Al Jazeera vs 3-0 in a lower-quality tracker site; used 2-0. (3) France 1-0 Paraguay (Mbappe pen, 70') per Yahoo/Al Jazeera; a Wikipedia WebFetch returned '3-1' inside internally contradictory data (round-of-16 results dated before the round of 32 ended), so the entire Wikipedia fetch was discarded as unreliable. (4) Messi's age appears as both 38 and 39 across sources; he turned 39 on June 24, 2026, so 39 is used. (5) Kane's tournament tally of 5 comes from an ESPN tracker that may lag by a match. (6) The France-Morocco quarterfinal date appeared as July 9 (discarded Wikipedia fetch) and was not independently confirmed, so no date is stated. (7) Balogun coverage conflicted within hours (an early FOX piece said he would not play vs Belgium; later AP/CNN/PBS reporting confirmed FIFA suspended the ban after Trump's call to Infantino); the more recent reporting is used. Group-stage eliminated (16): South Korea, Czechia, Qatar, Scotland, Haiti, Turkiye, Curacao, Tunisia, Iran, New Zealand, Uruguay, Saudi Arabia, Iraq, Jordan, Uzbekistan, Panama. Golden Boot standings used: Messi 7, Mbappe 7 (leads on assists), Haaland 7, Kane 5.",
+   "sources": [
+    "https://www.aljazeera.com/sports/2026/7/5/haaland-scores-twice-as-norway-stun-brazil-2-1-in-world-cup-2026-last-16",
+    "https://www.foxsports.com/stories/soccer/erling-haaland-ends-brazils-world-cup-brace-norway-round-16",
+    "https://www.nbcnews.com/sports/soccer/erling-haaland-scores-two-late-goals-lead-norway-brazil-world-cup-quar-rcna353072",
+    "https://www.espn.com/soccer/story/_/id/49279982/brazil-norway-world-cup-2026-erling-haaland",
+    "https://www.espn.com/soccer/story/_/id/49262637/messi-argentina-nearly-suffered-historic-world-cup-upset-cape-verde",
+    "https://www.espn.com/soccer/story/_/id/49263170/argentina-break-cape-verde-hearts-extra-world-cup-lionel-messi-scores",
+    "https://www.olympics.com/en/news/fifa-world-cup-2026-argentina-vs-cabo-verde-round-of-32-score-lineups-live-updates-lionel-messi",
+    "https://www.espn.com/soccer/story/_/id/49074487/cape-verde-gk-vozinha-stopped-world-cup-favourites-spain-gained-14m-followers",
+    "https://www.aljazeera.com/sports/2026/6/16/who-is-vozinha-cape-verdes-viral-goalkeeper-at-the-world-cup",
+    "https://www.pbs.org/newshour/amp/world/ap-report-fifa-lifts-u-s-player-baloguns-red-card-suspension-at-world-cup-after-trump-calls-infantino",
+    "https://www.cnn.com/2026/07/05/sport/folarin-balogun-eligible-to-play",
+    "https://thehill.com/policy/sports-gaming/5954150-fifa-world-cup-folarin-balogun-red-card-trump/",
+    "https://www.foxsports.com/stories/soccer/yamal-vs-ronaldo-part-2-spain-portugal-meet-world-cup-round-16",
+    "https://www.espn.com/soccer/story/_/id/49253213/portugal-ronaldo-survive-late-scare-croatia-world-cup",
+    "https://www.tsn.ca/soccer/fifa-world-cup/article/ronaldo-scores-first-world-cup-knockout-stage-goal/",
+    "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/cristiano-ronaldo-portugal-goal-record",
+    "https://www.espn.com/soccer/story/_/id/49157528/fifa-world-cup-2026-stats-cristiano-ronaldo-breaks-lionel-messi-record-england-unlucky-13-luka-modric-fourth-all-200",
+    "https://www.aljazeera.com/sports/2026/6/30/mbappe-and-barcola-score-as-france-shine-in-2-0-world-cup-defeat-of-sweden",
+    "https://www.espn.com/soccer/story/_/id/49230019/kylian-mbappe-france-sweden-world-cup-knockout-goal-record-2026",
+    "https://www.skysports.com/football/news/12098/13556951/world-cup-2026-golden-boot-race-lionel-messi-kylian-mbappe-harry-kane-and-erling-haaland-in-epic-battle",
+    "https://www.espn.com/soccer/story/_/id/49237509/harry-kane-breaks-pele-world-cup-goals-record",
+    "https://www.skysports.com/football/canada-vs-morocco/report/549854",
+    "https://www.espn.com/soccer/story/_/id/49270971/canada-jesse-marsch-world-cup-exit-morocco-were-better-team",
+    "https://www.theglobeandmail.com/sports/soccer/article-alphonso-davies-injury-canada-vs-morocco-fifa-world-cup/",
+    "https://www.aljazeera.com/sports/2026/6/30/morocco-netherlands-world-cup-knockout-penalty-shootout-saibari-diop-gakpo",
+    "https://www.euronews.com/2026/06/30/germany-and-netherlands-dumped-out-on-penalties-as-brazil-seal-late-win",
+    "https://en.wikipedia.org/wiki/List_of_2026_FIFA_World_Cup_controversies",
+    "https://www.aljazeera.com/sports/2026/6/28/world-cup-2026-most-controversial-var-officiating-decisions-in-group-stage",
+    "https://www.espn.com/soccer/story/_/id/49261423/world-cup-history-mohamed-salah-egypt-penalty-shootout-australia",
+    "https://www.aljazeera.com/sports/2026/7/3/egypt-beat-australia-on-penalties-to-win-first-world-cup-knockout-match",
+    "https://www.beinsports.com/en-us/soccer/fifa-world-cup-2026/articles/mohamed-salah-makes-world-cup-history-breaks-down-in-tears-2026-07-04",
+    "https://www.beinsports.com/en-us/soccer/fifa-world-cup-2026/articles/gilberto-mora-makes-world-cup-history-only-pel%C3%A9-started-younger-2026-07-02",
+    "https://www.espn.com/soccer/story/_/id/48999966/mexico-gilberto-mora-poised-world-cup-breakout-star-guy-different",
+    "https://www.squawka.com/us/news/gilberto-mora-stats/",
+    "https://abc7.com/post/world-cup-2026-mexico-england-round-16-match-delayed-1-hour-due-thunderstorm/19454562/",
+    "https://www.espn.com/soccer/story/_/id/49280042/mexico-england-live-world-cup-2026-latest-updates-commentary-score-result",
+    "https://www.espn.com/soccer/story/_/id/49226479/son-heung-min-indescribably-hurt-south-korea-world-cup-exit",
+    "https://www.espn.com/soccer/story/_/id/49170133/south-korea-drop-captain-son-heung-min-world-cup-decider",
+    "https://www.espn.com/soccer/story/_/id/49119070/christian-pulisic-sits-us-finds-way-vs-australia-reach-world-cup-knockout-rounds",
+    "https://www.si.com/soccer/usmnt-projected-starting-lineup-vs-belgium-how-pochettino-can-manage-without-balogun",
+    "https://www.aljazeera.com/sports/2026/7/4/ticket-prices-plunge-for-us-belgium-world-cup-last-16-match",
+    "https://www.skysports.com/football/news/12098/13558812/world-cup-2026-ivory-coast-1-2-norway-erling-haaland-scores-dramatic-winner-to-set-up-last-16-clash-with-brazil",
+    "https://time.com/7303535/extreme-heat-fifa-world-cup-2026/",
+    "https://www.forbes.com/sites/ianquillen/2026/07/02/amid-extreme-heat-fifa-should-delay-france-vs-paraguay-until-evening/",
+    "https://www.espn.com/soccer/story/_/id/45703299/club-world-cup-heat-usa-mexico-fifa-2026-world-cup-concerns-temperatures-cooling-breaks",
+    "https://khelnow.com/football/breakout-youngsters-fifa-world-cup-2026",
+    "https://www.espn.com/soccer/story/_/id/49152393/world-cup-2026-which-teams-eliminated",
+    "https://www.nbcnews.com/sports/soccer/live-blog/fifa-world-cup-2026-june-16-messi-argentia-live-updates-rcna350195"
+   ]
+  },
+  "verification": null
+ }
+}
