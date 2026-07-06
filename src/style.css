@@ -265,16 +265,36 @@ p{text-wrap:pretty}
 .prow.dim2{opacity:.5}
 
 /* ---------- map ---------- */
-.mapcard{padding:6px; overflow:hidden}
-.mapcard svg{display:block; width:100%; height:auto; border-radius:10px}
-.map-toggle{display:flex; gap:8px; margin:12px 0}
+.map-toggle{display:flex; gap:8px; margin:12px 0; align-items:center}
 .chip{font-size:12px; font-weight:600; padding:7px 14px; border-radius:99px; border:1px solid var(--line); color:var(--muted); background:var(--g850)}
 .chip.on{color:var(--g950); background:var(--gold); border-color:var(--gold)}
+/* interactive journey map */
+.mapwrap{position:relative; height:60vh; min-height:360px; border-radius:16px; overflow:hidden;
+  border:1px solid var(--line2); background:#0A120C; touch-action:none; cursor:grab; -webkit-user-select:none; user-select:none}
+.mapwrap.grabbing{cursor:grabbing}
+.mapwrap svg{width:100%; height:100%; display:block}
+@media(min-width:900px){ .mapwrap{height:66vh} }
+.arcbase{fill:none; stroke-width:1.5; opacity:.34}
+.arcflow{fill:none; stroke-width:2; opacity:.92; stroke-linecap:round; stroke-dasharray:3 8; animation:flow 1.05s linear infinite}
+@keyframes flow{to{stroke-dashoffset:-11}}
+.archit{fill:none; stroke:transparent; stroke-width:16; cursor:pointer}
+.mk{cursor:pointer}
+.mk.face .face-ring{fill:none; stroke-width:2.2; transition:stroke-width .12s}
+.mk.face:hover .face-ring{stroke-width:3.4}
+.mk .ini2{font-family:var(--disp); font-size:12px; fill:#EAF1EB; text-anchor:middle; dominant-baseline:central}
+.club-dia{fill:#EAF1EB; stroke:#070C09; stroke-width:1}
+.arrowhead{stroke:none}
+.mapzoom{position:absolute; top:10px; right:10px; z-index:4; display:flex; flex-direction:column; gap:6px}
+.mapzoom button{width:38px; height:38px; border-radius:10px; background:rgba(9,15,11,.82); -webkit-backdrop-filter:blur(8px); backdrop-filter:blur(8px);
+  border:1px solid var(--line2); color:var(--text); font-size:19px; line-height:1; display:flex; align-items:center; justify-content:center}
+.mapzoom button:active{transform:scale(.94)}
+.maphint{position:absolute; left:10px; bottom:10px; z-index:4; font-size:10.5px; letter-spacing:.03em; color:var(--muted);
+  background:rgba(9,15,11,.72); padding:5px 9px; border-radius:8px; pointer-events:none}
 .maplegend{display:flex; gap:16px; flex-wrap:wrap; font-size:11.5px; color:var(--muted); padding:10px 6px 4px}
-.maplegend i{display:inline-block; width:9px; height:9px; border-radius:50%; margin-right:5px; vertical-align:-1px}
-.arc{fill:none; stroke-width:1.4; opacity:.65}
-.archit{fill:none; stroke:transparent; stroke-width:12; cursor:pointer}
-@keyframes drawin{to{stroke-dashoffset:0}}
+.maplegend i{display:inline-block; width:11px; height:11px; margin-right:6px; vertical-align:-1px}
+.maplegend .lg-face{border-radius:50%; background:var(--gold); border:1.5px solid var(--goldhi)}
+.maplegend .lg-arrow{width:0; height:0; border-left:8px solid var(--gold); border-top:4px solid transparent; border-bottom:4px solid transparent; border-radius:0}
+@media(prefers-reduced-motion:reduce){ .arcflow{animation:none; stroke-dasharray:none; opacity:.7} }
 
 /* ---------- digest ---------- */
 .digest .pt{display:flex; gap:12px; padding:13px 0; border-top:1px solid var(--line)}

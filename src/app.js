@@ -50,6 +50,9 @@ const S = {
   view: 'home',
   modal: null,         // playerId
   mapMode: 'all',      // 'all' | playerId
+  cam: null,           // journey-map camera {k,x,y}; null => reframe on next render
+  mapDirty: true,      // reframe against the true visible region on next bind
+  mapVV: null,         // measured visible viewBox rect
   filters: { team: '', pos: '', tier: '', status: '', q: '' },
   sort: 'default',     // default | goals | assists | saves
   busy: {},            // refresh spinners
@@ -528,60 +531,166 @@ function arcPath(a, b) {
   return `M${x1.toFixed(1)} ${y1.toFixed(1)} Q${(mx + px * lift).toFixed(1)} ${(my + py * lift).toFixed(1)} ${x2.toFixed(1)} ${y2.toFixed(1)}`;
 }
 function journeyPlayers() {
-  return S.data.players.filter(p => p.tier === 1 && p.birthplace && p.birthplace.latLng && p.clubLatLng);
+  return S.data.players.filter(p => p.birthplace && p.birthplace.latLng && p.clubLatLng);
+}
+// ---- camera (Google-Maps-style zoom + pan over the equirectangular projection) ----
+const VIEW_W = 1000, VIEW_H = 460, K_MIN = 1, K_MAX = 14;
+function mapList() { const solo = S.mapMode !== 'all' && player(S.mapMode); return solo ? [solo] : journeyPlayers(); }
+// the viewBox rectangle actually visible in the SVG element (accounts for preserveAspectRatio)
+function curVV() { return S.mapVV || { x0: 0, y0: 0, x1: VIEW_W, y1: VIEW_H }; }
+function computeVV(svg) {
+  try {
+    const inv = svg.getScreenCTM().inverse(), r = svg.getBoundingClientRect();
+    const tl = new DOMPoint(r.left, r.top).matrixTransform(inv);
+    const br = new DOMPoint(r.right, r.bottom).matrixTransform(inv);
+    return { x0: tl.x, y0: tl.y, x1: br.x, y1: br.y };
+  } catch (_) { return null; }
+}
+function frameCam(list) {
+  const vv = curVV(), VW = vv.x1 - vv.x0, VH = vv.y1 - vv.y0;
+  const pts = list.flatMap(p => [prj(...p.birthplace.latLng), prj(...p.clubLatLng)]);
+  if (!pts.length) return { k: 1, x: 0, y: 0 };
+  const xs = pts.map(p => p[0]), ys = pts.map(p => p[1]);
+  // padding as a fraction of the span so tight (single-player) pairs still zoom in close
+  const single = list.length === 1;
+  const spanX = Math.max(...xs) - Math.min(...xs), spanY = Math.max(...ys) - Math.min(...ys);
+  const padX = single ? Math.max(28, spanX * 1.4) : 55, padY = single ? Math.max(24, spanY * 1.4) : 44;
+  const x0 = Math.min(...xs) - padX, x1 = Math.max(...xs) + padX, y0 = Math.min(...ys) - padY, y1 = Math.max(...ys) + padY;
+  const bw = Math.max(50, x1 - x0), bh = Math.max(50, y1 - y0);
+  const k = Math.max(K_MIN, Math.min(K_MAX, Math.min(VW / bw, VH / bh)));
+  const cx = (x0 + x1) / 2, cy = (y0 + y1) / 2;
+  const vcx = (vv.x0 + vv.x1) / 2, vcy = (vv.y0 + vv.y1) / 2;
+  const cam = { k, x: vcx - k * cx, y: vcy - k * cy };
+  clampPan(cam); return cam;
+}
+function clampPan(c) {
+  c.k = Math.max(K_MIN, Math.min(K_MAX, c.k));
+  const vv = curVV(), VW = vv.x1 - vv.x0, VH = vv.y1 - vv.y0;
+  const coverW = MAP_W * c.k, coverH = MAP_H * c.k;
+  // if the map is narrower than the view, center it; otherwise clamp to its edges
+  c.x = coverW <= VW ? vv.x0 + (VW - coverW) / 2 : Math.min(vv.x0, Math.max(vv.x1 - coverW, c.x));
+  c.y = coverH <= VH ? vv.y0 + (VH - coverH) / 2 : Math.min(vv.y0, Math.max(vv.y1 - coverH, c.y));
+}
+function applyCam(wrap) {
+  const svg = wrap && wrap.querySelector('svg'); if (!svg) return;
+  const c = S.cam;
+  svg.querySelector('.cam').setAttribute('transform', `translate(${c.x.toFixed(2)} ${c.y.toFixed(2)}) scale(${c.k.toFixed(4)})`);
+  svg.querySelectorAll('.mk').forEach(mk => {
+    const bx = +mk.dataset.bx, by = +mk.dataset.by;
+    mk.setAttribute('transform', `translate(${(c.k * bx + c.x).toFixed(2)} ${(c.k * by + c.y).toFixed(2)})`);
+  });
+}
+function zoomAt(vx, vy, f) {
+  const c = S.cam, k2 = Math.max(K_MIN, Math.min(K_MAX, c.k * f));
+  const bx = (vx - c.x) / c.k, by = (vy - c.y) / c.k;
+  c.x = vx - k2 * bx; c.y = vy - k2 * by; c.k = k2;
+  clampPan(c); applyCam($('#jmapwrap'));
+}
+function bindMap(wrap) {
+  if (!wrap || wrap.__bound) return; wrap.__bound = true;
+  const svg = wrap.querySelector('svg');
+  const toVB = (cx, cy) => { const pt = svg.createSVGPoint(); pt.x = cx; pt.y = cy; return pt.matrixTransform(svg.getScreenCTM().inverse()); };
+  // now that the element is laid out, measure the true visible region and (re)frame
+  const measure = (reframe) => {
+    const vv = computeVV(svg); if (vv) S.mapVV = vv;
+    if (reframe || !S.cam) { S.cam = frameCam(mapList()); S.mapDirty = false; } else { clampPan(S.cam); }
+    applyCam(wrap);
+  };
+  measure(S.mapDirty || !S.cam);
+  const onResize = () => { if (document.body.contains(wrap)) measure(false); else window.removeEventListener('resize', onResize); };
+  window.addEventListener('resize', onResize);
+  const pointers = new Map(); let last = null, pinch = 0, moved = 0;
+  wrap.addEventListener('pointerdown', e => {
+    if (e.target.closest('.mapzoom')) return;
+    pointers.set(e.pointerId, { x: e.clientX, y: e.clientY });
+    try { wrap.setPointerCapture(e.pointerId); } catch (_) {}
+    moved = 0; S.__mapDragged = false;
+    if (pointers.size === 1) { last = toVB(e.clientX, e.clientY); wrap.classList.add('grabbing'); }
+    else if (pointers.size === 2) { const p = [...pointers.values()]; pinch = Math.hypot(p[0].x - p[1].x, p[0].y - p[1].y); }
+  });
+  wrap.addEventListener('pointermove', e => {
+    if (!pointers.has(e.pointerId)) return;
+    const prev = pointers.get(e.pointerId);
+    moved += Math.abs(e.clientX - prev.x) + Math.abs(e.clientY - prev.y);
+    pointers.set(e.pointerId, { x: e.clientX, y: e.clientY });
+    if (moved > 6) S.__mapDragged = true;
+    if (pointers.size >= 2) {
+      const p = [...pointers.values()], dist = Math.hypot(p[0].x - p[1].x, p[0].y - p[1].y);
+      if (pinch > 0) { const vb = toVB((p[0].x + p[1].x) / 2, (p[0].y + p[1].y) / 2); zoomAt(vb.x, vb.y, dist / pinch); }
+      pinch = dist;
+    } else if (pointers.size === 1 && last) {
+      const cur = toVB(e.clientX, e.clientY);
+      S.cam.x += cur.x - last.x; S.cam.y += cur.y - last.y; clampPan(S.cam); applyCam(wrap);
+      last = toVB(e.clientX, e.clientY);
+    }
+  });
+  const up = e => {
+    pointers.delete(e.pointerId);
+    if (pointers.size < 2) pinch = 0;
+    if (pointers.size === 1) { const p = [...pointers.values()][0]; last = toVB(p.x, p.y); }
+    if (pointers.size === 0) { last = null; wrap.classList.remove('grabbing'); }
+  };
+  wrap.addEventListener('pointerup', up); wrap.addEventListener('pointercancel', up);
+  wrap.addEventListener('wheel', e => { e.preventDefault(); const vb = toVB(e.clientX, e.clientY); zoomAt(vb.x, vb.y, Math.exp(-e.deltaY * 0.0016)); }, { passive: false });
+  wrap.addEventListener('dblclick', e => { e.preventDefault(); const vb = toVB(e.clientX, e.clientY); zoomAt(vb.x, vb.y, 1.8); });
+  wrap.addEventListener('click', e => { if (S.__mapDragged) { e.stopPropagation(); e.preventDefault(); } }, true);
 }
 function vMap() {
-  const mode = S.mapMode;
-  const solo = mode !== 'all' && player(mode);
-  const list = solo ? [solo] : journeyPlayers();
-  let vb = MAP_VB;
-  {
-    const pts = list.flatMap(p => [prj(...p.birthplace.latLng), prj(...p.clubLatLng)]);
-    if (pts.length) {
-      const pad = solo ? 60 : 46, minW = solo ? 240 : 460;
-      const xs = pts.map(p => p[0]), ys = pts.map(p => p[1]);
-      let x0 = Math.min(...xs) - pad, x1 = Math.max(...xs) + pad, y0 = Math.min(...ys) - (pad - 6), y1 = Math.max(...ys) + (pad - 6);
-      let w = Math.max(minW, x1 - x0), h = Math.max(minW * 0.55, y1 - y0);
-      if (w / h > 1000 / 550) h = w * 0.55; else w = h / 0.55;
-      const cx = (x0 + x1) / 2, cy = (y0 + y1) / 2;
-      vb = { x: cx - w / 2, y: cy - h / 2, w, h };
-    }
-  }
-  const arcs = list.map((p, i) => {
-    const t = team(p.teamId) || {};
-    const a = prj(...p.birthplace.latLng), b = prj(...p.clubLatLng);
-    const d = arcPath(a, b);
-    const dash = reduceMotion ? '' : `stroke-dasharray:600;stroke-dashoffset:600;animation:drawin .9s ${(i * 0.03).toFixed(2)}s ease-out forwards`;
-    return `<path class="arc" d="${d}" style="stroke:${t.accentColor || '#D9B45C'};${dash}${solo ? ';stroke-width:2.4;opacity:.95' : ''}"/>
-      <path class="archit" d="${d}" data-act="open" data-p="${p.id}"><title>${esc(p.name)}</title></path>
-      <circle cx="${a[0].toFixed(1)}" cy="${a[1].toFixed(1)}" r="${solo ? 5 : 2.6}" fill="${t.accentColor || '#D9B45C'}" stroke="#070C09" stroke-width="1"/>
-      <rect x="${(b[0] - (solo ? 4.4 : 2.4)).toFixed(1)}" y="${(b[1] - (solo ? 4.4 : 2.4)).toFixed(1)}" width="${solo ? 8.8 : 4.8}" height="${solo ? 8.8 : 4.8}" transform="rotate(45 ${b[0].toFixed(1)} ${b[1].toFixed(1)})" fill="#EAF1EB" stroke="#070C09" stroke-width="1"/>`;
+  const solo = S.mapMode !== 'all' && player(S.mapMode);
+  const list = mapList();
+  if (!S.cam) S.cam = frameCam(list);
+  const c = S.cam;
+  const tf = (bx, by) => `translate(${(c.k * bx + c.x).toFixed(2)} ${(c.k * by + c.y).toFixed(2)})`;
+  const G = list.map(p => {
+    const t = team(p.teamId) || {}, color = t.accentColor || '#D9B45C';
+    const A = prj(...p.birthplace.latLng), B = prj(...p.clubLatLng);
+    const dx = B[0] - A[0], dy = B[1] - A[1], d = Math.hypot(dx, dy) || 1;
+    const mx = (A[0] + B[0]) / 2, my = (A[1] + B[1]) / 2, lift = Math.min(75, d * 0.28);
+    let px = -dy / d, py = dx / d; if (py > 0) { px = -px; py = -py; }
+    const C = [mx + px * lift, my + py * lift];
+    const path = `M${A[0].toFixed(1)} ${A[1].toFixed(1)} Q${C[0].toFixed(1)} ${C[1].toFixed(1)} ${B[0].toFixed(1)} ${B[1].toFixed(1)}`;
+    const ang = Math.atan2(B[1] - C[1], B[0] - C[0]) * 180 / Math.PI;
+    return { p, t, A, B, path, ang, color };
+  });
+  const arcs = G.map(g => `<path class="arcbase" d="${g.path}" style="stroke:${g.color}" vector-effect="non-scaling-stroke"/>` +
+    `<path class="arcflow" d="${g.path}" style="stroke:${g.color}" vector-effect="non-scaling-stroke"/>` +
+    `<path class="archit" d="${g.path}" data-act="open" data-p="${g.p.id}" vector-effect="non-scaling-stroke"></path>`).join('');
+  const markers = G.map(g => {
+    const face = g.p.photo
+      ? `<circle r="15.5" fill="#0b120e"/><image href="${g.p.photo}" x="-15" y="-15" width="30" height="30" clip-path="url(#faceclip)" preserveAspectRatio="xMidYMid slice"/>`
+      : `<circle r="15.5" fill="#101a13"/><text class="ini2">${initials(g.p.name)}</text>`;
+    const club = `<g class="mk club" data-bx="${g.B[0].toFixed(1)}" data-by="${g.B[1].toFixed(1)}" transform="${tf(g.B[0], g.B[1])}"><g transform="rotate(${g.ang.toFixed(1)})"><path class="arrowhead" d="M-6 0 L-15 -3.2 L-15 3.2 Z" style="fill:${g.color}"/></g><rect class="club-dia" x="-4.5" y="-4.5" width="9" height="9" transform="rotate(45)"/></g>`;
+    const faceMk = `<g class="mk face" data-act="open" data-p="${g.p.id}" data-bx="${g.A[0].toFixed(1)}" data-by="${g.A[1].toFixed(1)}" transform="${tf(g.A[0], g.A[1])}"><circle class="face-ring" r="16.5" style="stroke:${g.color}"/>${face}<title>${esc(g.p.name)} · born ${esc(g.p.birthplace.city)} · plays ${esc(g.p.clubCity || g.p.club || '')}</title></g>`;
+    return club + faceMk;
   }).join('');
-  const soloLabels = solo ? (() => {
-    const t = team(solo.teamId) || {};
-    const a = prj(...solo.birthplace.latLng), b = prj(...solo.clubLatLng);
-    const fs = Math.max(9, vb.w / 52);
-    const lab = (pt, txt, dyDir) => `<text x="${pt[0].toFixed(1)}" y="${(pt[1] + dyDir * fs * 1.25).toFixed(1)}" text-anchor="middle" font-size="${fs.toFixed(1)}" font-family="Barlow" font-weight="600" fill="#EAF1EB" stroke="#070C09" stroke-width="${(fs / 3.2).toFixed(1)}" paint-order="stroke">${esc(txt)}</text>`;
-    return lab(a, 'Born · ' + solo.birthplace.city, a[1] < b[1] ? -0.7 : 1.6) + lab(b, 'Club · ' + (solo.clubCity || solo.club), a[1] < b[1] ? 1.6 : -0.7);
-  })() : '';
   return `
-  <h2 class="sec" style="margin-top:20px">Journey map <span class="lbl">${solo ? esc(solo.name) : 'where talent is born vs where it plays'}</span></h2>
+  <h2 class="sec" style="margin-top:20px">Journey map <span class="lbl">${solo ? esc(solo.name) : 'born vs plays · drag, zoom, tap a face'}</span></h2>
   <div class="map-toggle">
-    <button class="chip ${!solo ? 'on' : ''}" data-act="map-all">All Tier 1 arcs</button>
-    ${solo ? `<button class="chip on" data-act="map-all" aria-label="Back to all">${esc(solo.name)} ✕</button>` : ''}
+    <button class="chip ${!solo ? 'on' : ''}" data-act="map-all">${solo ? '← All players' : 'All journeys'}</button>
+    ${solo ? `<span class="chip on">${esc(solo.name)}</span>` : ''}
   </div>
-  <div class="card mapcard">
-    <svg viewBox="${vb.x.toFixed(0)} ${vb.y.toFixed(0)} ${vb.w.toFixed(0)} ${vb.h.toFixed(0)}" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="World map of player journeys">
-      <rect x="-40" y="-40" width="1080" height="580" fill="#0A120C"/>
-      <path d="${LAND}" fill="#152018" stroke="#2A3E30" stroke-width="0.6" fill-rule="evenodd"/>
-      ${MICRO_ISLANDS.map(([la, ln]) => { const [x, y] = prj(la, ln); return `<circle cx="${x.toFixed(1)}" cy="${y.toFixed(1)}" r="1.1" fill="#152018" stroke="#2A3E30" stroke-width="0.5"/>`; }).join('')}
-      ${arcs}${soloLabels}
+  <div class="mapwrap" id="jmapwrap">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 ${VIEW_W} ${VIEW_H}" preserveAspectRatio="xMidYMid meet" role="img" aria-label="Zoomable map of player journeys">
+      <defs><clipPath id="faceclip"><circle r="15"/></clipPath></defs>
+      <g class="cam" transform="translate(${c.x.toFixed(2)} ${c.y.toFixed(2)}) scale(${c.k.toFixed(4)})">
+        <rect x="-400" y="-400" width="1800" height="1300" fill="#0A120C"/>
+        <path d="${LAND}" fill="#16241b" stroke="#2C4234" stroke-width="0.7" vector-effect="non-scaling-stroke" fill-rule="evenodd"/>
+        ${MICRO_ISLANDS.map(([la, ln]) => { const [x, y] = prj(la, ln); return `<circle cx="${x.toFixed(1)}" cy="${y.toFixed(1)}" r="1.4" fill="#16241b" stroke="#2C4234" stroke-width="0.5" vector-effect="non-scaling-stroke"/>`; }).join('')}
+        <g class="arclayer">${arcs}</g>
+      </g>
+      <g class="markers">${markers}</g>
     </svg>
+    <div class="mapzoom">
+      <button data-act="map-zin" aria-label="Zoom in">+</button>
+      <button data-act="map-zout" aria-label="Zoom out">−</button>
+      <button data-act="map-reset" aria-label="Reset view">⤢</button>
+    </div>
+    <div class="maphint">drag to move · scroll or pinch to zoom · tap a face</div>
   </div>
   <div class="maplegend">
-    <span><i style="background:var(--gold)"></i>birthplace (dot, team color)</span>
-    <span><i style="background:#EAF1EB;border-radius:2px"></i>club city (diamond)</span>
-    ${!solo ? '<span>tap an arc to open the player</span>' : ''}
+    <span><i class="lg-face"></i>birthplace (player face)</span>
+    <span><i style="background:#EAF1EB;border-radius:2px;transform:rotate(45deg)"></i>club city</span>
+    <span><i class="lg-arrow"></i>arrow points to where they play</span>
   </div>
   ${solo ? `<div class="card flat" style="margin-top:10px">
       <b>${(team(solo.teamId) || {}).flagEmoji || ''} ${esc(solo.name)}</b>
@@ -947,8 +1056,11 @@ document.addEventListener('click', e => {
     storageAPI.set('wc26-follows', JSON.stringify([...S.follows])).catch(() => {});
     render();
   }
-  else if (act === 'journey') { S.mapMode = el.dataset.p; S.modal = null; S.view = 'map'; render(); window.scrollTo(0, 0); }
-  else if (act === 'map-all') { S.mapMode = 'all'; render(); }
+  else if (act === 'journey') { S.mapMode = el.dataset.p; S.cam = null; S.mapDirty = true; S.modal = null; S.view = 'map'; render(); window.scrollTo(0, 0); }
+  else if (act === 'map-all') { S.mapMode = 'all'; S.cam = null; S.mapDirty = true; render(); }
+  else if (act === 'map-zin') { const v = curVV(); zoomAt((v.x0 + v.x1) / 2, (v.y0 + v.y1) / 2, 1.7); }
+  else if (act === 'map-zout') { const v = curVV(); zoomAt((v.x0 + v.x1) / 2, (v.y0 + v.y1) / 2, 1 / 1.7); }
+  else if (act === 'map-reset') { S.cam = frameCam(mapList()); applyCam($('#jmapwrap')); }
   else if (act === 'pin') {
     const mid = el.dataset.m, tid = el.dataset.t;
     if (S.pins[mid] === tid) delete S.pins[mid]; else S.pins[mid] = tid;
@@ -1001,6 +1113,7 @@ document.addEventListener('change', e => {
 function afterRender() {
   // keep the Q&A input addressable by Enter-to-ask
   const qi = $('#qa-input'); if (qi && S.modal) qi.dataset.p = S.modal;
+  if (S.view === 'map') { const wrap = $('#jmapwrap'); if (wrap) bindMap(wrap); }
 }
 
 /* ---------------- boot ---------------- */
