@@ -314,13 +314,14 @@ function pcard(p, rank) {
     <button class="star${fol ? ' on' : ''}" data-act="follow" data-p="${p.id}" aria-label="${fol ? 'Unfollow' : 'Follow'} ${esc(p.name)}" aria-pressed="${fol}">
       <svg viewBox="0 0 24 24"><path d="M12 3.6 14.6 9l5.9.6-4.4 4 1.3 5.8L12 16.4l-5.4 3 1.3-5.8-4.4-4L9.4 9z"/></svg></button>
     <button class="top" data-act="open" data-p="${p.id}" style="all:unset;cursor:pointer;display:flex;align-items:center;gap:9px">
-      <span class="avatar lg">${p.photo ? `<img src="${p.photo}" alt="">` : `<span class="ini">${initials(p.name)}</span>`}${p.number != null ? `<span class="kit num">${p.number}</span>` : ''}</span>
+      <span class="avatar lg">${p.photo ? `<img src="${p.photo}" alt="">` : `<span class="ini">${initials(p.name)}</span>`}</span>
       <span style="min-width:0">
         <span class="nm" style="display:block">${t.flagEmoji || ''} ${esc(p.name)}</span>
         <span class="cl">${esc(p.club || '')}</span>
       </span></button>
     <div style="display:flex;gap:6px;align-items:center;flex-wrap:wrap">
       <span class="posb">${p.position}</span>
+      ${p.number != null ? `<span class="jersey num">${p.number}</span>` : ''}
       ${p.tier === 1 ? '<span class="tierchip">TIER 1</span>' : p.custom ? '<span class="tierchip" style="color:var(--gold)">TRACKED</span>' : ''}
       ${dead ? '<span class="pill out">out</span>' : ''}
       ${(S.learned[p.id] || []).length ? `<span class="learnchip">✦ ${S.learned[p.id].length}</span>` : ''}

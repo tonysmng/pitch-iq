@@ -148,6 +148,11 @@ p{text-wrap:pretty}
   background:var(--gold); color:#141109; font-family:var(--disp); font-size:12px; line-height:22px; text-align:center; box-shadow:0 2px 6px rgba(0,0,0,.4)}
 .learnchip{font-size:9.5px; font-weight:700; letter-spacing:.06em; color:var(--goldhi); background:rgba(217,180,92,.13); padding:2.5px 6px; border-radius:5px}
 .num-chip{color:var(--goldhi) !important}
+/* jersey number chip on the card */
+.jersey{display:inline-flex; align-items:center; font-family:var(--disp); font-weight:400; font-size:13px; line-height:1;
+  letter-spacing:.02em; color:var(--goldhi); background:rgba(217,180,92,.12);
+  border:1px solid color-mix(in srgb, var(--gold) 32%, transparent); border-radius:5px; padding:3px 6px 2px}
+.jersey:before{content:'#'; font-family:var(--body); font-weight:700; font-size:9px; color:var(--gold); margin-right:1px; transform:translateY(-1px)}
 
 .players-head{display:flex; align-items:flex-end; justify-content:space-between; gap:12px; flex-wrap:wrap}
 .addbtn{padding:8px 14px; font-size:13px; align-self:center; white-space:nowrap}
@@ -3633,13 +3638,14 @@ function pcard(p, rank) {
     <button class="star${fol ? ' on' : ''}" data-act="follow" data-p="${p.id}" aria-label="${fol ? 'Unfollow' : 'Follow'} ${esc(p.name)}" aria-pressed="${fol}">
       <svg viewBox="0 0 24 24"><path d="M12 3.6 14.6 9l5.9.6-4.4 4 1.3 5.8L12 16.4l-5.4 3 1.3-5.8-4.4-4L9.4 9z"/></svg></button>
     <button class="top" data-act="open" data-p="${p.id}" style="all:unset;cursor:pointer;display:flex;align-items:center;gap:9px">
-      <span class="avatar lg">${p.photo ? `<img src="${p.photo}" alt="">` : `<span class="ini">${initials(p.name)}</span>`}${p.number != null ? `<span class="kit num">${p.number}</span>` : ''}</span>
+      <span class="avatar lg">${p.photo ? `<img src="${p.photo}" alt="">` : `<span class="ini">${initials(p.name)}</span>`}</span>
       <span style="min-width:0">
         <span class="nm" style="display:block">${t.flagEmoji || ''} ${esc(p.name)}</span>
         <span class="cl">${esc(p.club || '')}</span>
       </span></button>
     <div style="display:flex;gap:6px;align-items:center;flex-wrap:wrap">
       <span class="posb">${p.position}</span>
+      ${p.number != null ? `<span class="jersey num">${p.number}</span>` : ''}
       ${p.tier === 1 ? '<span class="tierchip">TIER 1</span>' : p.custom ? '<span class="tierchip" style="color:var(--gold)">TRACKED</span>' : ''}
       ${dead ? '<span class="pill out">out</span>' : ''}
       ${(S.learned[p.id] || []).length ? `<span class="learnchip">✦ ${S.learned[p.id].length}</span>` : ''}
